@@ -35,4 +35,6 @@ Repositori ini berisi data, skenario, dan hasil eksperimen pada riset evaluasi m
 Program Studi Teknik Informatika, Fakultas Teknik dan Ilmu Komputer  
 Universitas Komputer Indonesia
 
+**Email:** akabot.unikom@gmail.com
+
 _Last Updated: 2 Juni 2025_
