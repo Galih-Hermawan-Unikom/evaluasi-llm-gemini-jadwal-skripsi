@@ -1,0 +1,307 @@
+
+==================================================
+Selasa, 2 Januari 2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SELASA, 2-JANUARI-2024
+ARI SULISTIO
+1
+10118030
+Sistem Pengelolaan Pengetahuan Bimbingan Konseling 
+Menggunakan Metode Case Base Reasoning (CBR) dalam 
+Penanganan Masalah di SMK Medikacom
+Utami Dewi W, S.Kom., M.Kom
+09.15-10.30
+R6010
+Sufaatin, S.T., M.Kom.
+RIDWAN CAESARAHMAN JULIAN
+2
+10118410
+Pembangunan Smart Library dengan Context Aware System 
+pada Perpustakaan Teknik Informatika UNIKOM
+Hanhan Maulana, S.Kom., M.Kom
+10.30-11.45
+R6010
+Angga Setiyadi, S.Kom., M.Kom
+YANDIKA YUGA RABBANI
+3
+10119355
+Perancangan dan Pembangunan Aplikasi Tracking Real Time 
+Kendaraan Bermotor dengan Integritas Perangkat Global 
+Positioning System (GPS)
+Andri Heryandi, S.T., M.T.
+10.30-11.45
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+ANDIKA PUTRA
+4
+10119101
+Pembangunan Aplikasi Pendeteksi Penyakit pada Tanaman Sawi 
+Berbasis Android
+Angga Setiyadi, S.Kom., M.Kom
+11.45-13.00
+R6010
+Eko Budi Setiawan, S.Kom., M.T.
+ADRIAN MAIDIYANGSA
+5
+10119029
+PENERAPAN BLOCKCHAIN UNTUK PENCATATAN BANTUAN 
+LANGSUNG TUNAI KEMISKINAN EKSTREM DESA
+Irawan Afrianto, S.T., M.T.
+13.00-14.15
+R6028
+Richi Dwi Agustia, M.Kom.
+FIKRI MUHAMAD FAUZI
+6
+10119117
+Rancang Bangun Sistem Monitoring Udara Berbasis IoT dan 
+Teknologi Blockchain
+Irawan Afrianto, S.T., M.T.
+14.15-15.30
+R6010
+Dedeng Hirawan, S.Kom., M.Kom
+MUHAMMAD ELZA ABIEZAL
+7
+10119081
+Perancangan Sistem Pemantauan dan Alarm Peringatan Banjir 
+Berbasis Citra Satelit
+Richi Dwi Agustia, M.Kom.
+14.15-15.30
+R6028
+Didit Andri Jatmiko, S.Kom., M.T.
+Halaman ke-1
+
+
+
+==================================================
+Rabu, 3 Januari 2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+RABU, 3-JANUARI-2024
+MUHAMMAD KHATAMI
+1
+10119026
+Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada 
+Acara Job Fair
+Richi Dwi Agustia, M.Kom.
+08.00-09.15
+R6010
+Iskandar Ikbal, S.T., M.Kom.
+APID HARYANA
+2
+10119245
+Sistem Penentuan Kebutuhan Obat dan Alat Kesehatan 
+Menggunakan Metode Single Exponential Smooting di UPTD 
+Puskemas Talaga Kabupaten Majalengka
+Riani Lubis, S.T., M.T.
+08.00-09.15
+R6028
+Rani Susanto, S.Kom, M.Kom.
+MUHAMAD RIDWAN
+3
+10119251
+Pengembangan Prototipe Pendeteksi Pelanggaran Lalu Lintas 
+Berbasis IoT Menggunakan Algoritma Yolo
+Angga Setiyadi, S.Kom., M.Kom
+10.30-11.45
+R6010
+Irawan Afrianto, S.T., M.T.
+DIMAS AGUNG
+4
+10119306
+Pembangunan Telegram Messenger Chatbot Berbasis Natural 
+Language Processing untuk Otomatisasi Jawaban General 
+Question Seputar Bahasa Pemrograman Java
+Eko Budi Setiawan, S.Kom., M.T.
+10.30-11.45
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+FAUZAN MUHAMMAD A
+5
+10119901
+Pembangunan Aplikasi Pemesanan Tiket Shuttle Perdana Trans 
+Berbasis Web
+Eko Budi Setiawan, S.Kom., M.T.
+11.45-13.00
+R6010
+Chrismikha Haryanto, S.Kom.,M.Kom.
+MUHAMMAD FADILLAH ABDUL 
+AZIZ
+6
+10119319
+Implementasi Face Recognition untuk Mendeteksi Motivasi Siswa 
+dalam Proses Pembelajaran
+Sopian Alviana, S.Kom.,M.Kom.
+11.45-13.00
+R6028
+Angga Setiyadi, S.Kom., M.Kom
+Halaman ke-1
+
+
+
+==================================================
+Kamis, 4 Januari 2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+KAMIS, 4-JANUARI-2024
+ALDI ARDIANSAH
+1
+10118121
+Sistem Penentuan Jumlah Pengadaan Obat menggunakan 
+Metode Holt-Winters Exponential Smoothing di Puskesmas Way 
+Dente Lampung
+Tati Harihayati M., S.T., M.T.
+08.00-09.15
+R6010
+Riani Lubis, S.T., M.T.
+AENIK NUR AUFA
+2
+10118082
+Sistem Informasi Penentuan Strategi Promosi menggunakan 
+pendekatan Customer Relationship Management (CRM) di PT. 
+ELYPHSOFT TEKNOLOGI ASIA
+Anna Dara Andriana, S.Kom., M.Kom
+09.15-10.30
+R6028
+Utami Dewi W, S.Kom., M.Kom
+MUHAMMAD FARHAN
+3
+10119264
+Sistem Penentuan Jumlah Pembelian Bahan Baku Menggunakan 
+Metode Simple Moving Average di PT. TSTECH
+Anna Dara Andriana, S.Kom., M.Kom
+10.30-11.45
+R6028
+Utami Dewi W, S.Kom., M.Kom
+ALFITRA REZKI AMHAR
+4
+10118313
+Sistem Penjadwalan Akademik dan Aktivitas Pesantren Darul 
+Ikhlas Menggunakan Algoritma Constraint Satisfaction Problems
+Sufaatin, S.T., M.Kom.
+11.45-13.00
+R6010
+Anna Dara Andriana, S.Kom., M.Kom
+Halaman ke-1
+
+
+
+==================================================
+Jumat, 5 Januari 2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+JUMAT, 5-JANUARI-2024
+DAFFA SACOFI MUTAWAKKIL
+1
+10118401
+Sistem Penentuan Jumlah Persediaan Bahan Baku 
+Menggunakan Metode Simple Moving Average di PT. Langgeng 
+Iman Makmur
+Anna Dara Andriana, S.Kom., M.Kom
+08.00-09.15
+R6010
+Gentisya Tri Mardiani, S.Kom., M.Kom
+MUHAMMAD IRSYAD IBRAHIM
+2
+10119212
+Sistem Informasi Manajemen Produksi di CV. Vendorin Indonesia
+Sopian Alviana, S.Kom.,M.Kom.
+09.15-10.30
+R6010
+Anna Dara Andriana, S.Kom., M.Kom
+MOCHAMAD YUSUF ADHIYAKSA
+3
+10117172
+Sistem Pengelolaan Pengetahuan Tenaga Pengajar 
+Menggunakan Metode Boyer-Moore untuk Optimasi Pencarian 
+Pengetahuan Di SMK Negeri 5 Bandung
+Utami Dewi W, S.Kom., M.Kom
+10.30-11.45
+R6010
+Gentisya Tri Mardiani, S.Kom., M.Kom
+ANDREAS SURYADI
+4
+10119918
+Visualisasi Data Sistem Penjualan Barang di Aplikasi Belanja 
+Online Gramedia
+Alif Finandhita, S.Kom., M.T.
+10.30-11.45
+R6028
+Fakhrian Fadlia, S.Kom.M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Sabtu, 6 Januari 2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SABTU, 6-JANUARI-2024
+MOCH RIVALLY ILHAM BINTANG
+1
+10118314
+Reengineering pada Aplikasi Rumah Sakit Bunda Nanda
+Dian Dharmayanti, S.T., M.Kom.
+09.15-10.30
+R6010
+Fakhrian Fadlia, S.Kom.M.Kom.
+DEA INESIA SRI UTAMI
+2
+10119239
+Analisis Desain Interaksi Media Pembelajaran Sistem Peredaran 
+Darah untuk Tingkat Sekolah Dasar / Madrasah Ibtidaiyah
+Dian Dharmayanti, S.T., M.Kom.
+10.30-11.45
+R6010
+Alif Finandhita, S.Kom., M.T.
+JOHN PARDAMEAN NAPITUPULU
+3
+10119349
+Visualisasi Data Koperasi dan UKM Provinsi Sumatera Utara
+Alif Finandhita, S.Kom., M.T.
+13.00-14.15
+R6010
+Dian Dharmayanti, S.T., M.Kom.
+Halaman ke-1
+
+

@@ -1,0 +1,192 @@
+
+==================================================
+Jadwal Seminar Tanggal Senin, 3-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SENIN, 3-JUNI-2024
+RENDI JULIANTO
+1
+10120160
+Pembangunan Aplikasi Top Up Digital dengan Multi Supplier 
+(Studi Kasus : Toko Indah)
+Eko Budi Setiawan, S.Kom., M.T.
+09.15-10.30
+R6010
+Ir.Taryana Suryana, M.Kom.
+ERLANGGA ARDIANSYAH 
+RUKMANA
+2
+10121802
+Implementasi Convolutional Neural Network (CNN) dengan 
+Arsitektur DENSENET-201 untuk Klasifikasi Sampah Anorganik
+Irfan Maliki, S.T., M.T.
+10.30-11.45
+R6010
+Kania Evita Dewi, S.Pd., M.Si.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Selasa, 4-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SELASA, 4-JUNI-2024
+MUHAMMAD FAJAR RAMADHAN
+1
+10120752
+Desain Interaksi Media Pembelajaran Operasi Bilangan dalam 
+Bentuk Permainan Hewan dan Tata Surya untuk Anak 
+Diskalkulia di SMPLB-C Nike Ardilla
+Alif Finandhita, S.Kom., M.T.
+09.15-10.30
+R6010
+Dian Dharmayanti, S.T., M.Kom.
+MUHAMMAD RIZQY AKBAR
+2
+10120159
+Pembangunan Aplikasi Identifikasi Buah dan Rekomendasi 
+Healthy Drink
+Andri Heryandi, S.T., M.T.
+10.30-11.45
+R6010
+Ir.Taryana Suryana, M.Kom.
+IRSHAL MULKY HERLAMBANG
+3
+10120146
+Implementasi Algoritma Perlin Noise untuk Procedural Object 
+Generation dengan Layer-Based dan Overlapping Detection 
+dalam Video Game Menggunakan Unity Engine
+Irfan Maliki, S.T., M.T.
+10.30-11.45
+R6028
+Nelly Indriani W, S.Si., M.T.
+REDI NUR PAJRI
+4
+10120125
+Analisis Celah Keamanan dengan Metode PTES pada Keamanan 
+LMS UNIKOM
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6010
+Sopian Alviana, S.Kom.,M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Rabu, 5-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 5-JUNI-2024
+RISSOPAN PANJI PRAYOGI
+1
+10120729
+Klasifikasi Emosi pada Teks Media Sosial X (Twitter) Indonesia 
+Menggunakan Metode Neural Network
+Fakhrian Fadlia, S.Kom.M.Kom.
+09.15-10.30
+R6010
+Dian Dharmayanti, S.T., M.Kom.
+MUHAMMAD NUR ALVIANSYAH
+2
+10120907
+Analisis Metrik Horizontal Pod Autoscalling untuk Skalabilitas 
+Aplikasi Menggunakan Kubernetes
+Sopian Alviana, S.Kom.,M.Kom.
+09.15-10.30
+R6028
+Iskandar Ikbal, S.T., M.Kom.
+DYAZ AMRULLAH
+3
+10120260
+Visualisasi Data dalam Meningkatkan Program Akademik MTS 
+Negeri 3 Pandeglang
+Dian Dharmayanti, S.T., M.Kom.
+10.30-11.45
+R6010
+Fakhrian Fadlia, S.Kom.M.Kom.
+VIRA APRILLIA H
+4
+10120180
+Desain Interaksi Media Pembelajaran Pengenalan Hewan bagi 
+Anak Tunarungu Kelas 1 dan 2 SD Menggunakan User Centered 
+Design
+Alif Finandhita, S.Kom., M.T.
+13.00-14.15
+R6010
+Fakhrian Fadlia, S.Kom.M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Kamis, 6-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+KAMIS, 6-JUNI-2024
+AKHDAN RAFLY
+1
+10120181
+Sistem Penentuan Jumlah Pembelian Barang Menggunakan 
+Metode Single Exponential Smoothing di Toko Putra Subur 
+Makmur
+Rani Susanto, S.Kom, M.Kom.
+08.00-09.15
+R6010
+Gentisya Tri Mardiani, S.Kom., M.Kom
+MUHAMMAD AL ARDLIKA 
+PRIHASISWANA
+2
+10118339
+Pembangunan Aplikasi Pendeteksi Gerakan Siswa ketika Ujian 
+Memanfaatkan Sensor Kamera di SMA Tomo Kabupaten 
+Sumedang
+Chrismikha Haryanto, S.Kom.,M.Kom.
+09.15-10.30
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+ARDIAN JULIANTO SAGALA
+3
+10120233
+Situs Web Pemantauan Pesawat Terbang Rute Bandara 
+Indonesia
+Andri Heryandi, S.T., M.T.
+10.30-11.45
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Halaman ke-1
+
+

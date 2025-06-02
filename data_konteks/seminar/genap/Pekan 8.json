@@ -1,0 +1,170 @@
+{
+  "semester": "Genap",
+  "tahun_akademik": "2023/2024",
+  "pekan": 8,
+  "jenis": "Seminar",
+  "jadwal_harian": [
+    {
+      "tanggal": "2024-07-08",
+      "hari": "Senin",
+      "jadwal": [
+        {
+          "nim": "10120050",
+          "nama": "Ari Syafri",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Puskesmas Menggunakan Metode Performance Dashboard di UPTD Puskesmas Sagalaherang Kabupaten Subang",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Rani Susanto, S.Kom, M.Kom.",
+              "peran": "Reviewer"
+            },
+            {
+              "nama": "Tati Harihayati M., S.T., M.T.",
+              "peran": "Pembimbing"
+            }
+          ]
+        },
+        {
+          "nim": "10120721",
+          "nama": "Gibran Mahardhika",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Divisi Programming Menggunakan Metode Key Performance Indicator (KPI) di PT. Mediatama Kreasi Informatika",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Riani Lubis, S.T., M.T.",
+              "peran": "Reviewer"
+            },
+            {
+              "nama": "Tati Harihayati M., S.T., M.T.",
+              "peran": "Pembimbing"
+            }
+          ]
+        },
+        {
+          "nim": "10120121",
+          "nama": "Muhammad Emir Fadlyanto",
+          "judul": "Sistem Penentuan Jumlah Pembelian Bahan Baku Menggunakan Metode Economic Order Quantity Di PT. Tetianna Citra Selaras",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Rani Susanto, S.Kom, M.Kom.",
+              "peran": "Reviewer"
+            },
+            {
+              "nama": "Riani Lubis, S.T., M.T.",
+              "peran": "Pembimbing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-07-09",
+      "hari": "Selasa",
+      "jadwal": [
+        {
+          "nim": "10120026",
+          "nama": "Rizki Ramdani",
+          "judul": "Sistem Penentuan Jumlah Pengadaan Teh Menggunakan Metode Single Exponential Smoothing di PTP Nusantara 1 Regional 2 Kebun Rancabali",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Sufaatin, S.T., M.Kom.",
+              "peran": "Reviewer"
+            },
+            {
+              "nama": "Utami Dewi W, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            }
+          ]
+        },
+        {
+          "nim": "10118379",
+          "nama": "Luthfy Karliandi Nugraha",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Material Menggunakan Metode Economic Order Quantity (EOQ) di PT. Hasta Agung Nusantara Sentosa",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            },
+            {
+              "nama": "Hanhan Maulana, M.Kom., Ph.D.",
+              "peran": "Pembimbing"
+            }
+          ]
+        },
+        {
+          "nim": "10120058",
+          "nama": "Vidi Anandisa Fortuna",
+          "judul": "Sistem Penilaian Kinerja Supplier Menggunakan Metode Simple Additive Weighting di CV. Surya Kencana Lintas Yasa",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Anna Dara Andriana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            },
+            {
+              "nama": "Utami Dewi W, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-07-10",
+      "hari": "Rabu",
+      "jadwal": [
+        {
+          "nim": "10120730",
+          "nama": "Ariq Maulana Putra",
+          "judul": "Pengembangan Flow of Life: Game Adventure Menggunakan Unity",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Hanhan Maulana, M.Kom., Ph.D.",
+              "peran": "Reviewer"
+            },
+            {
+              "nama": "Iskandar Ikbal, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            }
+          ]
+        },
+        {
+          "nim": "10119086",
+          "nama": "Seldi Syahrizal",
+          "judul": "Pembangunan Aplikasi Pendeteksi Tingkat Kematangan Buah",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Reviewer"
+            },
+            {
+              "nama": "Ir.Taryana Suryana, M.Kom.",
+              "peran": "Pembimbing"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

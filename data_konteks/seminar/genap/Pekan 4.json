@@ -1,0 +1,854 @@
+{
+  "semester": "Genap",
+  "tahun_akademik": "2023/2024",
+  "pekan": 4,
+  "jenis": "Seminar",
+  "jadwal_harian": [
+    {
+      "tanggal": "2024-06-10",
+      "hari": "Senin",
+      "jadwal": [
+        {
+          "nim": "10120725",
+          "nama": "Mega Laelawati",
+          "judul": "Sistem Penentuan Jumlah Pengadaan Obat Menggunakan Metode Regresi Linier di Puskesmas Cikole",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Rani Susanto, S.Kom, M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Riani Lubis, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120117",
+          "nama": "Septyan Surya Jatnika",
+          "judul": "Sistem Penjadwalan Mata Pelajaran Menggunakan Algoritma Genetika di SMA Nasional Bandung",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Riani Lubis, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Tati Harihayati M., S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120090",
+          "nama": "Muhammad Rizky Muhyi",
+          "judul": "Pembangunan Aplikasi Top Up Digital di DM Sunthree Berbasis Website",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120139",
+          "nama": "Mochamad Ridho",
+          "judul": "Pembangunan Aplikasi Monitoring pada Anak Berbasis Android dengan Memanfaatkan Teknologi Geofencing dan Firebase",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120201",
+          "nama": "Ilham Ramdhan Putra Lesmana",
+          "judul": "Analisis Sentimen Berbasis Aspek terhadap Performa Tim Sepak Bola Indonesia U-17 Menggunakan LSTM",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Irfan Maliki, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Nelly Indriani W, S.Si., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120173",
+          "nama": "Jalis Ghulam A.Farid",
+          "judul": "Sistem Pendonor Darah untuk Meningkatkan Ketersediaan Pendonor Darah pada Situasi Darurat",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Iskandar Ikbal, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-06-11",
+      "hari": "Selasa",
+      "jadwal": [
+        {
+          "nim": "10120177",
+          "nama": "Bagus Muhammad Abul Wafa",
+          "judul": "Desain Interaksi Media Pembelajaran Huruf Hijaiyah bagi Anak Tunarungu SLB B SumberSari",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Galih Hermawan, S.Kom, M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120756",
+          "nama": "Nanda Yulia Nabilla",
+          "judul": "Pengaruh Word Normalization dan Levenshtein Distance pada Analisis Sentimen Cyberbullying terhadap Komentar Instagram",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Kania Evita Dewi, S.Pd., M.Si.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Nelly Indriani W, S.Si., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120085",
+          "nama": "Dion Cahyan",
+          "judul": "Sistem Penentuan Jumlah Pembelian Produk Menggunakan Metode Single Moving Average di PT. Panca Surya Cemerlang",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Utami Dewi W, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Anna Dara Andriana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10118379",
+          "nama": "Luthfy Karliandi Nugraha",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Material Menggunakan Metode Economic Order Quantity (EOQ) di PT. Hasta Agung Nusantara Sentosa",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Hanhan Maulana, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120267",
+          "nama": "Gerry Maulana",
+          "judul": "Penerapan Data Mining dalam Menentukan Strategi Promosi Penerimaan Mahasiswa Baru Menggunakan Algoritma K-Means",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6009",
+          "dosen": [
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Reviewer"
+            },
+            {
+              "nama": "Fakhrian Fadlia, S.Kom.M.Kom.",
+              "peran": "Pembimbing"
+            }
+          ]
+        },
+        {
+          "nim": "10120214",
+          "nama": "Rully Fadia",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Moving Average di CV. Persada Mandiri",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Utami Dewi W, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Anna Dara Andriana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120098",
+          "nama": "Muhammad Ezra Maulana",
+          "judul": "Analisis Sentimen Ulasan Aplikasi Blue Archive di Google Playstore Menggunakan Metode Smooth Support Vector Machine (SSVM)",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Irfan Maliki, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Nelly Indriani W, S.Si., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120709",
+          "nama": "Muhamad Rijal Hasanudin",
+          "judul": "Pembangunan Aplikasi Pemantauan Tingkat Stres dan Manajemen Kesehatan Mental Berbasis Android",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Hani Irmayanti, S.Kom.,M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120194",
+          "nama": "Oman Subadri",
+          "judul": "Analisis Deteksi Kebohongan Melalui Pergerakan Mata dengan Penerapan Independently Recurrent Neural Networks (IndRNN)",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Galih Hermawan, S.Kom, M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Ednawati Rainarli, S.Si., M.Si.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120276",
+          "nama": "Muhammad Furqan",
+          "judul": "Pembangunan Sistem Monitoring Network Infrastructure Link Aggregation Control Protocol (LACP) dan Network Attached Storage (NAS)",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Iskandar Ikbal, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Irawan Afrianto, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-06-12",
+      "hari": "Rabu",
+      "jadwal": [
+        {
+          "nim": "10121801",
+          "nama": "Mochamad Arival Khoiruddin Hidayat",
+          "judul": "Klasifikasi Kualitas Biji Kopi Berdasarkan Tingkat Kematangan Menggunakan Arsitektur Densenet-121",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Kania Evita Dewi, S.Pd., M.Si.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Galih Hermawan, S.Kom, M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120268",
+          "nama": "Muhammad Fanhash Ridhwan",
+          "judul": "Implementasi Data Mining untuk Menentukan Strategi Penjualan Buku di PT Yushistira Ghalia Indonesia Cabang UMK Bandung",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Ednawati Rainarli, S.Si., M.Si.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dian Dharmayanti, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120083",
+          "nama": "Siti Nurhaliza",
+          "judul": "Pembangunan Sistem Multimedia Interaktif Smart Health untuk Penyakit Komplikasi",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Iskandar Ikbal, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Richi Dwi Agustia, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10118424",
+          "nama": "Husni Rofiq Muttaqin",
+          "judul": "Pembangunan Cloud Computing Sistem CRM PT. Divistant Teknologi Indonesia Menggunakan Microsoft Azure",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Angga Setiyadi, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Irawan Afrianto, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120751",
+          "nama": "Muhammad Rio Erlangga",
+          "judul": "Implementasi Vulnerability Assessment and Penetration Testing (VAPT) dalam Pengujian Keamanan Jaringan Wireless Local Area Network (WLAN) di Cafe Rumah Kopi Abdul",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Richi Dwi Agustia, M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Sopian Alviana, S.Kom.,M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119344",
+          "nama": "Gunawan Wibisono",
+          "judul": "Pembangunan Game Edukasi Pembelajaran Bahasa Inggris Sebagai Sarana Pembelajaran Kosa Kata Menggunakan Teknologi Speech",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Angga Setiyadi, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Hanhan Maulana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120041",
+          "nama": "Azhalya Cantika Riaurin",
+          "judul": "Desain Interaksi Permainan Edukasi Penyusunan Struktur Kalimat bagi Anak Tuna Rungu Menggunakan Metode User Centered Design di SD SLB BC YPLAB Cibaduyut",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Fakhrian Fadlia, S.Kom.M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120918",
+          "nama": "Dennie Fuzi Alviyanies",
+          "judul": "Perancangan Design System dengan Metode Atomic Design pada Majelis Pendidikan Darul Hikam",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Fakhrian Fadlia, S.Kom.M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-06-13",
+      "hari": "Kamis",
+      "jadwal": [
+        {
+          "nim": "10120131",
+          "nama": "Rega Fauzan Yoseva",
+          "judul": "Sistem Penentuan Jumlah Pembelian Produk Menggunakan Metode Single Moving Average di Toko Oleh-Oleh KPSBU Lembang",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Anna Dara Andriana, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Rani Susanto, S.Kom, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120032",
+          "nama": "Hanif Amrullah Almuharam",
+          "judul": "Pembangunan Aplikasi Asisten Berbasis Android untuk Individu Disabilitas Penglihatan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120094",
+          "nama": "Tiara Trisanti Ramadhani",
+          "judul": "Sistem Penentuan Jumlah Pembelian Bahan Baku Resto Pawon Leyeh Leyeh Menggunakan Metode Single Exponential Smoothing di CV. Dunia Kreasi",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Rani Susanto, S.Kom, M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Sufaatin, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120009",
+          "nama": "Thoriq Hidayat",
+          "judul": "Pembangunan Aplikasi Translasi Multibahasa Menggunakan Voice Recognition Berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120253",
+          "nama": "Rifqi Aqila Zaidan",
+          "judul": "Pemanfaan Game sebagai Media Edukasi untuk Meningkatkan Pengetahuan Anak Tentang Pemilahan Sampah",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Hanhan Maulana, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Iskandar Ikbal, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120150",
+          "nama": "Rahmat",
+          "judul": "Sistem Optimalisasi Produksi Menggunakan Metode Rough Cut Capacity Planning (RCCP) di CV. Citra Perdana Gemilang",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Sufaatin, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Riani Lubis, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120011",
+          "nama": "Rasya Galih Eky Viryadani",
+          "judul": "Pembangunan Aplikasi Pencarian Lagu Nasional dengan Humming Suara Menggunakan Voice Recognition Berbasis Android",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dedeng Hirawan, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-06-14",
+      "hari": "Jumat",
+      "jadwal": [
+        {
+          "nim": "10119289",
+          "nama": "Dhifo Aksa Hermawan",
+          "judul": "Pembangunan Aplikasi Konversi Pulsa ke Mata Uang Digital Berbasis Website di PT. Fajar Ekosistem Digital",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120091",
+          "nama": "Tasya Maharatu",
+          "judul": "Sistem Penentuan Jumlah Pembelian Bahan Baku Menggunakan Metode Single Exponential Smoothing Di CV. Pustaka Bagus",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Anna Dara Andriana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120762",
+          "nama": "Reymunda Dwi Alfathur",
+          "judul": "Analisis Desain Interaksi Aplikasi e-Commerce Setoko Web terhadap Tunanetra",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Dian Dharmayanti, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120787",
+          "nama": "Muhamad Zulfikar Nurdiana",
+          "judul": "Sistem Penerimaan Pegawai Menggunakan Metode Simple Additive Weighting (SAW) di PT. Qtasnim Digital Teknologi",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Anna Dara Andriana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120764",
+          "nama": "Fajar Buana Hidayat",
+          "judul": "Penerapan Microservices pada Aplikasi Analisis Social Media Menggunakan Event Driven Architecture",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dian Dharmayanti, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120132",
+          "nama": "Resa Komara Akbari",
+          "judul": "Pengembangan dan Implementasi Aplikasi Ekstensi Chrome untuk Deteksi e-Mail Penipuan",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120765",
+          "nama": "Dendi Rizal Fauzi",
+          "judul": "Implementasi Arsitektur Serverless AWS pada Aplikasi Sistem Absensi KSU Postra",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Richi Dwi Agustia, M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Irawan Afrianto, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120742",
+          "nama": "Deni Wijaya",
+          "judul": "Sistem Penjadwalan Shift Perawat Menggunakan Algoritma Genetika di RSU Bhakti Asih Tangerang",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Tati Harihayati M., S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Sufaatin, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-06-15",
+      "hari": "Sabtu",
+      "jadwal": [
+        {
+          "nim": "10120708",
+          "nama": "Taufiq Qurohman Ruki",
+          "judul": "Visualisasi Data pada Departemen HRD PT. Dharma Polimetal Tbk.",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Dian Dharmayanti, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Fakhrian Fadlia, S.Kom.M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120008",
+          "nama": "William Marcellino Putra",
+          "judul": "Desain Interaksi Permainan Edukasi Makanan Bergizi Menyusun ISI PIRINGKU pada Anak Kelas III SDN Karang Mekar Mandiri 1 Cimahi",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Ednawati Rainarli, S.Si., M.Si.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120245",
+          "nama": "Alya Salsabila Wolio",
+          "judul": "Sistem Penentuan Kebutuhan Bahan Baku Material Bangunan Menggunakan Metode Material Requirement Planning (MRP) di PT. Insan Indah Utama Perkasa",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Riani Lubis, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Rani Susanto, S.Kom, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120036",
+          "nama": "Antonius Ryonathan P",
+          "judul": "Desain Interaksi Permainan Edukasi untuk Meningkatkan Kemampuan Sosial Emosional bagi Anak Disleksia di Indigrow Child Development Center Bandung",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dian Dharmayanti, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120265",
+          "nama": "Daffa Bagus Syach Putra",
+          "judul": "Sistem Penilaian Kinerja Karyawan Menggunakan Metode Profile Matching di Perdana Photo Group",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Utami Dewi W, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Sufaatin, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120053",
+          "nama": "Bayu Afriyadi",
+          "judul": "Pembangunan Aplikasi Pengolahan Sampah dan Marketplace Produk Daur Ulang Berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6009",
+          "dosen": [
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Ir.Taryana Suryana, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

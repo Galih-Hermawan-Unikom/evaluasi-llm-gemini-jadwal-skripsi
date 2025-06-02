@@ -1,0 +1,226 @@
+
+==================================================
+Jadwal Sidang Tanggal Senin, 29-Juli-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SENIN, 29-JULI-2024
+RIYANDA ADITIYA SENJAYA
+1
+10119359
+Pembangunan Aplikasi Platform Penyedia Layanan Laundry 
+Online
+Kania Evita Dewi, S.Pd., M.Si.
+11.45-13.00
+R6010
+Andri Heryandi, S.T., M.T.
+Rani Susanto, S.Kom, M.Kom.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Selasa, 30-Juli-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SELASA, 30-JULI-2024
+DANANG FADILA
+1
+10118158
+Pembangunan Aplikasi Kesehatan Jantung dan Rekomendasi 
+Musik Berdasarkan Denyut Jantung Memanfaatkan Teknologi 
+Smartband
+Kania Evita Dewi, S.Pd., M.Si.
+08.00-09.15
+R6010
+Ir.Taryana Suryana, M.Kom.
+Alif Finandhita, S.Kom., M.T.
+1.
+2.
+3.
+MOCH RIVALLY ILHAM BINTANG
+2
+10118314
+Reengineering pada Aplikasi Rumah Sakit Bunda Nanda
+Dian Dharmayanti, S.T., M.Kom.
+09.15-10.30
+R6010
+Alif Finandhita, S.Kom., M.T.
+Hanhan Maulana, M.Kom., Ph.D.
+1.
+2.
+3.
+AZHADI FADILA
+3
+10117277
+Sistem Informasi Pengolahan Data Rekam Medis di Klinik Pratama 
+Elfath
+Utami Dewi W, S.Kom., M.Kom
+09.15-10.30
+R6028
+Sufaatin, S.T., M.Kom.
+Nelly Indriani W, S.Si., M.T.
+1.
+2.
+3.
+DIKA RESTU YUGIYANTO
+4
+10117234
+Pembangunan Sistem Informasi  Barang Masuk dan Keluar di 
+Bengkel Dinamo Rantau
+Nelly Indriani W, S.Si., M.T.
+10.30-11.45
+R6010
+Angga Setiyadi, S.Kom., M.Kom
+Irfan Maliki, S.T., M.T.
+1.
+2.
+3.
+ARI SULISTIO
+5
+10118030
+Sistem Pengelolaan Pengetahuan Bimbingan Konseling 
+Menggunakan Metode Case Base Reasoning (CBR) dalam 
+Penanganan Masalah di SMK Medikacom
+Utami Dewi W, S.Kom., M.Kom
+10.30-11.45
+R6028
+Sufaatin, S.T., M.Kom.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+MUHAMAD ZULHAQI
+6
+10119231
+Pengembangan Permainan Trading Card YU-GI-OH dengan 
+Teknologi Augmented Reality berbasis Android
+Hanhan Maulana, M.Kom., Ph.D.
+10.30-11.45
+R6034
+Richi Dwi Agustia, M.Kom.
+Galih Hermawan, S.Kom, M.T.
+1.
+2.
+3.
+MUHAMMAD AZIDUDDIN HAJU
+7
+10117272
+Sistem Monitoring Pakan Kucing Otomatis Berdasarkan 
+Kebutuhan Kalori berbasis Internet of Things
+Sopian Alviana, S.Kom.,M.Kom.
+13.00-14.15
+R6010
+Iskandar Ikbal, S.T., M.Kom.
+Chrismikha Haryanto, S.Kom.,M.Kom.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Rabu, 31-Juli-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 31-JULI-2024
+GIVANSYACH ASTIN TAQWA
+1
+10118113
+Rancangan Aplikasi Edukasi Cerita Rakyat berbasis Visual 
+Novel Tiga Dimensi (3D) untuk Menumbuhkan Minat Baca pada 
+Anak
+Iskandar Ikbal, S.T., M.Kom.
+08.00-09.15
+R6028
+Irawan Afrianto, S.T., M.T.
+Chrismikha Haryanto, S.Kom.,M.Kom.
+1.
+2.
+3.
+MUHAMMAD KHATAMI
+2
+10119026
+Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada 
+Acara Job Fair
+Richi Dwi Agustia, M.Kom.
+09.15-10.30
+R6010
+Iskandar Ikbal, S.T., M.Kom.
+Fakhrian Fadlia, S.Kom.M.Kom.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Kamis, 1-Agustus-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+KAMIS, 1-AGUSTUS-2024
+MUHAMMAD NAUFAL FADHLUR 
+RAHMAN
+1
+10123703
+Sistem Informasi Persediaan Obat di Klinik Asri Husada II
+Sufaatin, S.T., M.Kom.
+10.30-11.45
+R6010
+Utami Dewi W, S.Kom., M.Kom
+Iskandar Ikbal, S.T., M.Kom.
+1.
+2.
+3.
+MUHAMMAD SYAHRUL RAMADAN
+2
+10117250
+Sistem Informasi Pengolahan Data Stok Obat di Blud UPT 
+Puskesmas Kaduhejo Kabupaten Pandeglang
+Sufaatin, S.T., M.Kom.
+11.45-13.00
+R6010
+Angga Setiyadi, S.Kom., M.Kom
+Utami Dewi W, S.Kom., M.Kom
+1.
+2.
+3.
+Halaman ke-1
+
+

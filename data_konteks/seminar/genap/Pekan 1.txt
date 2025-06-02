@@ -1,0 +1,52 @@
+
+==================================================
+Jadwal Seminar Tanggal Rabu, 22-Mei-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 22-MEI-2024
+MUHAMMAD ALVIN RIZQI 
+RAMADHAN
+1
+10119913
+Sistem Monitoring Penumpang Travel Berbasis Internet of Things
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6028
+Dedeng Hirawan, S.Kom., M.Kom
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Sabtu, 25-Mei-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SABTU, 25-MEI-2024
+MUSTAPHA HADZI
+1
+10120901
+Implementasi Konsep Gitops untuk Meningkatkan Efisiensi 
+Deployment Aplikasi Berbasi Cloud Native
+Irawan Afrianto, S.T., M.T.
+10.30-11.45
+R6028
+Angga Setiyadi, S.Kom., M.Kom
+Halaman ke-1
+
+

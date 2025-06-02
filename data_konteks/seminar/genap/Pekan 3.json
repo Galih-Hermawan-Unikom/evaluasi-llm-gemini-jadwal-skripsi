@@ -1,0 +1,266 @@
+{
+  "semester": "Genap",
+  "tahun_akademik": "2023/2024",
+  "pekan": 3,
+  "jenis": "Seminar",
+  "jadwal_harian": [
+    {
+      "tanggal": "2024-06-03",
+      "hari": "Senin",
+      "jadwal": [
+        {
+          "nim": "10120160",
+          "nama": "Rendi Julianto",
+          "judul": "Pembangunan Aplikasi Top Up Digital dengan Multi Supplier (Studi Kasus : Toko Indah)",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Ir.Taryana Suryana, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10121802",
+          "nama": "Erlangga Ardiansyah Rukmana",
+          "judul": "Implementasi Convolutional Neural Network (CNN) dengan Arsitektur DENSENET-201 untuk Klasifikasi Sampah Anorganik",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Irfan Maliki, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Kania Evita Dewi, S.Pd., M.Si.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-06-04",
+      "hari": "Selasa",
+      "jadwal": [
+        {
+          "nim": "10120752",
+          "nama": "Muhammad Fajar Ramadhan",
+          "judul": "Desain Interaksi Media Pembelajaran Operasi Bilangan dalam Bentuk Permainan Hewan dan Tata Surya untuk Anak Diskalkulia di SMPLB-C Nike Ardilla",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dian Dharmayanti, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120159",
+          "nama": "Muhammad Rizqy Akbar",
+          "judul": "Pembangunan Aplikasi Identifikasi Buah dan Rekomendasi Healthy Drink",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Ir.Taryana Suryana, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120146",
+          "nama": "Irshal Mulky Herlambang",
+          "judul": "Implementasi Algoritma Perlin Noise untuk Procedural Object Generation dengan Layer-Based dan Overlapping Detection dalam Video Game Menggunakan Unity Engine",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Irfan Maliki, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Nelly Indriani W, S.Si., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120125",
+          "nama": "Redi Nur Pajri",
+          "judul": "Analisis Celah Keamanan dengan Metode PTES pada Keamanan LMS UNIKOM",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Sopian Alviana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-06-05",
+      "hari": "Rabu",
+      "jadwal": [
+        {
+          "nim": "10120729",
+          "nama": "Rissopan Panji Prayogi",
+          "judul": "Klasifikasi Emosi pada Teks Media Sosial X (Twitter) Indonesia Menggunakan Metode Neural Network",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Fakhrian Fadlia, S.Kom.M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dian Dharmayanti, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120907",
+          "nama": "Muhammad Nur Alviansyah",
+          "judul": "Analisis Metrik Horizontal Pod Autoscaling untuk Skalabilitas Aplikasi Menggunakan Kubernetes",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Sopian Alviana, S.Kom.,M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Iskandar Ikbal, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120260",
+          "nama": "Dyaz Amrullah",
+          "judul": "Visualisasi Data dalam Meningkatkan Program Akademik MTS Negeri 3 Pandeglang",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Dian Dharmayanti, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Fakhrian Fadlia, S.Kom.M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120180",
+          "nama": "Vira Aprillia H",
+          "judul": "Desain Interaksi Media Pembelajaran Pengenalan Hewan bagi Anak Tunarungu Kelas 1 dan 2 SD Menggunakan User Centered Design",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Alif Finandhita, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Fakhrian Fadlia, S.Kom.M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-06-06",
+      "hari": "Kamis",
+      "jadwal": [
+        {
+          "nim": "10120181",
+          "nama": "Akhdan Rafly",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Exponential Smoothing di Toko Putra Subur Makmur",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Rani Susanto, S.Kom, M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10118339",
+          "nama": "Muhammad Al Ardlika Prihasiswana",
+          "judul": "Pembangunan Aplikasi Pendeteksi Gerakan Siswa ketika Ujian Memanfaatkan Sensor Kamera di SMA Tomo Kabupaten Sumedang",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10120233",
+          "nama": "Ardian Julianto Sagala",
+          "judul": "Situs Web Pemantauan Pesawat Terbang Rute Bandara Indonesia",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

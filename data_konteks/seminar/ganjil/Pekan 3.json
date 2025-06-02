@@ -1,0 +1,74 @@
+{
+  "semester": "Ganjil",
+  "tahun_akademik": "2023/2024",
+  "pekan": 3,
+  "jenis": "Seminar",
+  "jadwal_harian": [
+    {
+      "tanggal": "2023-12-11",
+      "hari": "Senin",
+      "jadwal": [
+        {
+          "nim": "10119193",
+          "nama": "Muhammad Rizky Pratama Solahudin",
+          "judul": "Penghitungan Kendaraan Bermotor Berdasarkan Jenis Dengan Menggunakan Metode YOLOv8",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Irfan Maliki, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Galih Hermawan, S.Kom, M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119028",
+          "nama": "Rizal Sihombing",
+          "judul": "Pembangunan Sistem Pemantauan Kebutuhan Air Minum pada Saat Olahraga Lari Berbasis Android",
+          "waktu_mulai": "15:30",
+          "waktu_selesai": "16:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Ir. Taryana Suryana, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2023-12-12",
+      "hari": "Selasa",
+      "jadwal": [
+        {
+          "nim": "10118147",
+          "nama": "Rizky Renaldi Cahya Febrian",
+          "judul": "Pembangunan Aplikasi Pendeteksi Plagiarisme Menggunakan API Open AI",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Chrismikha Haryanto, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

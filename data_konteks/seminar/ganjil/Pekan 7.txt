@@ -1,0 +1,83 @@
+
+==================================================
+Jumat, 12 Januari 2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+JUMAT, 12-JANUARI-2024
+SATYANING ANDARU BAWA 
+LAKSANA
+1
+10118058
+Penerapan Algoritma FP-Growth dalam Penentuan Pembelian 
+Persediaan Material pada Studi Kasus PT. Bintang Energi 
+Pratama
+Dian Dharmayanti, S.T., M.Kom.
+10.30-11.45
+R6010
+Alif Finandhita, S.Kom., M.T.
+Halaman ke-1
+
+
+
+==================================================
+Sabtu, 13 Januari 2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SABTU, 13-JANUARI-2024
+FATAHILLAH SATRIA BIMA SENO
+1
+10118039
+Sistem Penentuan Jumlah Pembelian Barang Menggunakan 
+Metode Weighted Moving Average (WMA) di PT. Mulia Tangguh 
+Persada
+Tati Harihayati M., S.T., M.T.
+09.15-10.30
+R6010
+Rani Susanto, S.Kom, M.Kom.
+FIKRI AKBARI KARIM
+2
+10119192
+Sistem Perbaikan Kualitas Pelayanan Menggunakan Metode 
+ServQual di PT. Wahyu Abadi Wisata 
+Rani Susanto, S.Kom, M.Kom.
+10.30-11.45
+R6010
+Gentisya Tri Mardiani, S.Kom., M.Kom
+MOCHAMAD YUSUF ADHIYAKSA
+3
+10117172
+Sistem Pengelolaan Pengetahuan Tenaga Pengajar 
+Menggunakan Metode Boyer-Moore untuk Optimasi Pencarian 
+Pengetahuan Di SMK Negeri 5 Bandung
+Utami Dewi W, S.Kom., M.Kom
+10.30-11.45
+R6028
+Tati Harihayati M., S.T., M.T.
+ARI VATRICOSADA PAKPAHAN
+4
+10118346
+Sistem Penentuan Jumlah Pembelian Produk dengan Metode 
+Weight Moving Average (WMA) di Bloom Petshop
+Rani Susanto, S.Kom, M.Kom.
+11.45-13.00
+R6010
+Sufaatin, S.T., M.Kom.
+Halaman ke-1
+
+

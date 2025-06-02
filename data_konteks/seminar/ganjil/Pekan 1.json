@@ -1,0 +1,440 @@
+{
+  "semester": "Ganjil",
+  "tahun_akademik": "2023/2024",
+  "pekan": 1,
+  "jenis": "Seminar",
+  "jadwal_harian": [
+    {
+      "tanggal": "2023-11-27",
+      "hari": "Senin",
+      "jadwal": [
+        {
+          "nim": "10118143",
+          "nama": "Wildan Lutfi Annanta",
+          "judul": "Rancang Bangun Kamera Dinamis sebagai Monitoring Pertumbuhan Tanaman berbasis Internet of Things (IoT)",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Dedeng Hirawan, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119048",
+          "nama": "Mochammad Faishal",
+          "judul": "Sistem Pelatihan Robot Lengan berbasis Visual",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Sopian Alviana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2023-11-28",
+      "hari": "Selasa",
+      "jadwal": [
+        {
+          "nim": "10118032",
+          "nama": "Guntur Maulana Ibrahim",
+          "judul": "Sistem Deteksi Morfologi Tanaman pada Proses Pertumbuhan Cabai Rawit berbasis Internet of Things",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Dedeng Hirawan, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Sopian Alviana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119246",
+          "nama": "Ferdi Bayu Febryan",
+          "judul": "Sistem Informasi Manajemen Produksi di PT. Sab Indo",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Sri Nurhayati, S.Si., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Utami Dewi W, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119069",
+          "nama": "Tri Novarel Rahmadhani",
+          "judul": "Sistem Kendali Robot Lengan berbasis Visual",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dedeng Hirawan, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2023-11-29",
+      "hari": "Rabu",
+      "jadwal": [
+        {
+          "nim": "10118135",
+          "nama": "Muhammad Iman Komarudiansyah",
+          "judul": "Sistem Informasi Manajemen Produksi Bawang Goreng di UD. Sinar Tani",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Utami Dewi W, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Rani Susanto, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119131",
+          "nama": "Dedus Lihoko",
+          "judul": "Pembangunan Aplikasi Monitoring Kehadiran Siswa berbasis Android di SMA Plus Al-Wahid",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Chrismikha Haryanto, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119173",
+          "nama": "Birliano Ekayan Arsyad",
+          "judul": "Pembangunan Aplikasi Pendeteksi Grammar dan Plagiat pada Karya Ilmiah Berbahasa Inggris berbasis Android",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Nelly Indriani W, S.Si., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Chrismikha Haryanto, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2023-11-30",
+      "hari": "Kamis",
+      "jadwal": [
+        {
+          "nim": "10119030",
+          "nama": "Rendy Dermawan",
+          "judul": "Sistem Informasi Manajemen Produksi di PT. Artha Savana Digital",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Riani Lubis, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119082",
+          "nama": "Zainul Rifqi Muwaffaq",
+          "judul": "Penerapan Augmented Reality dalam Pembentukan Imajinasi pada Buku Cerita Anak",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Hanhan Maulana, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Richi Dwi Agustia, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119305",
+          "nama": "Ivan Aprilman Hura",
+          "judul": "Sistem Informasi Strategi Promosi di PT Ayudha Wahana Jasa Dengan Pendekatan Customer Relationship Management (CRM)",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Sufaatin, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Utami Dewi W, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10117002",
+          "nama": "Putra Rizki Pratama Anny",
+          "judul": "Perancangan RPG Strategy Turn-Based Berdasarkan Dokumentasi Peristiwa Sejarah 'Bandung Lautan Api'",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Richi Dwi Agustia, M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Hanhan Maulana, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119902",
+          "nama": "Muhammad Nurkholiq",
+          "judul": "Pembangunan Aplikasi Disposisi Surat dengan Menerapkan Teknologi Tanda Tangan Digital pada Kantor Kecamatan Coblong Kota Bandung",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Hanhan Maulana, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10118103",
+          "nama": "Billy Muhammad Ridwan",
+          "judul": "Pembangunan Aplikasi Diagnosis Penyakit Ringworm Menggunakan Image Recognition Berbasis Android",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Chrismikha Haryanto, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2023-12-01",
+      "hari": "Jumat",
+      "jadwal": [
+        {
+          "nim": "10119225",
+          "nama": "Nuraeni Eka Susanti",
+          "judul": "Sistem Informasi Manajemen Produksi di PT. Compact Total Utama",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Sufaatin, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10117039",
+          "nama": "Muhammad Cahaya Adiransyah Tasman",
+          "judul": "Prototyping Smart Greenhouse dengan Kontroler Mobile Berbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Ir.Taryana Suryana, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119231",
+          "nama": "Muhamad Zulhaqi",
+          "judul": "Pengembangan Permainan Trading Card YU-GI-OH dengan Teknologi Augmented Reality berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Hanhan Maulana, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Richi Dwi Agustia, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119360",
+          "nama": "Mesya Hasdini Nur Faizah Mumtaz Syafitri",
+          "judul": "Pengaruh N-Gram dan Fasttext terhadap Topic Modelling pada Sosial Media Twitter mengenai 'Kampus Merdeka' Menggunakan Metode Latent Dirichlet Allocation (LDA)",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Nelly Indriani W, S.Si., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Kania Evita Dewi, S.Pd., M.Si.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2023-12-02",
+      "hari": "Sabtu",
+      "jadwal": [
+        {
+          "nim": "10119115",
+          "nama": "Weldira Tarigan",
+          "judul": "Sistem Prioritas Laporan Aduan Jabar Quick Responses berbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Irfan Maliki, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Ir. Taryana Suryana, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119170",
+          "nama": "Elbaruna Wifaldzan",
+          "judul": "Pembangunan Aplikasi E-Learning dengan Fitur Pendeteksi Plagiarisme di SMKN 1 Cipeundeuy",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Rani Susanto, S.Kom, M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119227",
+          "nama": "Naufal Hafizh Widiathalla",
+          "judul": "Pembangunan Sistem Informasi Manajemen Produksi Papan Selancar di PT. Kayu Surfboard",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Sri Nurhayati, S.Si., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Rani Susanto, S.Kom, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119190",
+          "nama": "Riswan Gani Padilah",
+          "judul": "Pengenalan Pola Citra Tulisan Tangan Bersambung Menggunakan Contour Analysis dan Convolutional Neural Network",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Irfan Maliki, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Nelly Indriani W, S.Si., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+
+==================================================
+Jadwal Seminar Tanggal Senin, 10-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SENIN, 10-JUNI-2024
+MEGA LAELAWATI
+1
+10120725
+Sistem Penentuan Jumlah Pengadaan Obat Menggunakan 
+Metode Regresi Linier di Puskesmas Cikole
+Rani Susanto, S.Kom, M.Kom.
+08.00-09.15
+R6028
+Riani Lubis, S.T., M.T.
+SEPTYAN SURYA JATNIKA
+2
+10120117
+Sistem Penjadwalan Mata Pelajaran Menggunakan Algoritma 
+Genetika di SMA Nasional Bandung
+Riani Lubis, S.T., M.T.
+09.15-10.30
+R6028
+Tati Harihayati M., S.T., M.T.
+MUHAMMAD RIZKY MUHYI
+3
+10120090
+Pembangunan Aplikasi Top Up Digital di DM Sunthree Berbasis 
+Website
+Eko Budi Setiawan, S.Kom., M.T.
+10.30-11.45
+R6010
+Andri Heryandi, S.T., M.T.
+MOCHAMAD RIDHO
+4
+10120139
+Pembangunan Aplikasi Monitoring pada Anak Berbasis Android 
+dengan Memanfaatkan Teknologi Geofencing dan Firebase
+Andri Heryandi, S.T., M.T.
+11.45-13.00
+R6010
+Eko Budi Setiawan, S.Kom., M.T.
+ILHAM RAMDHAN PUTRA 
+LESMANA
+5
+10120201
+Analisis Sentimen Berbasis Aspek terhadap Performa Tim 
+Sepak Bola Indonesia U-17 Menggunakan LSTM
+Irfan Maliki, S.T., M.T.
+13.00-14.15
+R6010
+Nelly Indriani W, S.Si., M.T.
+JALIS GHULAM A.FARID
+6
+10120173
+Sistem Pendonor Darah untuk Meningkatkan Ketersediaan 
+Pendonor Darah pada Situasi Darurat
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6028
+Iskandar Ikbal, S.T., M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Selasa, 11-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SELASA, 11-JUNI-2024
+BAGUS MUHAMMAD ABUL WAFA
+1
+10120177
+Desain Interaksi Media Pembelajaran Huruf Hijaiyah bagi Anak 
+Tunarungu SLB B SumberSari
+Galih Hermawan, S.Kom, M.T.
+08.00-09.15
+R6010
+Alif Finandhita, S.Kom., M.T.
+NANDA YULIA NABILLA
+2
+10120756
+Pengaruh Word Normalization dan Levenshtein Distance pada 
+Analisis Sentimen Cyberbullying terhadap Komentar Instagram
+Kania Evita Dewi, S.Pd., M.Si.
+08.00-09.15
+R6028
+Nelly Indriani W, S.Si., M.T.
+DION CAHYAN
+3
+10120085
+Sistem Penentuan Jumlah Pembelian Produk Menggunakan 
+Metode Single Moving Average di PT. Panca Surya Cemerlang 
+Utami Dewi W, S.Kom., M.Kom
+09.15-10.30
+R6010
+Anna Dara Andriana, S.Kom., M.Kom
+LUTHFY KARLIANDI NUGRAHA
+4
+10118379
+Sistem Penentuan Jumlah dan Waktu Pembelian Material 
+Menggunakan Metode Economic Order Quantity (EOQ) di PT. 
+Hasta Agung Nusantara Sentosa
+Hanhan Maulana, S.Kom., M.Kom
+09.15-10.30
+R6028
+Gentisya Tri Mardiani, S.Kom., M.Kom
+GERRY MAULANA
+5
+10120267
+Penerapan Data Mining dalam Menentukan Strategi Promosi 
+Penerimaan Mahasiswa Baru Menggunakan Algoritma K-Means
+RULLY FADIA
+6
+10120214
+Sistem Penentuan Jumlah Pembelian Barang Menggunakan 
+Metode Single Moving Average di CV. Persada Mandiri 
+Utami Dewi W, S.Kom., M.Kom
+10.30-11.45
+R6010
+Anna Dara Andriana, S.Kom., M.Kom
+MUHAMMAD EZRA MAULANA
+7
+10120098
+Analisis Sentimen Ulasan Aplikasi Blue Archive di Google 
+Playstore Menggunakan Metode Smooth Support Vector 
+Machine (SSVM)
+Irfan Maliki, S.T., M.T.
+10.30-11.45
+R6028
+Nelly Indriani W, S.Si., M.T.
+MUHAMAD RIJAL HASANUDIN
+8
+10120709
+Pembangunan Aplikasi Pemantauan Tingkat Stres dan 
+Manajemen Kesehatan Mental Berbasis Android
+Hani Irmayanti, S.Kom.,M.Kom.
+11.45-13.00
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+OMAN SUBADRI
+9
+10120194
+Analisis Deteksi Kebohongan Melalui Pergerakan Mata dengan 
+Penerapan Independently Recurrent Neural Networks (IndRNN)
+Galih Hermawan, S.Kom, M.T.
+13.00-14.15
+R6010
+Ednawati Rainarli, S.Si., M.Si.
+MUHAMMAD FURQAN
+10
+10120276
+Pembangunan Sistem Monitoring Network Infrastructure Link 
+Aggregation Control Protocol (LACP) dan Network Attached 
+Storage (NAS)
+Iskandar Ikbal, S.T., M.Kom.
+13.00-14.15
+R6028
+Irawan Afrianto, S.T., M.T.
+Halaman ke-1
+                                                                        09.15-10.30
+R6009
+Alif Finandhita, S.Kom., M.T.
+Fakhrian Fadlia, S.Kom.M.Kom.
+
+
+
+==================================================
+Jadwal Seminar Tanggal Rabu, 12-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 12-JUNI-2024
+MOCHAMAD ARIVAL KHOIRUDDIN 
+HIDAYAT
+1
+10121801
+Klasifikasi Kualitas Biji Kopi Berdasarkan Tingkat Kematangan 
+Menggunakan Arsitektur Densenet-121
+Kania Evita Dewi, S.Pd., M.Si.
+08.00-09.15
+R6010
+Galih Hermawan, S.Kom, M.T.
+MUHAMMAD FANHASH RIDHWAN
+2
+10120268
+Implementasi Data Mining untuk Menentukan Strategi Penjualan 
+Buku di PT Yushistira Ghalia Indonesia Cabang UMK Bandung
+Ednawati Rainarli, S.Si., M.Si.
+09.15-10.30
+R6010
+Dian Dharmayanti, S.T., M.Kom.
+SITI NURHALIZA
+3
+10120083
+Pembangunan Sistem Multimedia Interaktif Smart Health untuk 
+Penyakit Komplikasi
+Iskandar Ikbal, S.T., M.Kom.
+09.15-10.30
+R6028
+Richi Dwi Agustia, M.Kom.
+HUSNI ROFIQ MUTTAQIN
+4
+10118424
+Pembangunan Cloud Computing Sistem CRM PT. Divistant 
+Teknologi Indonesia Menggunakan Microsoft Azure
+Angga Setiyadi, S.Kom., M.Kom
+10.30-11.45
+R6010
+Irawan Afrianto, S.T., M.T.
+MUHAMMAD RIO ERLANGGA
+5
+10120751
+Implementasi Vulnerability Assessment and Penetration Testing 
+(VAPT) dalam Pengujian Keamanan Jaringan Wireless Local 
+Area Network (WLAN) di Cafe Rumah Kopi Abdul
+Richi Dwi Agustia, M.Kom.
+10.30-11.45
+R6028
+Sopian Alviana, S.Kom.,M.Kom.
+GUNAWAN WIBISONO
+6
+10119344
+Pembangunan Game Edukasi Pembelajaran Bahasa Inggris 
+Sebagai Sarana Pembelajaran Kosa Kata Menggunakan 
+Teknologi Speech
+Angga Setiyadi, S.Kom., M.Kom
+11.45-13.00
+R6010
+Hanhan Maulana, S.Kom., M.Kom
+AZHALYA CANTIKA RIAURIN
+7
+10120041
+Desain Interaksi Permainan Edukasi Penyusunan Struktur 
+Kalimat bagi Anak Tuna Rungu Menggunakan Metode User 
+Centered Design di SD SLB BC YPLAB Cibaduyut
+Alif Finandhita, S.Kom., M.T.
+13.00-14.15
+R6028
+Fakhrian Fadlia, S.Kom.M.Kom.
+DENNIE FUZI ALVIYANIES
+8
+10120918
+Perancangan Design System dengan Metode Atomic Design 
+pada Majelis Pendidikan Darul Hikam
+Fakhrian Fadlia, S.Kom.M.Kom.
+14.15-15.30
+R6028
+Alif Finandhita, S.Kom., M.T.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Kamis, 13-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+KAMIS, 13-JUNI-2024
+REGA FAUZAN YOSEVA
+1
+10120131
+Sistem Penentuan Jumlah Pembelian Produk Menggunakan 
+Metode Single Moving Average di Toko Oleh-Oleh KPSBU 
+Lembang 
+Anna Dara Andriana, S.Kom., M.Kom
+08.00-09.15
+R6028
+Rani Susanto, S.Kom, M.Kom.
+HANIF AMRULLAH ALMUHARAM
+2
+10120032
+Pembangunan Aplikasi Asisten Berbasis Android untuk Individu 
+Disabilitas Penglihatan
+Chrismikha Haryanto, S.Kom.,M.Kom.
+09.15-10.30
+R6010
+Eko Budi Setiawan, S.Kom., M.T.
+TIARA TRISANTI RAMADHANI
+3
+10120094
+Sistem Penentuan Jumlah Pembelian Bahan Baku Resto Pawon 
+Leyeh Leyeh Menggunakan Metode Single Exponential 
+Smoothing di CV. Dunia Kreasi 
+Rani Susanto, S.Kom, M.Kom.
+09.15-10.30
+R6028
+Sufaatin, S.T., M.Kom.
+THORIQ HIDAYAT
+4
+10120009
+Pembangunan Aplikasi Translasi Multibahasa Menggunakan 
+Voice Recognition Berbasis Android
+Eko Budi Setiawan, S.Kom., M.T.
+10.30-11.45
+R6010
+Chrismikha Haryanto, S.Kom.,M.Kom.
+RIFQI AQILA ZAIDAN
+5
+10120253
+Pemanfaan Game sebagai Media Edukasi untuk Meningkatkan 
+Pengetahuan Anak Tentang Pemilahan Sampah
+Hanhan Maulana, S.Kom., M.Kom
+10.30-11.45
+R6028
+Iskandar Ikbal, S.T., M.Kom.
+RAHMAT
+6
+10120150
+Sistem Optimalisasi Produksi Menggunakan Metode Rough Cut 
+Capacity Planning (RCCP) di CV. Citra Perdana Gemilang 
+Sufaatin, S.T., M.Kom.
+11.45-13.00
+R6028
+Riani Lubis, S.T., M.T.
+RASYA GALIH EKY VIRYADANI
+7
+10120011
+Pembangunan Aplikasi Pencarian Lagu Nasional dengan 
+Humming Suara Menggunakan Voice Recognition Berbasis 
+Android
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6028
+Dedeng Hirawan, S.Kom., M.Kom
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Jumat, 14-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+JUMAT, 14-JUNI-2024
+DHIFO AKSA HERMAWAN
+1
+10119289
+Pembangunan Aplikasi Konversi Pulsa ke Mata Uang Digital 
+Berbasis Website di PT. Fajar Ekosistem Digital
+Chrismikha Haryanto, S.Kom.,M.Kom.
+08.00-09.15
+R6010
+Andri Heryandi, S.T., M.T.
+TASYA MAHARATU
+2
+10120091
+Sistem Penentuan Jumlah Pembelian Bahan Baku Menggunakan 
+Metode Single Exponential Smoothing Di CV. Pustaka Bagus 
+Gentisya Tri Mardiani, S.Kom., M.Kom
+08.00-09.15
+R6028
+Anna Dara Andriana, S.Kom., M.Kom
+REYMUNDA DWI ALFATHUR
+3
+10120762
+Analisis Desain Interaksi Aplikasi e-Commerce Setoko Web 
+terhadap Tunanetra
+Dian Dharmayanti, S.T., M.Kom.
+09.15-10.30
+R6010
+Alif Finandhita, S.Kom., M.T.
+MUHAMAD ZULFIKAR NURDIANA
+4
+10120787
+Sistem Penerimaan Pegawai Menggunakan Metode Simple 
+Additive Weighting (SAW) di PT. Qtasnim Digital Teknologi 
+Gentisya Tri Mardiani, S.Kom., M.Kom
+09.15-10.30
+R6028
+Anna Dara Andriana, S.Kom., M.Kom
+FAJAR BUANA HIDAYAT
+5
+10120764
+Penerapan Microservices pada Aplikasi Analisis Social Media 
+Menggunakan Event Driven Architecture
+Alif Finandhita, S.Kom., M.T.
+10.30-11.45
+R6010
+Dian Dharmayanti, S.T., M.Kom.
+RESA KOMARA AKBARI
+6
+10120132
+Pengembangan dan Implementasi Aplikasi Ekstensi Chrome 
+untuk Deteksi e-Mail Penipuan
+Andri Heryandi, S.T., M.T.
+10.30-11.45
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+DENDI RIZAL FAUZI
+7
+10120765
+Implementasi Arsitektur Serverless AWS pada Aplikasi Sistem 
+Absensi KSU Postra
+Richi Dwi Agustia, M.Kom.
+13.00-14.15
+R6010
+Irawan Afrianto, S.T., M.T.
+DENI WIJAYA
+8
+10120742
+Sistem Penjadwalan Shift Perawat Menggunakan Algoritma 
+Genetika di RSU Bhakti Asih Tangerang 
+Tati Harihayati M., S.T., M.T.
+13.00-14.15
+R6028
+Sufaatin, S.T., M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Sabtu, 15-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SABTU, 15-JUNI-2024
+TAUFIQ QUROHMAN RUKI
+1
+10120708
+Visualisasi Data pada Departemen HRD PT. Dharma Polimetal 
+Tbk.
+Dian Dharmayanti, S.T., M.Kom.
+08.00-09.15
+R6010
+Fakhrian Fadlia, S.Kom.M.Kom.
+WILLIAM MARCELLINO PUTRA
+2
+10120008
+Desain Interaksi Permainan Edukasi Makanan Bergizi Menyusun 
+ISI PIRINGKU pada Anak Kelas III SDN Karang Mekar Mandiri 1 
+Cimahi
+Ednawati Rainarli, S.Si., M.Si.
+09.15-10.30
+R6010
+Alif Finandhita, S.Kom., M.T.
+ALYA SALSABILA WOLIO
+3
+10120245
+Sistem Penentuan Kebutuhan Bahan Baku Material Bangunan 
+Menggunakan Metode Material Requirement Planning (MRP) di 
+PT. Insan Indah Utama Perkasa
+Riani Lubis, S.T., M.T.
+09.15-10.30
+R6028
+Rani Susanto, S.Kom, M.Kom.
+IRFAN CHOIRUDDIN ANWAR
+4
+10120010
+Pembangunan Aplikasi Pemesanan Tiket Bus Memanfaatkan API 
+Midtrans sebagai Payment Gateway dan Pemantauan Posisi 
+Bus Menggunakan GPS Berbasis Web
+ANTONIUS RYONATHAN P
+5
+10120036
+Desain Interaksi Permainan Edukasi untuk Meningkatkan 
+Kemampuan Sosial Emosional bagi Anak Disleksia di Indigrow 
+Child Development Center Bandung
+Alif Finandhita, S.Kom., M.T.
+10.30-11.45
+R6010
+Dian Dharmayanti, S.T., M.Kom.
+DAFFA BAGUS SYACH PUTRA
+6
+10120265
+Sistem Penilaian Kinerja Karyawan Menggunakan Metode Profile 
+Matching di Perdana Photo Group 
+Utami Dewi W, S.Kom., M.Kom
+10.30-11.45
+R6028
+Sufaatin, S.T., M.Kom.
+BAYU AFRIYADI
+7
+10120053
+Pembangunan Aplikasi Pengolahan Sampah dan Marketplace 
+Produk Daur Ulang Berbasis Android
+Halaman ke-1
+                                                                        09.15-10.30
+R6009
+Eko Budi Setiawan, S.Kom., M.T.
+Ir.Taryana Suryana, M.Kom.
+                                                                        10.30-11.45
+R6009
+Ir.Taryana Suryana, M.Kom.
+Eko Budi Setiawan, S.Kom., M.T.
+
+

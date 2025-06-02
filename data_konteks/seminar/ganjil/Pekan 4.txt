@@ -1,0 +1,158 @@
+
+==================================================
+Selasa, 19 Desember 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SELASA, 19-DESEMBER-2023
+AHMAD FIKRI MAULANA
+1
+10119106
+Pembangunan Aplikasi Pendeteksi Bahasa Isyarat 
+Memanfaatkan Tensorflow API dan Text to Speech API 
+Berbasis Android
+Galih Hermawan, S.Kom, M.T.
+08.00-09.15
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+MUHAMAD RAMADAN
+2
+10119004
+Pembangunan Aplikasi Monitoring Tanam Panen Tanaman Sawi
+Galih Hermawan, S.Kom, M.T.
+10.30-11.45
+R6010
+Ir.Taryana Suryana, M.Kom.
+DENDEN TRIANA
+3
+10119233
+Pembangunan Bot Optical Character Recognition untuk 
+Pelacakan Pengeluaran Finansial
+Eko Budi Setiawan, S.Kom., M.T.
+10.30-11.45
+R6028
+Andri Heryandi, S.T., M.T.
+HAFID RAMADHAN
+4
+10119089
+Pengembangan Mobile Ad Hoc Network di Daerah Minim Sinyal 
+Internet Menggunakan Metode Peer to Peer Berbasis Mikrotik 
+pada PT. Wamengkoli Jaya
+Iskandar Ikbal, S.T., M.Kom.
+14.15-15.30
+R6028
+Dedeng Hirawan, S.Kom., M.Kom
+Halaman ke-1
+
+
+
+==================================================
+Rabu, 20 Desember 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+RABU, 20-DESEMBER-2023
+DIMAS SENJANI SUKMA
+1
+10119285
+Pembangunan Aplikasi Pasar Online di PT. Harmoni Mitra 
+Jayandra
+Kania Evita Dewi, S.Pd., M.Si.
+08.00-09.15
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+SIMATUPANG RIO NUGRAHA
+2
+10119157
+Pembangunan Aplikasi Pengiklanan Jasa Berbasis Mobile
+Nelly Indriani W, S.Si., M.T.
+13.00-14.15
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Kamis, 21 Desember 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+KAMIS, 21-DESEMBER-2023
+MUHAMMAD IQBAL ROSYIDIN
+1
+10119209
+Sistem Penjadwalan Proyek Perangkat Lunak di PT.Swamedia 
+Informatika dengan Metode Agile
+Fakhrian Fadlia, S.Kom.M.Kom.
+08.00-09.15
+R6028
+Gentisya Tri Mardiani, S.Kom., M.Kom
+MUHAMMAD ALVIN RIZQI 
+RAMADHAN
+2
+10119913
+Sistem Monitoring Penumpang Travel Berbasis Internet of Things
+Didit Andri Jatmiko, S.Kom., M.T.
+10.30-11.45
+R6028
+Dedeng Hirawan, S.Kom., M.Kom
+Halaman ke-1
+
+
+
+==================================================
+Jumat, 22 Desember 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+JUMAT, 22-DESEMBER-2023
+FAJAR NUGRAHA
+1
+10119195
+Sistem Penilaian Kepuasan Pelanggan Menggunakan Metode 
+ServQual di PT. ATLANTIC AKSA GROUP
+Gentisya Tri Mardiani, S.Kom., M.Kom
+08.00-09.15
+R6028
+Sufaatin, S.T., M.Kom.
+RIZKI LAIL RAHMAN
+2
+10119255
+Aplikasi Pelaporan Petugas Dinas Perhubungan Memanfaatan 
+Kamera dan GPS
+Ir.Taryana Suryana, M.Kom.
+09.15-10.30
+R6028
+Andri Heryandi, S.T., M.T.
+Halaman ke-1
+
+

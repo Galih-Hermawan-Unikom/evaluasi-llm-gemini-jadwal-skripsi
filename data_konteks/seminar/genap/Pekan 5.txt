@@ -1,0 +1,491 @@
+
+==================================================
+Jadwal Seminar Tanggal Rabu, 19-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 19-JUNI-2024
+MUHAMMAD SALMAN AL FARISI
+1
+10118389
+Pembangunan Aplikasi Diet & Jogging Berbasis Android
+Hidayat, M.T.
+08.00-09.15
+R6010
+Chrismikha Haryanto, S.Kom.,M.Kom.
+BRAMANTYO BUDI JATMIKO
+2
+10120221
+Deteksi Objek Sampah Organik dan Anorganik dari Rumah 
+Tangga Menggunakan Metode You Only Look Once (YOLO) V8 
+Nelly Indriani W, S.Si., M.T.
+08.00-09.15
+R6028
+Galih Hermawan, S.Kom, M.T.
+CHIKA RIZKI NURAULIA
+3
+10120056
+Pembangunan Virtual Tour 360 Degree Panoramic sebagai 
+Media Penjualan Properti Berbasis Web
+Iskandar Ikbal, S.T., M.Kom.
+08.00-09.15
+tidak 
+Sopian Alviana, S.Kom.,M.Kom.
+ILHAM ASSIDIQ
+4
+10120728
+Pembangunan Aplikasi Game Edukasi dalam Pembelajaran 
+Mufrodat Bahasa Arab Kelas 5 di SD Al Ihsan Islamic School
+Hidayat, M.T.
+09.15-10.30
+R6010
+Hanhan Maulana, M.Kom., Ph.D.
+HABEAHAN LANDO RAY MAHA
+5
+10119327
+Pemilihan Fitur Menggunakan Gain Ratio untuk Mendeteksi Hoaks 
+pada Berita
+Dr. Ednawati Rainarli, S.Si., M.Si.
+09.15-10.30
+R6028
+Kania Evita Dewi, S.Pd., M.Si.
+SALSABILA MARHAN
+6
+10120272
+Implementasi Externally Hosted Private Cloud Aplikasi 
+Penyimpanan Data Menggunakan Nextcloud Di SMA Negeri 1 
+Citeureup
+Sopian Alviana, S.Kom.,M.Kom.
+09.15-10.30
+tidak 
+Iskandar Ikbal, S.T., M.Kom.
+IFANKA WIRALANGGA
+7
+10118089
+Game Pathway-Finding 3D Mencari Rute Terpendek 
+Menggunakan Algoritma A*(A-Star) dengan Optimasi Heapsort
+Irfan Maliki, S.T., M.T.
+10.30-11.45
+R6010
+Galih Hermawan, S.Kom, M.T.
+MUHAMMAD HILMAN RAHMAT
+8
+10120230
+Penerapan Data Mining untuk Menentukan Promosi Produk 
+Berdasarkan Pola Pembelian di Toko Bolu Pisang Bu Wita
+Fakhrian Fadlia, S.Kom.M.Kom.
+10.30-11.45
+R6028
+Dian Dharmayanti, S.T., M.Kom.
+TRI RAMDHAN SEPTIADI
+9
+10120232
+Pembangunan Aplikasi Pemanfaatan Kualitas Tidur Berbasis 
+Android
+Eko Budi Setiawan, S.Kom., M.T.
+10.30-11.45
+tidak 
+Ir.Taryana Suryana, M.Kom.
+TAUFIQ RIDHO ADI WASKITA
+10
+10120789
+Virtual Assistant untuk Desain Gitar di PT. Stranough Firma 
+Indonesia
+Richi Dwi Agustia, M.Kom.
+11.45-13.00
+R6010
+Hanhan Maulana, M.Kom., Ph.D.
+Halaman ke-1
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 19-JUNI-2024
+MULYANA
+11
+10119307
+Rancang Bangun Aplikasi Absensi Multiple Face Recognition di 
+SMP Pertiwi
+Andri Heryandi, S.T., M.T.
+11.45-13.00
+tidak 
+Eko Budi Setiawan, S.Kom., M.T.
+RUDIANSYAH ADI PRASETYO
+12
+10120001
+Pengembangan Teknologi Game Interaktif dalam Pendidikan 
+Lingkungan : Implementasi Game untuk Pemilahan dan 
+Pengelolaan Sampah
+Dedeng Hirawan, S.Kom., M.Kom
+13.00-14.15
+R6010
+Richi Dwi Agustia, M.Kom.
+DIAN RAHMAWATI
+13
+10120774
+Implementasi Data Mining dengan Algoritma Naive Bayes untuk 
+Klasifikasi Kelayakan Penerima Bantuan Sembako di Kel. 
+Cibeureum
+Alif Finandhita, S.Kom., M.T.
+13.00-14.15
+R6028
+Fakhrian Fadlia, S.Kom.M.Kom.
+Halaman ke-2
+
+
+
+==================================================
+Jadwal Seminar Tanggal Kamis, 20-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+KAMIS, 20-JUNI-2024
+MARTINUS CELVYN SITUMORANG
+1
+10120222
+Sistem Optimalisasi Mesin Produksi dengan Metode Overall 
+Equipment Effectiveness (OEE) di PT. Bandung Lautan Kemasan Gentisya Tri Mardiani, S.Kom., M.Kom
+08.00-09.15
+R6010
+Anna Dara Andriana, S.Kom., M.Kom
+FASYA MUTIARA PAGI
+2
+10120102
+Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi Tinder 
+dengan Metode Support Vector Machine
+Nelly Indriani W, S.Si., M.T.
+08.00-09.15
+R6028
+Kania Evita Dewi, S.Pd., M.Si.
+MUHAMAD RIZKY FAUZAN
+3
+10123702
+Sistem Rekomendasi Tanaman Berdasarkan Kesuburan Lahan 
+Berbasis Internet of Thing (IoT)
+Hanhan Maulana, M.Kom., Ph.D.
+09.15-10.30
+R6010
+Didit Andri Jatmiko, S.Kom., M.T.
+MUHAMMAD FADHLAN PUTRA F
+4
+10120012
+Sistem Pengadaan Persediaan Obat Menggunakan Metode 
+Fuzzy Time Series di PT. Laju Dhikara Abadi
+Sufaatin, S.T., M.Kom.
+09.15-10.30
+R6028
+Rani Susanto, S.Kom, M.Kom.
+MUH.YUSUF DALILUL FALIHIN 
+SYAHPUTRA
+5
+10120723
+Strategi Efektifitas Pemasaran UMKM di Kota Bandung untuk 
+Memaksimalkan Promosi Produk dengan Menggunakan 
+Whatsapp Cloud API
+Iskandar Ikbal, S.T., M.Kom.
+10.30-11.45
+R6010
+Didit Andri Jatmiko, S.Kom., M.T.
+AZHAR ALFAINI
+6
+10120079
+Sistem Penentuan Jumlah Pembelian Produk Menggunakan 
+Metode Single Moving Average di CV. Rumah Sablon 354
+Sufaatin, S.T., M.Kom.
+10.30-11.45
+R6028
+Utami Dewi W, S.Kom., M.Kom
+HILMI MUHAMMAD
+7
+10120706
+Clustering Menggunakan Algoritma K-Means untuk 
+Mengelompokkan Daerah dengan Tingkat Kriminalitas Tertinggi di 
+Wilayah Kota Bandung (Studi Kasus : Polrestabes Bandung)
+ZULFIKAR AZIZAN
+8
+10120236
+Penerapan JSON Web Token untuk Keamanan Autentikasi Web 
+Service Data Prestasi Mahasiswa Universitas Pendidikan 
+Indonesia
+BINTANG ZULHIKMAN HAKIM
+9
+10120167
+Sistem Monitoring dan Evaluasi Produksi Susu Menggunakan 
+Metode Key Performance Indicator di KPSBU Lembang
+Utami Dewi W, S.Kom., M.Kom
+11.45-13.00
+R6010
+Riani Lubis, S.T., M.T.
+MOCH. KAMALUDIN ICHSAN
+10
+10120170
+Sistem Manajemen Pembayaran Indekos Berbasis Internet of 
+Things
+Didit Andri Jatmiko, S.Kom., M.T.
+11.45-13.00
+R6028
+Hanhan Maulana, M.Kom., Ph.D.
+Halaman ke-1
+                                                                       10.30-11.45         Dago7
+Dian Dharmayanti, S.T., M.Kom.
+Fakhrian Fadlia, S.Kom.M.Kom.
+                                                                       10.30-11.45         R4417 
+Eko Budi Setiawan, S.Kom., M.T.
+Chrismikha Haryanto, S.Kom.,M.Kom.
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+KAMIS, 20-JUNI-2024
+HADI PRANATA JATI
+11
+10120763
+Implementasi Penetration Testing Dengan Metode Zero Entry 
+Hacking (ZEH) Pada Sistem Koperasi Serba Usaha Postra
+Richi Dwi Agustia, M.Kom.
+13.00-14.15
+R6010
+Irawan Afrianto, S.T., M.T.
+ABDUL AZIZ
+12
+10120714
+Sistem Penentuan Pembelian Bahan Baku Frame Menggunakan 
+Metode Economic Order Quantity (EOQ) pada Perdana Photo 
+Group
+Riani Lubis, S.T., M.T.
+13.00-14.15
+R6028
+Tati Harihayati M., S.T., M.T.
+Halaman ke-2
+
+
+
+==================================================
+Jadwal Seminar Tanggal Jumat, 21-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+JUMAT, 21-JUNI-2024
+INGTIAZ DYAH NURUL HIDAYAH
+1
+10119274
+Sistem Penjadwalan Tenaga Perawat Menggunakan Algoritma 
+Genetika di Rumah Sakit Angkatan Udara (RSAU) dr. M. Salamun Gentisya Tri Mardiani, S.Kom., M.Kom
+08.00-09.15
+R6010
+Tati Harihayati M., S.T., M.T.
+MUHAMMAD BAGAS ADIKARA
+2
+10120051
+Pembangunan Website Pembelajaran Grammar Bahasa Inggris 
+Melalui Gamifikasi
+Andri Heryandi, S.T., M.T.
+08.00-09.15
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+ARIQ FADHILAH SAPUTRA
+3
+10120034
+Sistem Monitoring dan Evaluasi Kinerja Klinik Menggunakan 
+Performance Dashboard di Klinik Pratama Pradita Bandung
+Tati Harihayati M., S.T., M.T.
+09.15-10.30
+R6010
+Sufaatin, S.T., M.Kom.
+YORA BARERA
+4
+10120903
+Optimasi dalam Sistem Aplikasi Pencatatan Data Produksi di P. 
+Kahatex dengan Memanfaatkan Teknologi Cloud Computing
+Chrismikha Haryanto, S.Kom.,M.Kom.
+09.15-10.30
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+FIRDAUS MUHAMMAD RIDHO
+5
+10120082
+Sistem Perbaikan Kualitas Layanan Menggunakan Metode 
+Servqual di Cafe Metavoya Of Foodstep 
+Anna Dara Andriana, S.Kom., M.Kom
+10.30-11.45
+R6010
+Gentisya Tri Mardiani, S.Kom., M.Kom
+SANSAN FAJRIAN
+6
+10120906
+Pembangunan Aplikasi Monitoring Proyek Berbasis Web 
+Memanfaatkan Teknologi Cloud di PT. Padepokan Tujuh SembilanIrfan Maliki, S.T., M.T.
+10.30-11.45
+R6028
+Andri Heryandi, S.T., M.T.
+ALFI ADITYA ZUFAR
+7
+10120254
+Pengembangan Sistem Pencatatan Ternak Sapi Digital Berbasis 
+QR Code Menggunakan Teknologi Blockchain
+RAYHAN RAHMAN MIRAJ 
+BUNYAMIN RUSTANDAR
+8
+10120114
+Reengineering Website Juragan Panel Menggunakan Metode 
+Clean Code
+AHMAD MUJAHID RAMDHANI
+9
+10120191
+Pengembangan Sistem Pemetaan Lahan Sawit dengan 
+Teknologi Blockchain
+Irawan Afrianto, S.T., M.T.
+13.00-14.15
+R6010
+Richi Dwi Agustia, M.Kom.
+EKY NUGRAHA HERIAWAN
+10
+10120066
+Sistem Monitoring Kegiatan Penjualan Menggunakan Metode 
+Performance Dashboard di PT. Yans Sumber Segar
+Sufaatin, S.T., M.Kom.
+13.00-14.15
+R6028
+Tati Harihayati M., S.T., M.T.
+Halaman ke-1
+                                                                        10.30-11.45        R5305 
+Alif Finandhita, S.Kom., M.T.
+Dian Dharmayanti, S.T., M.Kom.
+                                                                        10.30-11.45
+R5307
+Angga Setiyadi, S.Kom., M.Kom
+Irawan Afrianto, S.T., M.T.
+
+
+
+==================================================
+Jadwal Seminar Tanggal Sabtu, 22-Juni-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SABTU, 22-JUNI-2024
+ABDURRAZAK SYAKIR MUHARAM
+1
+10120188
+Penerapan Metode Social Network Analysis pada Media Sosial 
+X (Twitter) untuk Mengidentifikasi Buzzer
+WINDA ASMARAWATI
+2
+10120193
+Implementasi Deep Convolutional Generative Adversarial 
+Networks (DCGAN) untuk Augmentasi Data Dalam Deteksi 
+Penyakit Daun Padi
+Kania Evita Dewi, S.Pd., M.Si.
+09.15-10.30
+R6010
+Dr. Ednawati Rainarli, S.Si., M.Si.
+BAYU RIFKI ALGHIFARI
+3
+10120003
+Pembangunan Platform Media Sosial Omnichannel di CV. 
+Adikarya Infinit
+Ir.Taryana Suryana, M.Kom.
+09.15-10.30
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+MUHAMMAD ADILFI AL HAFIDZ
+4
+10120737
+Sistem Monitoring dan Evaluasi Penyelenggaraan Pelatihan dan 
+Fasilitator Menggunakan Metode Performance Dashboard di 
+Pusat Pengembangan Kepegawaian ASN BKN
+ADNAN AL-FARIZI RAHMAT
+5
+10120740
+Penerapan Data Mining untuk Mengetahui Topik dalam Media 
+Sosial Twitter
+EDDY ROCHMAN
+6
+10120052
+Sistem Penjadwalan Produksi Tas Menggunakan Metode 
+Shortest Prosesing Time (SPT) di CV. Idola Indonesia
+Tati Harihayati M., S.T., M.T.
+10.30-11.45
+R6010
+Utami Dewi W, S.Kom., M.Kom
+FADLAN ALFALAH BAIHAQI
+7
+10120084
+Pemantauan Ketersediaan Slot Parkir dengan Integrasi Sensor
+Ir.Taryana Suryana, M.Kom.
+10.30-11.45
+R6028
+Andri Heryandi, S.T., M.T.
+MAHENDRA NUGRAHA
+8
+10120015
+Sistem Optimalisasi Kebutuhan Bahan Baku Produksi Teh 
+Menggunakan Metode Simpleks di PT. Perkebunan Nusantara VIII 
+Kebun Ciater
+FIKRI ADAM PRATAMA SUTANTO
+9
+10120070
+Sistem Penentuan Jumlah Pembelian Aksesoris Kesehatan 
+Menggunakan Metode Weighted Moving Average di CV. Three 
+Star Cahaya Buana 
+Utami Dewi W, S.Kom., M.Kom
+11.45-13.00
+R6010
+Riani Lubis, S.T., M.T.
+Halaman ke-1
+                                                                        08.00-09.15
+Dago7 
+Dian Dharmayanti, S.T., M.Kom.
+Alif Finandhita, S.Kom., M.T.
+                                                                        09.15-10.30
+Dago7 
+Dian Dharmayanti, S.T., M.Kom.
+Fakhrian Fadlia, S.Kom.M.Kom.
+                                                                       09.15-10.30
+R6009
+Rani Susanto, S.Kom, M.Kom.
+Riani Lubis, S.T., M.T.
+                                                                        10.30-11.45
+R6009
+Gentisya Tri Mardiani, S.Kom., M.Kom
+Rani Susanto, S.Kom, M.Kom.
+
+

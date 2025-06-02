@@ -1,0 +1,231 @@
+
+==================================================
+Jadwal Seminar Tanggal Senin, 27-Mei-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SENIN, 27-MEI-2024
+ERIKO ANANTA
+1
+10120134
+Pengaruh Penerapan Frame Rate Terhadap Peningkatan 
+Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi lag 
+dalam Game Shooter Multiplayer
+Kania Evita Dewi, S.Pd., M.Si.
+09.15-10.30
+R6010
+Galih Hermawan, S.Kom, M.T.
+ARI VATRICOSADA PAKPAHAN
+2
+10118346
+Sistem Penentuan Jumlah Pembelian Produk dengan Metode 
+Weight Moving Average (WMA) di Bloom Petshop
+Rani Susanto, S.Kom, M.Kom.
+09.15-10.30
+R6028
+Tati Harihayati M., S.T., M.T.
+MUKHLIS NURYADI
+3
+10118097
+Implementasi Marketplace untuk Memfasilitasi Petani dan 
+Peternak Desa Cilodang
+Andri Heryandi, S.T., M.T.
+10.30-11.45
+R6010
+Eko Budi Setiawan, S.Kom., M.T.
+KHALFIN MOHAMAD FADILLAH
+4
+10119183
+Sistem Monitoring dan Evaluasi Sarana dan Prasarana dengan 
+Pendekatan Standar Nasional Pendidikan di SLB Negeri Subang
+Riani Lubis, S.T., M.T.
+10.30-11.45
+R6028
+Tati Harihayati M., S.T., M.T.
+RISTIAN ADITYA
+5
+10120917
+Pembangunan Aplikasi Digital Invitation
+Eko Budi Setiawan, S.Kom., M.T.
+11.45-13.00
+R6010
+Andri Heryandi, S.T., M.T.
+MUHAMMAD RIZALDI LUTHFIAN
+6
+10119348
+Sistem Monitoring dan Evaluasi Kesehatan Balita terhadap 
+Penyakit Stunting Mengunakan Metode Performance Dashboard 
+di Wilayah Puskesmas Cisaat Kabupaten Sukabumi
+Riani Lubis, S.T., M.T.
+11.45-13.00
+R6028
+Rani Susanto, S.Kom, M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Selasa, 28-Mei-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SELASA, 28-MEI-2024
+KESYA VICTORIA JOHANNIS
+1
+10118172
+Pendeteksian Sarkasme pada Komentar Twitter Menggunakan 
+Support Vector Machine (SVM)-Nearest Weighted K-Nearest 
+Neighbor
+Nelly Indriani W, S.Si., M.T.
+09.15-10.30
+R6010
+Irfan Maliki, S.T., M.T.
+MOCH RIVALLY ILHAM BINTANG
+2
+10118314
+Reengineering pada Aplikasi Rumah Sakit Bunda Nanda
+Dian Dharmayanti, S.T., M.Kom.
+09.15-10.30
+R6028
+Alif Finandhita, S.Kom., M.T.
+RAFI KHALIFANAN AZANAN
+3
+10119079
+Klasifikasi Citra Tulisan Tangan Aksara Sunda Menggunakan 
+Metode Vision Transformer(ViT)
+Irfan Maliki, S.T., M.T.
+10.30-11.45
+R6010
+Nelly Indriani W, S.Si., M.T.
+PUTRA RIZKI PRATAMA ANNY
+4
+10117002
+Perancangan RPG Startegy Turn-Base berdasar Dokumentasi 
+Peristiwa Sejarah "Bandung Lautan Api"
+Richi Dwi Agustia, M.Kom.
+10.30-11.45
+R6028
+Hanhan Maulana, S.Kom., M.Kom
+ARIE KEVIN TIMOTHY SEBAYANG
+5
+10119156
+Pembangunan Aplikasi Informasi Keadaan Jalan dengan 
+Memanfaatkan CCTV Dinas Perhubungan Berbasis Mobile
+Ir.Taryana Suryana, M.Kom.
+10.30-11.45
+LAB. 6
+Andri Heryandi, S.T., M.T.
+SITI KAMILA
+6
+10120112
+Sistem Prediksi Waktu Kedaluwarsa Daging Ayam
+Didit Andri Jatmiko, S.Kom., M.T.
+11.45-13.00
+R6028
+Hanhan Maulana, S.Kom., M.Kom
+FINA ANNISA RAHMASARI
+7
+10120179
+Game Interaktif Penyebarluasan Informasi HIV & AIDS pada 
+Kesehatan Masyarakat
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6028
+Iskandar Ikbal, S.T., M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Rabu, 29-Mei-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 29-MEI-2024
+GIVANSYACH ASTIN TAQWA
+1
+10118113
+Rancangan Aplikasi Edukasi Cerita Rakyat berbasis Visual 
+Novel Tiga Dimensi (3D) untuk Menumbuhkan Minat Baca pada 
+Anak
+Iskandar Ikbal, S.T., M.Kom.
+08.00-09.15
+R6028
+Irawan Afrianto, S.T., M.T.
+JOHNDY PANCA
+2
+10120905
+Analisis Efisiensi Horizontal Pod Autoscalling Kubernetes dalam 
+Mengelola Lonjakan Traffic pada Platform E-Learning Moodle
+Iskandar Ikbal, S.T., M.Kom.
+09.15-10.30
+R6010
+Sopian Alviana, S.Kom.,M.Kom.
+ALDY ROSYADI
+3
+10118186
+Sistem Rekomendasi Frame Kacamata berdasarkan Bentuk 
+Wajah berbasis Augmented Reality
+Richi Dwi Agustia, M.Kom.
+09.15-10.30
+R6028
+Irawan Afrianto, S.T., M.T.
+MUHAMAD ZULHAQI
+4
+10119231
+Pengembangan Permainan Trading Card YU-GI-OH dengan 
+Teknologi Augmented Reality berbasis Android
+Hanhan Maulana, S.Kom., M.Kom
+10.30-11.45
+R6028
+Richi Dwi Agustia, M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Kamis, 30-Mei-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+KAMIS, 30-MEI-2024
+MUHAMAD LUTHFI IZHARUDDIN
+1
+10118283
+Pembangunan Aplikasi Pemandu Wisata di Kabupaten 
+Purwakarta Berbasis Android 
+Chrismikha Haryanto, S.Kom.,M.Kom.
+10.30-11.45
+R6028
+Andri Heryandi, S.T., M.T.
+Halaman ke-1
+
+

@@ -1,0 +1,548 @@
+
+==================================================
+Jadwal Sidang Tanggal Selasa, 13-Agustus-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SELASA, 13-AGUSTUS-2024
+IHSAN RAMADHAN NUL HAKIM
+1
+10120143
+Pembangunan WhatsApp Messenger ChatBot untuk 
+Mengidentifikasi Pesan Penipuan
+Sri Nurhayati, S.Si., M.T.
+08.00-09.15
+R6010
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Gentisya Tri Mardiani, S.Kom., M.Kom
+1.
+2.
+3.
+ARIQ FADHILAH SAPUTRA
+2
+10120034
+Sistem Monitoring dan Evaluasi Kinerja Klinik Menggunakan 
+Performance Dashboard di Klinik Pratama Pradita Bandung
+Tati Harihayati M., S.T., M.T.
+08.00-09.15
+R6028
+Sufaatin, S.T., M.Kom.
+Alif Finandhita, S.Kom., M.T.
+1.
+2.
+3.
+MUH ABDILAH UZUMI
+3
+10119374
+Penerapan Optimasi Metode Random Over Sampling (ROS) 
+untuk Kasus Imbalance Class dalam Analisis Sentimen Berbasis 
+Aspek pada Kasus Pembatalan Piala Dunia -20 di Indonesia
+Galih Hermawan, S.Kom, M.T.
+09.15-10.30
+R6010
+Kania Evita Dewi, S.Pd., M.Si.
+Irawan Afrianto, S.T., M.T.
+1.
+2.
+3.
+EKY NUGRAHA HERIAWAN
+4
+10120066
+Sistem Monitoring Kegiatan Penjualan Menggunakan Metode 
+Performance Dashboard di PT. Yans Sumber Segar
+Sufaatin, S.T., M.Kom.
+09.15-10.30
+R6028
+Tati Harihayati M., S.T., M.T.
+Ir.Taryana Suryana, M.Kom.
+1.
+2.
+3.
+RIFQI NUGRAHA
+5
+10120140
+Implementasi Deep Q-Network untuk Simulasi Kendaraan Balap 
+Otonom di Lingkungan yang Dinamis
+Galih Hermawan, S.Kom, M.T.
+10.30-11.45
+R6028
+Irfan Maliki, S.T., M.T.
+Alif Finandhita, S.Kom., M.T.
+1.
+2.
+3.
+SEPTYAN SURYA JATNIKA
+6
+10120117
+Sistem Penjadwalan Mata Pelajaran Menggunakan Algoritma 
+Genetika di SMA Nasional Bandung
+Riani Lubis, S.T., M.T.
+11.45-13.00
+R6010
+Tati Harihayati M., S.T., M.T.
+Irawan Afrianto, S.T., M.T.
+1.
+2.
+3.
+MUHAMMAD ALVIN RIZQI 
+RAMADHAN
+7
+10119913
+Sistem Monitoring Penumpang Travel Berbasis Internet of Things
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6010
+Dedeng Hirawan, S.Kom., M.Kom
+Fakhrian Fadlia, S.Kom.M.Kom.
+1.
+2.
+3.
+MUHAMMAD FARIZ RAHMAT A
+8
+10120004
+Implementasi Linear Congruent Method pada Game Edukasi 
+Tahsin Berbasis Android untuk Meningkatkan Literasi Al - Qur’an
+Dedeng Hirawan, S.Kom., M.Kom
+14.15-15.30
+R6010
+Sopian Alviana, S.Kom.,M.Kom.
+Fakhrian Fadlia, S.Kom.M.Kom.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Rabu, 14-Agustus-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 14-AGUSTUS-2024
+RAYHAN RAHMAN MIRAJ 
+BUNYAMIN RUSTANDAR
+1
+10120114
+Reengineering Website Juragan Panel Menggunakan Metode 
+Clean Code
+Alif Finandhita, S.Kom., M.T.
+08.00-09.15
+R6010
+Dian Dharmayanti, S.T., M.Kom.
+Gentisya Tri Mardiani, S.Kom., M.Kom
+1.
+2.
+3.
+DHIFO AKSA HERMAWAN
+2
+10119289
+Pembangunan Aplikasi Konversi Pulsa ke Mata Uang Digital 
+Berbasis Website di PT. Fajar Ekosistem Digital
+Chrismikha Haryanto, S.Kom.,M.Kom.
+08.00-09.15
+R6028
+Andri Heryandi, S.T., M.T.
+Anna Dara Andriana, S.Kom., M.Kom
+1.
+2.
+3.
+ERIKO ANANTA
+3
+10120134
+Pengaruh Penerapan Frame Rate Terhadap Peningkatan 
+Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi lag 
+dalam Game Shooter Multiplayer
+Kania Evita Dewi, S.Pd., M.Si.
+08.00-09.15
+R6034
+Galih Hermawan, S.Kom, M.T.
+Rani Susanto, S.Kom, M.Kom.
+1.
+2.
+3.
+RISHA AMARA
+4
+10120020
+Penerapan Data Mining Menggunakan Metode Klasifikasi untuk 
+Menghasilkan Rekomendasi Tanam
+Dian Dharmayanti, S.T., M.Kom.
+09.15-10.30
+R6010
+Alif Finandhita, S.Kom., M.T.
+Anna Dara Andriana, S.Kom., M.Kom
+1.
+2.
+3.
+IFANKA WIRALANGGA
+5
+10118089
+Game Pathway-Finding 3D Mencari Rute Terpendek 
+Menggunakan Algoritma A*(A-Star) dengan Optimasi Heapsort
+Irfan Maliki, S.T., M.T.
+09.15-10.30
+R6028
+Galih Hermawan, S.Kom, M.T.
+Irawan Afrianto, S.T., M.T.
+1.
+2.
+3.
+FASYA MUTIARA PAGI
+6
+10120102
+Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi Tinder 
+dengan Metode Support Vector Machine
+Nelly Indriani W, S.Si., M.T.
+09.15-10.30
+R6034
+Kania Evita Dewi, S.Pd., M.Si.
+Eko Budi Setiawan, S.Kom., M.T.
+1.
+2.
+3.
+MARTINUS CELVYN SITUMORANG
+7
+10120222
+Sistem Optimalisasi Mesin Produksi dengan Metode Overall 
+Equipment Effectiveness (OEE) di PT. Bandung Lautan Kemasan
+Gentisya Tri Mardiani, S.Kom., M.Kom
+10.30-11.45
+R6010
+Anna Dara Andriana, S.Kom., M.Kom
+Galih Hermawan, S.Kom, M.T.
+1.
+2.
+3.
+DYAZ AMRULLAH
+8
+10120260
+Visualisasi Data dalam Meningkatkan Program Akademik MTS 
+Negeri 3 Pandeglang
+Dian Dharmayanti, S.T., M.Kom.
+11.45-13.00
+R6028
+Fakhrian Fadlia, S.Kom.M.Kom.
+Dr. Ednawati Rainarli, S.Si., M.Si.
+1.
+2.
+3.
+ALDI MAULANA SAPUTRA
+9
+10120733
+Sistem Penerimaan Karyawan Menggunakan Metode Weighted 
+Product (WP) di Rumah Sakit Bhakti Asih Tangerang 
+Gentisya Tri Mardiani, S.Kom., M.Kom
+11.45-13.00
+R6034
+Rani Susanto, S.Kom, M.Kom.
+Eko Budi Setiawan, S.Kom., M.T.
+1.
+2.
+3.
+DENNIE FUZI ALVIYANIES
+10
+10120918
+Perancangan Design System dengan Metode Atomic Design 
+pada Majelis Pendidikan Darul Hikam
+Fakhrian Fadlia, S.Kom.M.Kom.
+13.00-14.15
+R6010
+Alif Finandhita, S.Kom., M.T.
+Didit Andri Jatmiko, S.Kom., M.T.
+1.
+2.
+3.
+Halaman ke-1
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 14-AGUSTUS-2024
+TRISTANTIO BIERHOFF KURNIA
+11
+10120274
+Penanganan Imbalanced Dataset Menggunakan SMOTE pada 
+Prediksi Tipe Kepribadian Aktor dan Aktris Film Marvel
+Kania Evita Dewi, S.Pd., M.Si.
+13.00-14.15
+R6028
+Nelly Indriani W, S.Si., M.T.
+Irawan Afrianto, S.T., M.T.
+1.
+2.
+3.
+SALSABILA MARHAN
+12
+10120272
+Implementasi Externally Hosted Private Cloud Aplikasi 
+Penyimpanan Data Menggunakan Nextcloud Di SMA Negeri 1 
+Citeureup
+Sopian Alviana, S.Kom.,M.Kom.
+13.00-14.15
+R6034
+Iskandar Ikbal, S.T., M.Kom.
+Chrismikha Haryanto, S.Kom.,M.Kom.
+1.
+2.
+3.
+Halaman ke-2
+
+
+
+==================================================
+Jadwal Sidang Tanggal Kamis, 15-Agustus-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+KAMIS, 15-AGUSTUS-2024
+DENISA ALYAA PUTRI
+1
+10120784
+Sistem Penentuan Jumlah dan Waktu Pembelian Barang 
+Menggunakan Metode Economic Order Quantity (EOQ) di PT. 
+Hartelindo Telco Utama
+Sri Nurhayati, S.Si., M.T.
+08.00-09.15
+R6010
+Gentisya Tri Mardiani, S.Kom., M.Kom
+Nelly Indriani W, S.Si., M.T.
+1.
+2.
+3.
+RULLY FADIA
+2
+10120214
+Sistem Penentuan Jumlah Pembelian Barang Menggunakan 
+Metode Single Moving Average di CV. Persada Mandiri 
+Utami Dewi W, S.Kom., M.Kom
+08.00-09.15
+R6028
+Anna Dara Andriana, S.Kom., M.Kom
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+FADLAN ALFALAH BAIHAQI
+3
+10120084
+Pemantauan Ketersediaan Slot Parkir dengan Integrasi Sensor
+Ir.Taryana Suryana, M.Kom.
+08.00-09.15
+R6034
+Andri Heryandi, S.T., M.T.
+Riani Lubis, S.T., M.T.
+1.
+2.
+3.
+TAUFIQ QUROHMAN RUKI
+4
+10120708
+Visualisasi Data pada Departemen HRD PT. Dharma Polimetal 
+Tbk.
+Dian Dharmayanti, S.T., M.Kom.
+08.00-09.15
+tidak 
+Fakhrian Fadlia, S.Kom.M.Kom.
+Dr. Ednawati Rainarli, S.Si., M.Si.
+1.
+2.
+3.
+GURUH FILLAH ALFARIZA
+5
+10120781
+Sistem Penentuan Jumlah dan Waktu Pembelian Barang Bahan 
+Bangunan Menggunakan Metode Economic Order Quantity 
+(EOQ) di TB. Guntur
+Sri Nurhayati, S.Si., M.T.
+09.15-10.30
+R6010
+Tati Harihayati M., S.T., M.T.
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+HANIF AMRULLAH ALMUHARAM
+6
+10120032
+Pembangunan Aplikasi Asisten Berbasis Android untuk Individu 
+Disabilitas Penglihatan
+Chrismikha Haryanto, S.Kom.,M.Kom.
+09.15-10.30
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+Anna Dara Andriana, S.Kom., M.Kom
+1.
+2.
+3.
+SELDI SYAHRIZAL
+7
+10119086
+Pembangunan Aplikasi Pendeteksi Tingkat Kematangan Buah
+Ir.Taryana Suryana, M.Kom.
+09.15-10.30
+R6034
+Andri Heryandi, S.T., M.T.
+Richi Dwi Agustia, M.Kom.
+1.
+2.
+3.
+DAFFA ALBARI
+8
+10120212
+Penerapan Prompt Engineering pada Aplikasi Analisis Sosial 
+Media
+Dian Dharmayanti, S.T., M.Kom.
+09.15-10.30
+tidak 
+Alif Finandhita, S.Kom., M.T.
+Dr. Ednawati Rainarli, S.Si., M.Si.
+1.
+2.
+3.
+MUHAMMAD YUSUF
+9
+10118370
+Pengembangan Modul Tanda Tangan Digital pada Sistem DP2M 
+Unikom Menggunakan Metode ECDSA
+Angga Setiyadi, S.Kom., M.Kom
+10.30-11.45
+R6010
+Richi Dwi Agustia, M.Kom.
+Eko Budi Setiawan, S.Kom., M.T.
+1.
+2.
+3.
+GERRY MAULANA
+10
+10120267
+Penerapan Data Mining dalam Menentukan Strategi Promosi 
+Penerimaan Mahasiswa Baru Menggunakan Algoritma K-Means
+Fakhrian Fadlia, S.Kom.M.Kom.
+10.30-11.45
+tidak 
+Alif Finandhita, S.Kom., M.T.
+Nelly Indriani W, S.Si., M.T.
+1.
+2.
+3.
+Halaman ke-1
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+KAMIS, 15-AGUSTUS-2024
+RENDI JULIANTO
+11
+10120160
+Pembangunan Aplikasi Top Up Digital dengan Multi Supplier 
+(Studi Kasus : Toko Indah)
+Eko Budi Setiawan, S.Kom., M.T.
+11.45-13.00
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Anna Dara Andriana, S.Kom., M.Kom
+1.
+2.
+3.
+WINDA ASMARAWATI
+12
+10120193
+Implementasi Deep Convolutional Generative Adversarial 
+Networks (DCGAN) untuk Augmentasi Data Dalam Deteksi 
+Penyakit Daun Padi
+Kania Evita Dewi, S.Pd., M.Si.
+11.45-13.00
+R6034
+Dr. Ednawati Rainarli, S.Si., M.Si.
+Rani Susanto, S.Kom, M.Kom.
+1.
+2.
+3.
+NANDA YULIA NABILLA
+13
+10120756
+Pengaruh Word Normalization dan Levenshtein Distance pada 
+Analisis Sentimen Cyberbullying terhadap Komentar Instagram
+Kania Evita Dewi, S.Pd., M.Si.
+13.00-14.15
+R6010
+Nelly Indriani W, S.Si., M.T.
+Angga Setiyadi, S.Kom., M.Kom
+1.
+2.
+3.
+MOCHAMAD BAYU SATRIA 
+PRATAMA
+14
+10118149
+Analisis Perbandingan Kinerja MQTT Broker pada Virtual Private 
+Server untuk Pengiriman Data Internet of Things
+Sopian Alviana, S.Kom.,M.Kom.
+13.00-14.15
+R6028
+Didit Andri Jatmiko, S.Kom., M.T.
+Chrismikha Haryanto, S.Kom.,M.Kom.
+1.
+2.
+3.
+DIANA RACHMAWATI KUSNADI
+15
+10120248
+Sistem Penentuan Promosi Menggunakan Metode Association 
+Rule di CV.Persada Mandiri (Point99 Computer)
+Sufaatin, S.T., M.Kom.
+13.00-14.15
+R6034
+Gentisya Tri Mardiani, S.Kom., M.Kom
+Dr. Ednawati Rainarli, S.Si., M.Si.
+1.
+2.
+3.
+HILMI MUHAMMAD
+16
+10120706
+Clustering Menggunakan Algoritma K-Means untuk 
+Mengelompokkan Daerah dengan Tingkat Kriminalitas Tertinggi di 
+Wilayah Kota Bandung (Studi Kasus : Polrestabes Bandung)
+Fakhrian Fadlia, S.Kom.M.Kom.
+13.00-14.15
+tidak 
+Dian Dharmayanti, S.T., M.Kom.
+Richi Dwi Agustia, M.Kom.
+1.
+2.
+3.
+Halaman ke-2
+
+
