@@ -1,0 +1,92 @@
+{
+  "query": "Mahasiswa yang memiliki judul skripsi paling panjang pada tanggal 29 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-27T20:26:23.387158",
+    "scenario_id": 200,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-29",
+          "hari": "Kamis",
+          "nim": "10120256",
+          "nama": "Muhammad David Satia Pradana",
+          "judul": "Pembangunan Aplikasi Identifikasi dan Simulasi Warna Cat pada Dinding Berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9082,
+      "completion_tokens": 221,
+      "total_tokens": 9303,
+      "latency_s": 3.587
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-29",
+          "hari": "Kamis",
+          "nim": "10120146",
+          "nama": "Irshal Mulky Herlambang",
+          "judul": "Implementasi Algoritma Perlin Noise untuk Procedural Object Generation dengan Layer-Based dan Overlapping Detection dalam Video Game Menggunakan Unity Engine",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Irfan Maliki, S.T., M.T.",
+            "Dedeng Hirawan, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16694,
+      "completion_tokens": 230,
+      "total_tokens": 16924,
+      "latency_s": 4.096
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.5089999999999999,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "10120256"
+      ],
+      "only_in_json": [
+        "10120146"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

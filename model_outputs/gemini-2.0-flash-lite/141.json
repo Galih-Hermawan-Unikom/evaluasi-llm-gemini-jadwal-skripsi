@@ -1,0 +1,88 @@
+{
+  "query": "Siapa nama mahasiswa dengan NIM 10119233",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 3,
+    "timestamp": "2025-05-27T20:16:09.938875",
+    "scenario_id": 141,
+    "category_id": "K-2"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-28",
+          "hari": "Rabu",
+          "nim": "10119233",
+          "nama": "Denden Triana",
+          "judul": "Pembangunan Bot Optical Character Recognition untuk Pelacakan Pengeluaran Finansial",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Andri Heryandi, S.T., M.T.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3971,
+      "completion_tokens": 216,
+      "total_tokens": 4187,
+      "latency_s": 3.129
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-28",
+          "hari": "Rabu",
+          "nim": "10119233",
+          "nama": "Denden Triana",
+          "judul": "Pembangunan Bot Optical Character Recognition untuk Pelacakan Pengeluaran Finansial",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6999,
+      "completion_tokens": 216,
+      "total_tokens": 7215,
+      "latency_s": 3.057
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.07200000000000006,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "query": "Jumlah jadwal di R6028 tanggal 15 Agust 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T20:21:16.973701",
+    "scenario_id": 171,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 2
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 4782,
+      "completion_tokens": 33,
+      "total_tokens": 4815,
+      "latency_s": 2.079
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 4
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 8783,
+      "completion_tokens": 33,
+      "total_tokens": 8816,
+      "latency_s": 1.291
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.7880000000000003,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "count: 2"
+      ],
+      "only_in_json": [
+        "count: 4"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

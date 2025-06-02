@@ -1,0 +1,56 @@
+{
+  "query": "Di mana sidang mahasiswa bernama Alif dilaksanakan",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T20:12:34.423139",
+    "scenario_id": 117,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": []
+    },
+    "metrics": {
+      "prompt_tokens": 5250,
+      "completion_tokens": 25,
+      "total_tokens": 5275,
+      "latency_s": 2.237
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": []
+    },
+    "metrics": {
+      "prompt_tokens": 9321,
+      "completion_tokens": 25,
+      "total_tokens": 9346,
+      "latency_s": 2.388
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.1509999999999998,
+    "records": {
+      "txt_count": 0,
+      "json_count": 0,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "query": "Siapa saja mahasiswa dengan sidang paling pagi pada tanggal 20 Agustus 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil.",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T20:22:39.657486",
+    "scenario_id": 181,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120178",
+          "nama": "Muhammad Noer Ikhsan Hidayat",
+          "judul": "Sistem Perbaikan Kualitas Pelayanan Menggunakan Metode Service Quality di Klinik Utama Jasmine Mq Medika",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120714",
+          "nama": "Abdul Aziz",
+          "judul": "Sistem Penentuan Pembelian Bahan Baku Frame Menggunakan Metode Economic Order Quantity (EOQ) pada Perdana Photo Group",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120774",
+          "nama": "Dian Rahmawati",
+          "judul": "Implementasi Data Mining dengan Algoritma Naive Bayes untuk Klasifikasi Kelayakan Penerima Bantuan Sembako di Kel. Cibeureum",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120227",
+          "nama": "Salma Wafa Sa Diyah",
+          "judul": "Pembangunan Aplikasi Buku Catatan Pengeluaran Menggunakan Deteksi Struk Belanja Berbasis Web",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Utami Dewi W, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10648,
+      "completion_tokens": 814,
+      "total_tokens": 11462,
+      "latency_s": 6.159
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120178",
+          "nama": "Muhammad Noer Ikhsan Hidayat",
+          "judul": "Sistem Perbaikan Kualitas Pelayanan Menggunakan Metode Service Quality di Klinik Utama Jasmine Mq Medika",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120714",
+          "nama": "Abdul Aziz",
+          "judul": "Sistem Penentuan Pembelian Bahan Baku Frame Menggunakan Metode Economic Order Quantity (EOQ) pada Perdana Photo Group",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Riani Lubis, S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120774",
+          "nama": "Dian Rahmawati",
+          "judul": "Implementasi Data Mining dengan Algoritma Naive Bayes untuk Klasifikasi Kelayakan Penerima Bantuan Sembako di Kelurahan Cibeureum",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120227",
+          "nama": "Salma Wafa Sa’diyah",
+          "judul": "Pembangunan Aplikasi Buku Catatan Pengeluaran Menggunakan Deteksi Struk Belanja Berbasis Web",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Utami Dewi W, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19357,
+      "completion_tokens": 815,
+      "total_tokens": 20172,
+      "latency_s": 6.919
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.7599999999999998,
+    "records": {
+      "txt_count": 4,
+      "json_count": 4,
+      "count_match": true,
+      "common_count": 4,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

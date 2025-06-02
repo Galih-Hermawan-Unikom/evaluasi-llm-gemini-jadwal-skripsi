@@ -1,0 +1,135 @@
+{
+  "query": "Siapa mahasiswa dengan sidang paling awal pada hari Senin? Jika lebih dari 1 orang ambil nim yang paling besar",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T20:23:44.415263",
+    "scenario_id": 187,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-19",
+          "hari": "Senin",
+          "nim": "10120181",
+          "nama": "Akhdan Rafly",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Exponential Smoothing di Toko Putra Subur Makmur",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-19",
+          "hari": "Senin",
+          "nim": "10120150",
+          "nama": "Rahmat",
+          "judul": "Sistem Optimalisasi Produksi Menggunakan Metode Rough Cut Capacity Planning (RCCP) di CV. Citra Perdana Gemilang",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Riani Lubis, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10635,
+      "completion_tokens": 410,
+      "total_tokens": 11045,
+      "latency_s": 3.45
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-19",
+          "hari": "Senin",
+          "nim": "10120181",
+          "nama": "Akhdan Rafly",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Exponential Smoothing di Toko Putra Subur Makmur",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-19",
+          "hari": "Senin",
+          "nim": "10120150",
+          "nama": "Rahmat",
+          "judul": "Sistem Optimalisasi Produksi Menggunakan Metode Rough Cut Capacity Planning (RCCP) di CV. Citra Perdana Gemilang",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-19",
+          "hari": "Senin",
+          "nim": "10120085",
+          "nama": "Dion Cahyan",
+          "judul": "Sistem Penentuan Jumlah Pembelian Produk Menggunakan Metode Single Moving Average di PT. Panca Surya Cemerlang",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19344,
+      "completion_tokens": 603,
+      "total_tokens": 19947,
+      "latency_s": 6.197
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 2.747,
+    "records": {
+      "txt_count": 2,
+      "json_count": 3,
+      "count_match": false,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10120085"
+      ],
+      "match_percentage": 66.67
+    }
+  }
+}

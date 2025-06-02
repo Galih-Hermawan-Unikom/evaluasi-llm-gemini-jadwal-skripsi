@@ -1,0 +1,252 @@
+{
+  "query": "Munculkan jadwal dari Bapak Irawan",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T20:12:27.279750",
+    "scenario_id": 116,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119118",
+          "nama": "Rizky Septiana Abdul Razak",
+          "judul": "Pembangunan Aplikasi Layanan Pengaduan Masyarakat \nsebagai Inovasi Smart Village di Kecamatan Leles berbasis \nAndroid",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-17",
+          "hari": "Sabtu",
+          "nim": "10118707",
+          "nama": "R. Wiranda Purba",
+          "judul": "Sistem Infromasi Manajemen Produksi di CV. Tekad Jaya",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-07",
+          "hari": "Rabu",
+          "nim": "10118103",
+          "nama": "Billy Muhammad Ridwan",
+          "judul": "Pembangunan Aplikasi Diagnosis Penyakit Ringworm \nMenggunakan Image Recognition Berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119126",
+          "nama": "Dicky Setiadi",
+          "judul": "Pembangunan Aplikasi Sistem Pemesanan dan Pembayaran \nMenggunakan Teknologi QRIS berbasis Web pada Cafe Buana \nLife Pangalengan",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119085",
+          "nama": "Arif Abdan Syakur",
+          "judul": "Pembangunan Aplikasi Smart Monitoring pada Klub Sepeda \nPermata Cycling Community",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6034",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119194",
+          "nama": "Ferdyd Mohamad Firdaus",
+          "judul": "Pembangunan Aplikasi Sistem Absensi Face Recognition dan \nSMS Gateway di Lab. Komputer SMAN Cimanggung",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119097",
+          "nama": "Ikhsan Nurul Rizki",
+          "judul": "Pembangunan Aplikasi Belajar Mengaji Al-Qur’an Memanfaatkan \nSpeech Recognition untuk Mendeteksi Kesalahan dalam \nPelafalan",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5251,
+      "completion_tokens": 1208,
+      "total_tokens": 6459,
+      "latency_s": 7.578
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-07",
+          "hari": "Rabu",
+          "nim": "10119123",
+          "nama": "Angga Cahya Abadi",
+          "judul": "Aplikasi Rekomendasi Makanan berdasarkan Komposisi Berat Badan Memanfaatkan Smart Scale berbasis Mobile",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119118",
+          "nama": "Rizky Septiana Abdul Razak",
+          "judul": "Pembangunan Aplikasi Layanan Pengaduan Masyarakat sebagai Inovasi Smart Village di Kecamatan Leles berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119115",
+          "nama": "Weldira Tarigan",
+          "judul": "Sistem Prioritas Laporan Aduan Jabar Quick Responses berbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Irfan Maliki, S.T., M.T.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-16",
+          "hari": "Jumat",
+          "nim": "10118707",
+          "nama": "Wiranda Purba",
+          "judul": "Sistem Informasi Manajemen Produksi di CV. Tekad Jaya",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Hanhan Maulana, S.Kom., M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-16",
+          "hari": "Jumat",
+          "nim": "10119082",
+          "nama": "Zainul Rifqi Muwaffaq",
+          "judul": "Penerapan Augmented Reality dalam Pembentukan Imajinasi pada Buku Cerita Anak",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Hanhan Maulana, S.Kom., M.Kom.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-17",
+          "hari": "Sabtu",
+          "nim": "10118707",
+          "nama": "Wiranda Purba",
+          "judul": "Sistem Informasi Manajemen Produksi di CV. Tekad Jaya",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9322,
+      "completion_tokens": 1151,
+      "total_tokens": 10473,
+      "latency_s": 7.309
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.26900000000000013,
+    "records": {
+      "txt_count": 7,
+      "json_count": 5,
+      "count_match": false,
+      "common_count": 2,
+      "only_in_txt": [
+        "10118103",
+        "10119085",
+        "10119097",
+        "10119126",
+        "10119194"
+      ],
+      "only_in_json": [
+        "10119082",
+        "10119115",
+        "10119123"
+      ],
+      "match_percentage": 20.0
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "query": "Tanggal berapa Pak Dwi sidang",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 2,
+    "timestamp": "2025-05-27T20:14:25.503982",
+    "scenario_id": 130,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10119014",
+          "nama": "Andri Dwi Prasetiyo",
+          "judul": "Pembangunan Aplikasi Musik sebagai Media Penurun Stres Memanfaatkan Teknologi Smartwatch dan API SPOTIFY",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4266,
+      "completion_tokens": 221,
+      "total_tokens": 4487,
+      "latency_s": 3.021
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10119014",
+          "nama": "Andri Dwi Prasetiyo",
+          "judul": "Pembangunan Aplikasi Musik sebagai Media Penurun Stres Memanfaatkan Teknologi Smartwatch dan API SPOTIFY",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Andri Heryandi, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 7464,
+      "completion_tokens": 221,
+      "total_tokens": 7685,
+      "latency_s": 3.484
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.4630000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

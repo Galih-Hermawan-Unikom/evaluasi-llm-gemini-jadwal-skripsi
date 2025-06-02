@@ -1,0 +1,88 @@
+{
+  "query": "Jam berapa sidang Rendy Dermawan berakhir",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T20:13:14.961159",
+    "scenario_id": 122,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119030",
+          "nama": "Rendy Dermawan",
+          "judul": "Sistem Informasi Manajemen Produksi di PT. Artha Savana Digital",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5251,
+      "completion_tokens": 214,
+      "total_tokens": 5465,
+      "latency_s": 3.211
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119030",
+          "nama": "Rendy Dermawan",
+          "judul": "Sistem Informasi Manajemen Produksi di PT. Artha Savana Digital",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9322,
+      "completion_tokens": 214,
+      "total_tokens": 9536,
+      "latency_s": 2.67
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.5409999999999999,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "query": "Tampilkan jadwal sidang Pak Andri",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T20:10:15.531604",
+    "scenario_id": 101,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119118",
+          "nama": "Rizky Septiana Abdul Razak",
+          "judul": "Pembangunan Aplikasi Layanan Pengaduan Masyarakat sebagai Inovasi Smart Village di Kecamatan Leles berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119126",
+          "nama": "Dicky Setiadi",
+          "judul": "Pembangunan Aplikasi Sistem Pemesanan dan Pembayaran Menggunakan Teknologi QRIS berbasis Web pada Cafe Buana Life Pangalengan",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119305",
+          "nama": "Ivan Aprilman Hura",
+          "judul": "Sistem Informasi Strategi Promosi di PT Ayudha Wahana Jasa Dengan Pendekatan Customer Realtionship Manajemen (CRM)",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119085",
+          "nama": "Arif Abdan Syakur",
+          "judul": "Pembangunan Aplikasi Smart Monitoring pada Klub Sepeda Permata Cycling Community",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6034",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119097",
+          "nama": "Ikhsan Nurul Rizki",
+          "judul": "Pembangunan Aplikasi Belajar Mengaji Al-Qur’an Memanfaatkan Speech Recognition untuk Mendeteksi Kesalahan dalam Pelafalan",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Hanhan Maulana, S.Kom., M.Kom",
+            "Hidayat, M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119194",
+          "nama": "Ferdyd Mohamad Firdaus",
+          "judul": "Pembangunan Aplikasi Sistem Absensi Face Recognition dan SMS Gateway di Lab. Komputer SMAN Cimanggung",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Hidayat, M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5248,
+      "completion_tokens": 1182,
+      "total_tokens": 6430,
+      "latency_s": 6.952
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119085",
+          "nama": "Arif Abdan Syakur",
+          "judul": "Pembangunan Aplikasi Smart Monitoring pada Klub Sepeda Permata Cycling Community",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6034",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119097",
+          "nama": "Ikhsan Nurul Rizki",
+          "judul": "Pembangunan Aplikasi Belajar Mengaji Al-Qur’an Memanfaatkan Speech Recognition untuk Mendeteksi Kesalahan dalam Pelafalan",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Hidayat, M.T.",
+            "Hanhan Maulana, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119118",
+          "nama": "Rizky Septiana Abdul Razak",
+          "judul": "Pembangunan Aplikasi Layanan Pengaduan Masyarakat sebagai Inovasi Smart Village di Kecamatan Leles berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119126",
+          "nama": "Dicky Setiadi",
+          "judul": "Pembangunan Aplikasi Sistem Pemesanan dan Pembayaran Menggunakan Teknologi QRIS berbasis Web pada Cafe Buana Life Pangalengan",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119194",
+          "nama": "Ferdy Mohamad Firdaus",
+          "judul": "Pembangunan Aplikasi Sistem Absensi Face Recognition dan SMS Gateway di Lab. Komputer SMAN Cimanggung",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Hidayat, M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-07",
+          "hari": "Rabu",
+          "nim": "10118103",
+          "nama": "Billy Muhammad Ridwan",
+          "judul": "Pembangunan Aplikasi Diagnosis Penyakit Ringworm Menggunakan Image Recognition Berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-07",
+          "hari": "Rabu",
+          "nim": "10119131",
+          "nama": "Dedus Lihoko",
+          "judul": "Pembangunan Aplikasi Monitoring Kehadiran Siswa berbasis Android di SMA Plus Al-Wahid",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9319,
+      "completion_tokens": 1370,
+      "total_tokens": 10689,
+      "latency_s": 9.446
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 2.4939999999999998,
+    "records": {
+      "txt_count": 6,
+      "json_count": 7,
+      "count_match": false,
+      "common_count": 5,
+      "only_in_txt": [
+        "10119305"
+      ],
+      "only_in_json": [
+        "10118103",
+        "10119131"
+      ],
+      "match_percentage": 62.5
+    }
+  }
+}

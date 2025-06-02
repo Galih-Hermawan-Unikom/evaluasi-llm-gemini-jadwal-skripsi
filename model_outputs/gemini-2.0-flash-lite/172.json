@@ -1,0 +1,60 @@
+{
+  "query": "Total seminar mulai 09.15 tanggal 19 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T20:21:25.117907",
+    "scenario_id": 172,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 3
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 10320,
+      "completion_tokens": 33,
+      "total_tokens": 10353,
+      "latency_s": 2.358
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 3
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 19010,
+      "completion_tokens": 33,
+      "total_tokens": 19043,
+      "latency_s": 3.474
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.116,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

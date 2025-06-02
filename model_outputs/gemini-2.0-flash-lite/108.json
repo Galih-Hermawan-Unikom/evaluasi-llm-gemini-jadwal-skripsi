@@ -1,0 +1,181 @@
+{
+  "query": "Tampilkan jadwal Ir.Taryana Suryana",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T20:11:16.069108",
+    "scenario_id": 108,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119126",
+          "nama": "Dicky Setiadi",
+          "judul": "Pembangunan Aplikasi Sistem Pemesanan dan Pembayaran Menggunakan Teknologi QRIS berbasis Web pada Cafe Buana Life Pangalengan",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119115",
+          "nama": "Weldira Tarigan",
+          "judul": "Sistem Prioritas Laporan Aduan Jabar Quick Responses berbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119030",
+          "nama": "Rendy Dermawan",
+          "judul": "Sistem Informasi Manajemen Produksi di PT. Artha Savana Digital",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-02-06",
+          "hari": "Selasa",
+          "nim": "10119043",
+          "nama": "Fermi Naufal Akbar",
+          "judul": "Game Edukasi Mata Pelajaran Fisika Kelas X di SMAN 1 Kalirejo",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-06",
+          "hari": "Selasa",
+          "nim": "10119065",
+          "nama": "Fachriansyah Muh Nur I",
+          "judul": "Game Edukasi Mata Pelajaran Produk Kreatif dan Kewirausahaan Kelas XI di SMKN 1 Cikarang Utara",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5251,
+      "completion_tokens": 968,
+      "total_tokens": 6219,
+      "latency_s": 5.626
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119043",
+          "nama": "Fermi Naufal Akbar",
+          "judul": "Game Edukasi Mata Pelajaran Fisika Kelas X di SMAN 1 Kalirejo",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Richi Dwi Agustia, M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119126",
+          "nama": "Dicky Setiadi",
+          "judul": "Pembangunan Aplikasi Sistem Pemesanan dan Pembayaran Menggunakan Teknologi QRIS berbasis Web pada Cafe Buana Life Pangalengan",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119115",
+          "nama": "Weldira Tarigan",
+          "judul": "Sistem Prioritas Laporan Aduan Jabar Quick Responses berbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Irfan Maliki, S.T., M.T.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9322,
+      "completion_tokens": 590,
+      "total_tokens": 9912,
+      "latency_s": 5.296
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.33000000000000007,
+    "records": {
+      "txt_count": 5,
+      "json_count": 3,
+      "count_match": false,
+      "common_count": 3,
+      "only_in_txt": [
+        "10119030",
+        "10119065"
+      ],
+      "only_in_json": [],
+      "match_percentage": 60.0
+    }
+  }
+}

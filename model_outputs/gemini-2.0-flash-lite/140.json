@@ -1,0 +1,88 @@
+{
+  "query": "Tanggal berapa sidang John dilaksanakan",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 3,
+    "timestamp": "2025-05-27T20:16:01.229394",
+    "scenario_id": 140,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-28",
+          "hari": "Rabu",
+          "nim": "10119349",
+          "nama": "John Pardamean Napitupulu",
+          "judul": "Visualisasi Data Koperasi dan UKM Provinsi Sumatera Utara",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3962,
+      "completion_tokens": 213,
+      "total_tokens": 4175,
+      "latency_s": 2.032
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-28",
+          "hari": "Rabu",
+          "nim": "10119349",
+          "nama": "John Pardamean Napitupulu",
+          "judul": "Visualisasi Data Koperasi dan UKM Provinsi Sumatera Utara",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6990,
+      "completion_tokens": 213,
+      "total_tokens": 7203,
+      "latency_s": 3.257
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.225,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "query": "Siapa saja dosen yang menguji terbanyak pada tanggal 29 Agustus 2024 jika lebih dari satu tampilkan sesuai urutan alphabet",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-27T20:24:43.023549",
+    "scenario_id": 193,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Alif Finandhita, S.Kom., M.T.",
+        "Andri Heryandi, S.T., M.T.",
+        "Chrismikha Haryanto, S.Kom.,M.Kom.",
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Eko Budi Setiawan, S.Kom., M.T.",
+        "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "Hanhan Maulana, M.Kom., Ph.D.",
+        "Iskandar Ikbal, S.T., M.Kom.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Sopian Alviana, S.Kom.,M.Kom.",
+        "Tati Harihayati M., S.T., M.T."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8835,
+      "completion_tokens": 214,
+      "total_tokens": 9049,
+      "latency_s": 3.832
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Alif Finandhita, S.Kom., M.T.",
+        "Andri Heryandi, S.T., M.T.",
+        "Angga Setiyadi, S.Kom., M.Kom",
+        "Chrismikha Haryanto, S.Kom., M.Kom.",
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Dedeng Hirawan, S.Kom., M.Kom",
+        "Eko Budi Setiawan, S.Kom., M.T.",
+        "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "Hanhan Maulana, M.Kom., Ph.D.",
+        "Irawan Afrianto, S.T., M.T.",
+        "Iskandar Ikbal, S.T., M.Kom.",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Riani Lubis, S.T., M.T.",
+        "Sufaatin, S.T., M.Kom.",
+        "Tati Harihayati M., S.T., M.T.",
+        "Utami Dewi W, S.Kom., M.Kom"
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16428,
+      "completion_tokens": 312,
+      "total_tokens": 16740,
+      "latency_s": 3.74
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.09199999999999964,
+    "records": {
+      "txt_count": 11,
+      "json_count": 17,
+      "count_match": false,
+      "common_count": 10,
+      "only_in_txt": [
+        "Sopian Alviana, S.Kom.,M.Kom."
+      ],
+      "only_in_json": [
+        "Angga Setiyadi, S.Kom., M.Kom",
+        "Dedeng Hirawan, S.Kom., M.Kom",
+        "Irawan Afrianto, S.T., M.T.",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Riani Lubis, S.T., M.T.",
+        "Sufaatin, S.T., M.Kom.",
+        "Utami Dewi W, S.Kom., M.Kom"
+      ],
+      "match_percentage": 55.56
+    }
+  }
+}

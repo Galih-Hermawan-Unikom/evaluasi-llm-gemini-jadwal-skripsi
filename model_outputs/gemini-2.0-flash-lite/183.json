@@ -1,0 +1,88 @@
+{
+  "query": "Mahasiswa mana yang memiliki judul skripsi terpanjang pada 21 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T20:23:02.464732",
+    "scenario_id": 183,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-21",
+          "hari": "Rabu",
+          "nim": "10120010",
+          "nama": "Irfan Choiruddin Anwar",
+          "judul": "Pembangunan Aplikasi Pemesanan Tiket Bus Memanfaatkan API Midtrans sebagai Payment Gateway dan Pemantauan Posisi Bus Menggunakan GPS Berbasis Web",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10634,
+      "completion_tokens": 228,
+      "total_tokens": 10862,
+      "latency_s": 4.86
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-21",
+          "hari": "Rabu",
+          "nim": "10120010",
+          "nama": "Irfan Choiruddin Anwar",
+          "judul": "Pembangunan Aplikasi Pemesanan Tiket Bus Memanfaatkan API Midtrans sebagai Payment Gateway dan Pemantauan Posisi Bus Menggunakan GPS Berbasis Web",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19343,
+      "completion_tokens": 228,
+      "total_tokens": 19571,
+      "latency_s": 4.414
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.4460000000000006,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

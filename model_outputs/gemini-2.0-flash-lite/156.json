@@ -1,0 +1,105 @@
+{
+  "query": "NIM mahasiswa yang diuji Chrismikha pada 14 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T20:18:10.127968",
+    "scenario_id": 156,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10119289",
+          "nama": "Dhifo Aksa Hermawan",
+          "judul": "Pembangunan Aplikasi Konversi Pulsa ke Mata Uang Digital Berbasis Website di PT. Fajar Ekosistem Digital",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Andri Heryandi, S.T., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120272",
+          "nama": "Salsabila Marhan",
+          "judul": "Implementasi Externally Hosted Private Cloud Aplikasi Penyimpanan Data Menggunakan Nextcloud Di SMA Negeri 1 Citeureup",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5095,
+      "completion_tokens": 426,
+      "total_tokens": 5521,
+      "latency_s": 2.977
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10119289",
+          "nama": "Dhifo Aksa Hermawan",
+          "judul": "Pembangunan Aplikasi Konversi Pulsa ke Mata Uang Digital Berbasis Website di PT. Fajar Ekosistem Digital",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9115,
+      "completion_tokens": 228,
+      "total_tokens": 9343,
+      "latency_s": 2.403
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.5739999999999998,
+    "records": {
+      "txt_count": 2,
+      "json_count": 1,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [
+        "10120272"
+      ],
+      "only_in_json": [],
+      "match_percentage": 50.0
+    }
+  }
+}

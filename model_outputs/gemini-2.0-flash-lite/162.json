@@ -1,0 +1,74 @@
+{
+  "query": "Mahasiswa yang diuji Bu Sufaatin jam 08:00",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T20:19:22.165500",
+    "scenario_id": 162,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": []
+    },
+    "metrics": {
+      "prompt_tokens": 5092,
+      "completion_tokens": 25,
+      "total_tokens": 5117,
+      "latency_s": 1.376
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120034",
+          "nama": "Ariq Fadhilah Saputra",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Klinik Menggunakan Performance Dashboard di Klinik Pratama Pradita Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9112,
+      "completion_tokens": 221,
+      "total_tokens": 9333,
+      "latency_s": 3.517
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 2.141,
+    "records": {
+      "txt_count": 0,
+      "json_count": 1,
+      "count_match": false,
+      "common_count": 0,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10120034"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "query": "Pukul berapa sidang Muhammad Rifqu dimulai",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T20:10:32.714305",
+    "scenario_id": 103,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119042",
+          "nama": "Muhammad Rifqu Abdillah",
+          "judul": "Pembangunan Aplikasi Rekomendasi Penjualan pada Tukang Sayur berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5250,
+      "completion_tokens": 217,
+      "total_tokens": 5467,
+      "latency_s": 2.049
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119042",
+          "nama": "Muhammad Rifqu Abdillah",
+          "judul": "Pembangunan Aplikasi Rekomendasi Penjualan pada Tukang Sayur berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Angga Setiyadi, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9321,
+      "completion_tokens": 217,
+      "total_tokens": 9538,
+      "latency_s": 3.513
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.464,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

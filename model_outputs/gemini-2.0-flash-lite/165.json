@@ -1,0 +1,418 @@
+{
+  "query": "Nama mahasiswa yang sidang di Rabu tanggal 14 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T20:20:12.267720",
+    "scenario_id": 165,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120114",
+          "nama": "Rayhan Rahman Miraj Bunyamin Rustandar",
+          "judul": "Reengineering Website Juragan Panel Menggunakan Metode Clean Code",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10119289",
+          "nama": "Dhifo Aksa Hermawan",
+          "judul": "Pembangunan Aplikasi Konversi Pulsa ke Mata Uang Digital Berbasis Website di PT. Fajar Ekosistem Digital",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom., M.Kom.",
+            "Andri Heryandi, S.T., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120134",
+          "nama": "Eriko Ananta",
+          "judul": "Pengaruh Penerapan Frame Rate Terhadap Peningkatan Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi lag dalam Game Shooter Multiplayer",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120020",
+          "nama": "Risha Amara",
+          "judul": "Penerapan Data Mining Menggunakan Metode Klasifikasi untuk Menghasilkan Rekomendasi Tanam",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10118089",
+          "nama": "Ifanka Wiralangga",
+          "judul": "Game Pathway-Finding 3D Mencari Rute Terpendek Menggunakan Algoritma A*(A-Star) dengan Optimasi Heapsort",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120102",
+          "nama": "Fasya Mutiara Pagi",
+          "judul": "Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi Tinder dengan Metode Support Vector Machine",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120222",
+          "nama": "Martinus Celvyn Situmorang",
+          "judul": "Sistem Optimalisasi Mesin Produksi dengan Metode Overall Equipment Effectiveness (OEE) di PT. Bandung Lautan Kemasan",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120260",
+          "nama": "Dyaz Amrullah",
+          "judul": "Visualisasi Data dalam Meningkatkan Program Akademik MTS Negeri 3 Pandeglang",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120733",
+          "nama": "Aldi Maulana Saputra",
+          "judul": "Sistem Penerimaan Karyawan Menggunakan Metode Weighted Product (WP) di Rumah Sakit Bhakti Asih Tangerang",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6034",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120918",
+          "nama": "Dennie Fuzi Alviyanies",
+          "judul": "Perancangan Design System dengan Metode Atomic Design pada Majelis Pendidikan Darul Hikam",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120274",
+          "nama": "Tristantio Bierhoff Kurnia",
+          "judul": "Penanganan Imbalanced Dataset Menggunakan SMOTE pada Prediksi Tipe Kepribadian Aktor dan Aktris Film Marvel",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Nelly Indriani W, S.Si., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120272",
+          "nama": "Salsabila Marhan",
+          "judul": "Implementasi Externally Hosted Private Cloud Aplikasi Penyimpanan Data Menggunakan Nextcloud Di SMA Negeri 1 Citeureup",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Sopian Alviana, S.Kom., M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Chrismikha Haryanto, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5092,
+      "completion_tokens": 2376,
+      "total_tokens": 7468,
+      "latency_s": 13.686
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120114",
+          "nama": "Rayhan Rahman Miraj Bunyamin Rustandar",
+          "judul": "Reengineering Website Juragan Panel Menggunakan Metode Clean Code",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10119289",
+          "nama": "Dhifo Aksa Hermawan",
+          "judul": "Pembangunan Aplikasi Konversi Pulsa ke Mata Uang Digital Berbasis Website di PT. Fajar Ekosistem Digital",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120134",
+          "nama": "Eriko Ananta",
+          "judul": "Pengaruh Penerapan Frame Rate Terhadap Peningkatan Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi lag dalam Game Shooter Multiplayer",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120020",
+          "nama": "Risha Amara",
+          "judul": "Penerapan Data Mining Menggunakan Metode Klasifikasi untuk Menghasilkan Rekomendasi Tanam",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10118089",
+          "nama": "Ifanka Wiralangga",
+          "judul": "Game Pathway-Finding 3D Mencari Rute Terpendek Menggunakan Algoritma A*(A-Star) dengan Optimasi Heapsort",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Irfan Maliki, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120102",
+          "nama": "Fasya Mutiara Pagi",
+          "judul": "Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi Tinder dengan Metode Support Vector Machine",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Nelly Indriani W, S.Si., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120222",
+          "nama": "Martinus Celvyn Situmorang",
+          "judul": "Sistem Optimalisasi Mesin Produksi dengan Metode Overall Equipment Effectiveness (OEE) di PT. Bandung Lautan Kemasan",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120260",
+          "nama": "Dyaz Amrullah",
+          "judul": "Visualisasi Data dalam Meningkatkan Program Akademik MTS Negeri 3 Pandeglang",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120733",
+          "nama": "Aldi Maulana Saputra",
+          "judul": "Sistem Penerimaan Karyawan Menggunakan Metode Weighted Product (WP) di Rumah Sakit Bhakti Asih Tangerang",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6034",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120918",
+          "nama": "Dennie Fuzi Alviyanies",
+          "judul": "Perancangan Design System dengan Metode Atomic Design pada Majelis Pendidikan Darul Hikam",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120274",
+          "nama": "Tristantio Bierhoff Kurnia",
+          "judul": "Penanganan Imbalanced Dataset Menggunakan SMOTE pada Prediksi Tipe Kepribadian Aktor dan Aktris Film Marvel",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120272",
+          "nama": "Salsabila Marhan",
+          "judul": "Implementasi Externally Hosted Private Cloud Aplikasi Penyimpanan Data Menggunakan Nextcloud Di SMA Negeri 1 Citeureup",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9112,
+      "completion_tokens": 2376,
+      "total_tokens": 11488,
+      "latency_s": 12.603
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 1.0830000000000002,
+    "records": {
+      "txt_count": 12,
+      "json_count": 12,
+      "count_match": true,
+      "common_count": 12,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

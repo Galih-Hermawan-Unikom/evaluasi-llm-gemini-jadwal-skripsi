@@ -1,0 +1,422 @@
+{
+  "query": "Siapa mahasiswa yang sidang di ruang Lab 6 pada hari Senin",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-27T21:40:13.549612",
+    "scenario_id": 196,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120707",
+          "nama": "Rangga Hadi Juniansyah",
+          "judul": "Penerapan Algoritma LSTM pada Chatbot Sistem Informasi Akademik di Program Studi Teknik Informatika Universitas Komputer Indonesia",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120906",
+          "nama": "Sansan Fajrian",
+          "judul": "Pembangunan Aplikasi Monitoring Proyek Berbasis Web Memanfaatkan Teknologi Cloud di PT. Padepokan Tujuh Sembilan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Andri Heryandi, S.T., M.T.",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10118370",
+          "nama": "Muhammad Yusuf",
+          "judul": "Pengembangan Modul Tanda Tangan Digital pada Sistem DP2M Unikom Menggunakan Metode ECDSA",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Richi Dwi Agustia, M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120241",
+          "nama": "Arby Febrian Saputro",
+          "judul": "Penerapan Data Mining Menggunakan Metode Association Rule untuk Penempatan Tata Letak Produk di CV. Jes International",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Dr. Ednawati Rainarli, S.Si., M.Si.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120250",
+          "nama": "Farhan Maulana Iqbal",
+          "judul": "Penerapan K-Means untuk Klasterisasi Data Obat pada Puskesma Watubelah",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120001",
+          "nama": "Rudiansyah Adi Prasetyo",
+          "judul": "Pengembangan Teknologi Game Interaktif dalam Pendidikan Lingkungan : Implementasi Game untuk Pemilahan dan Pengelolaan Sampah",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Richi Dwi Agustia, M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120179",
+          "nama": "Fina Annisa Rahmasari",
+          "judul": "Game Interaktif Penyebarluasan Informasi HIV & AIDS pada Kesehatan Masyarakat",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9075,
+      "completion_tokens": 1374,
+      "total_tokens": 10449,
+      "latency_s": 8.691
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120707",
+          "nama": "Rangga Hadi Junansyah",
+          "judul": "Penerapan Algoritma LSTM pada Chatbot Sistem Informasi Akademik di Program Studi Teknik Informatika Universitas Komputer Indonesia",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Dr. Ednawati Rainarli, S.Si., M.Si.",
+            "Nelly Indriani W, S.Si., M.T.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120094",
+          "nama": "Tiara Trisanti Ramadhani",
+          "judul": "Sistem Penentuan Jumlah Pembelian Bahan Baku Resto Pawon Leyeh Leyeh Menggunakan Metode Single Exponential Smoothing di CV. Dunia Kreasi",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6034",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Rani Susanto, S.Kom., M.Kom.",
+            "Sopian Alviana, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120241",
+          "nama": "Arby Febrian Saputro",
+          "judul": "Penerapan Data Mining Menggunakan Metode Association Rule untuk Penempatan Tata Letak Produk di CV. Jes International",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si.",
+            "Anna Dara Andriana, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120250",
+          "nama": "Farhan Maulana Iqbal",
+          "judul": "Penerapan K-Means untuk Klasterisasi Data Obat pada Puskesmas Watubelah",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-27",
+          "hari": "Selasa",
+          "nim": "10120050",
+          "nama": "Ari Syaf",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Puskesmas Menggunakan Metode Performance Dashboard di UPTD Puskesmas Sagalaherang Kabupaten Subang",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom",
+            "Tati Harihayati M., S.T., M.Τ",
+            "Kania Evita Dewi, S.Pd., M.Si"
+          ]
+        },
+        {
+          "tanggal": "2024-08-27",
+          "hari": "Selasa",
+          "nim": "10120708",
+          "nama": "Taufiq Qurohman Ruki",
+          "judul": "Visualisasi Data pada Departemen HRD PT. Dharma Polimetal Tbk.",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-27",
+          "hari": "Selasa",
+          "nim": "10120186",
+          "nama": "Raihan Syah Sukana Putra",
+          "judul": "Analisis Sentimen terhadap Topik di Media Sosial Twitter",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-28",
+          "hari": "Rabu",
+          "nim": "10120036",
+          "nama": "Antonius Ryonathan",
+          "judul": "Desain Interaksi Permainan Edukasi untuk Meningkatkan Kemampuan Sosial Emosional bagi Anak Disleksia di Indigrow Child Development Center Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-28",
+          "hari": "Rabu",
+          "nim": "10120740",
+          "nama": "Adnan Al-Farizi Rahmat",
+          "judul": "Penerapan Data Mining untuk Mengetahui Topik dalam Media Sosial Twitter",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-28",
+          "hari": "Rabu",
+          "nim": "10120729",
+          "nama": "Rissopan Panji Prayogi",
+          "judul": "Klasifikasi Emosi pada Teks Media Sosial X (Twitter) Indonesia Menggunakan Metode Neural Network",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Galih Hermawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-29",
+          "hari": "Kamis",
+          "nim": "10120735",
+          "nama": "Pauli Yudha Gultom",
+          "judul": "Visualisasi Data Perancangan dan Evaluasi Pembangunan di Badan Perencanaan Pembangunan Daerah Jawa Barat",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-29",
+          "hari": "Kamis",
+          "nim": "10120210",
+          "nama": "Muhammad Ichsan Kamil",
+          "judul": "Penerapan Data Mining untuk Mendiagnosis Penyakit Padi",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-29",
+          "hari": "Kamis",
+          "nim": "10120182",
+          "nama": "Daffa Surya Mahardhika",
+          "judul": "Optimasi Kinerja Cluster dengan Memanfaatan Sumber Daya Menggunakan High-Performance Computing",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Irawan Afrianto, S.T., M.T.",
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-29",
+          "hari": "Kamis",
+          "nim": "10120908",
+          "nama": "Rizka Ghinna Auliya",
+          "judul": "Reengineering Aplikasi Svara dengan Pendekatan Prinsip Clean Architecture Berbasis Android",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-30",
+          "hari": "Jumat",
+          "nim": "10120038",
+          "nama": "Randi Hardiansyah",
+          "judul": "Pembangunan Aplikasi Absensi Berbasis Face Recognition Menggunakan Modul ESP32-CAM di SMAN 19 Bandung",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-30",
+          "hari": "Jumat",
+          "nim": "10117241",
+          "nama": "Yogi Resky Akhbar",
+          "judul": "Pengembangan Aplikasi Mobile untuk Pendataan Ketersediaan Barang di Warung Kelurahan Dago, Kota Bandung",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16685,
+      "completion_tokens": 3110,
+      "total_tokens": 19795,
+      "latency_s": 17.164
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 8.473,
+    "records": {
+      "txt_count": 7,
+      "json_count": 16,
+      "count_match": false,
+      "common_count": 3,
+      "only_in_txt": [
+        "10118370",
+        "10120001",
+        "10120179",
+        "10120906"
+      ],
+      "only_in_json": [
+        "10117241",
+        "10120036",
+        "10120038",
+        "10120050",
+        "10120094",
+        "10120182",
+        "10120186",
+        "10120210",
+        "10120708",
+        "10120729",
+        "10120735",
+        "10120740",
+        "10120908"
+      ],
+      "match_percentage": 15.0
+    }
+  }
+}
