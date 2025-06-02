@@ -1,0 +1,86 @@
+{
+  "query": "Siapa mahasiswa dengan NIM terkecil yang seminar di ruang R6010 pada hari Selasa",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:09:26.774785",
+    "scenario_id": 96,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10118030",
+          "nama": "Ari Sulistio",
+          "judul": "Sistem Pengelolaan Pengetahuan Bimbingan Konseling Menggunakan Metode Case Base Reasoning (CBR) dalam Penanganan Masalah di SMK Medikacom",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3119,
+      "completion_tokens": 209,
+      "total_tokens": 3328,
+      "latency_s": 2.817
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10118030",
+          "nama": "Ari Sulistio",
+          "judul": "Sistem Pengelolaan Pengetahuan Bimbingan Konseling Menggunakan Metode Case Base Reasoning (CBR) dalam Penanganan Masalah di SMK Medikacom",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5221,
+      "completion_tokens": 209,
+      "total_tokens": 5430,
+      "latency_s": 2.027
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.79,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "query": "Jadwal di R6010, 02 Jan 2024, mulai 09.15",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:02:47.403760",
+    "scenario_id": 52,
+    "category_id": "K-3"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10118030",
+          "nama": "Ari Sulistio",
+          "judul": "Sistem Pengelolaan Pengetahuan Bimbingan Konseling Menggunakan Metode Case Base Reasoning (CBR) dalam Penanganan Masalah di SMK Medikacom",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3125,
+      "completion_tokens": 209,
+      "total_tokens": 3334,
+      "latency_s": 2.82
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10118030",
+          "nama": "Ari Sulistio",
+          "judul": "Sistem Pengelolaan Pengetahuan Bimbingan Konseling Menggunakan Metode Case Base Reasoning (CBR) dalam Penanganan Masalah di SMK Medikacom",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5227,
+      "completion_tokens": 209,
+      "total_tokens": 5436,
+      "latency_s": 3.213
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.39300000000000024,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

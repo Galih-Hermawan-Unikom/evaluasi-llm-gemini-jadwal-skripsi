@@ -1,0 +1,86 @@
+{
+  "query": "Berapa NIM dari mahasiswa Dimas",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 4,
+    "timestamp": "2025-05-27T20:00:05.359594",
+    "scenario_id": 33,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-20",
+          "hari": "Rabu",
+          "nim": "10119285",
+          "nama": "Dimas Senjani Sukma",
+          "judul": "Pembangunan Aplikasi Pasar Online di PT. Harmoni Mitra Jayandra",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1705,
+      "completion_tokens": 200,
+      "total_tokens": 1905,
+      "latency_s": 1.891
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-20",
+          "hari": "Rabu",
+          "nim": "10119285",
+          "nama": "Dimas Senjani Sukma",
+          "judul": "Pembangunan Aplikasi Pasar Online di PT. Harmoni Mitra Jayandra",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2519,
+      "completion_tokens": 200,
+      "total_tokens": 2719,
+      "latency_s": 2.793
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.9020000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

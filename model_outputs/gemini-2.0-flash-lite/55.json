@@ -1,0 +1,130 @@
+{
+  "query": "Jadwal di 6010, 03 Januari 2024, selesai pukul 13",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:03:13.697697",
+    "scenario_id": 55,
+    "category_id": "K-3"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119026",
+          "nama": "Muhammad Khatami",
+          "judul": "Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada Acara Job Fair",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119251",
+          "nama": "Muhamad Ridwan",
+          "judul": "Pengembangan Prototipe Pendeteksi Pelanggaran Lalu Lintas Berbasis IoT Menggunakan Algoritma Yolo",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119901",
+          "nama": "Fauzan Muhammad A",
+          "judul": "Pembangunan Aplikasi Pemesanan Tiket Shuttle Perdana Trans Berbasis Web",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3123,
+      "completion_tokens": 546,
+      "total_tokens": 3669,
+      "latency_s": 4.48
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119251",
+          "nama": "Muhamad Ridwan",
+          "judul": "Pengembangan Prototipe Pendeteksi Pelanggaran Lalu Lintas Berbasis IoT Menggunakan Algoritma Yolo",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119901",
+          "nama": "Fauzan Muhammad A",
+          "judul": "Pembangunan Aplikasi Pemesanan Tiket Shuttle Perdana Trans Berbasis Web",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5225,
+      "completion_tokens": 381,
+      "total_tokens": 5606,
+      "latency_s": 3.523
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.9570000000000003,
+    "records": {
+      "txt_count": 3,
+      "json_count": 2,
+      "count_match": false,
+      "common_count": 2,
+      "only_in_txt": [
+        "10119026"
+      ],
+      "only_in_json": [],
+      "match_percentage": 66.67
+    }
+  }
+}

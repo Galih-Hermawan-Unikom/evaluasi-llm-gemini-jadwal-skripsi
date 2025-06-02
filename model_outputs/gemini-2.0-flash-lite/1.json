@@ -1,0 +1,112 @@
+{
+  "query": "Tampilkan jadwal Pak Sopian",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T19:55:55.803473",
+    "scenario_id": 1,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-27",
+          "hari": "Senin",
+          "nim": "10119048",
+          "nama": "Mochammad Faishal",
+          "judul": "Sistem Pelatihan Robot Lengan berbasis Visual",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2023-11-28",
+          "hari": "Selasa",
+          "nim": "10118032",
+          "nama": "Guntur Maulana Ibrahim",
+          "judul": "Sistem Deteksi Morfologi Tanaman pada Proses Pertumbuhan \nCabai Rawit berbasis Internet of Things",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2974,
+      "completion_tokens": 370,
+      "total_tokens": 3344,
+      "latency_s": 3.071
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-28",
+          "hari": "Selasa",
+          "nim": "10119048",
+          "nama": "Mochammad Faishal",
+          "judul": "Sistem Pelatihan Robot Lengan berbasis Visual",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sopian Alviana, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2023-11-28",
+          "hari": "Selasa",
+          "nim": "10118032",
+          "nama": "Guntur Maulana Ibrahim",
+          "judul": "Sistem Deteksi Morfologi Tanaman pada Proses Pertumbuhan Cabai Rawit berbasis Internet of Things",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Sopian Alviana, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4835,
+      "completion_tokens": 334,
+      "total_tokens": 5169,
+      "latency_s": 2.724
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.347,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

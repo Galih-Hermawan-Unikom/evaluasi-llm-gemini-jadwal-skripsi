@@ -1,0 +1,90 @@
+{
+  "query": "Sebutkan NIM mahasiswa terkecil yang seminar di Ruang 6010 pada tanggal 3 Januari 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:09:41.610993",
+    "scenario_id": 98,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119026",
+          "nama": "Muhammad Khatami",
+          "judul": "Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada \nAcara Job Fair",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3127,
+      "completion_tokens": 195,
+      "total_tokens": 3322,
+      "latency_s": 1.974
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119251",
+          "nama": "Muhamad Ridwan",
+          "judul": "Pengembangan Prototipe Pendeteksi Pelanggaran Lalu Lintas Berbasis IoT Menggunakan Algoritma Yolo",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5229,
+      "completion_tokens": 207,
+      "total_tokens": 5436,
+      "latency_s": 2.99
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.0160000000000002,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "10119026"
+      ],
+      "only_in_json": [
+        "10119251"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

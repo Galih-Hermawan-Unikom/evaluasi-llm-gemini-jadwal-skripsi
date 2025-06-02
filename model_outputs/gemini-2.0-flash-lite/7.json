@@ -1,0 +1,86 @@
+{
+  "query": "Jam berapa seminar Muhammad Iman Komarudiansyah berakhir",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T19:56:41.940990",
+    "scenario_id": 7,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-29",
+          "hari": "Rabu",
+          "nim": "10118135",
+          "nama": "Muhammad Iman Komarudiansyah",
+          "judul": "Sistem Informasi Manajemen Produksi Bawang Goreng di UD. Sinar Tani",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2979,
+      "completion_tokens": 200,
+      "total_tokens": 3179,
+      "latency_s": 3.172
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-29",
+          "hari": "Rabu",
+          "nim": "10118135",
+          "nama": "Muhammad Iman Komarudiansyah",
+          "judul": "Sistem Informasi Manajemen Produksi Bawang Goreng di UD. Sinar Tani",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom.",
+            "Rani Susanto, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4840,
+      "completion_tokens": 200,
+      "total_tokens": 5040,
+      "latency_s": 2.917
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.25500000000000034,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

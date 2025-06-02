@@ -1,0 +1,114 @@
+{
+  "query": "Siapa saja mahasiswa dengan seminar paling pagi pada tanggal 1 Juli 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil.",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 7,
+    "timestamp": "2025-05-27T20:07:39.210354",
+    "scenario_id": 81,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-01",
+          "hari": "Senin",
+          "nim": "10120067",
+          "nama": "Zulfa Firdaus",
+          "judul": "Sistem Penjadwalan Antrian Pemeriksaan Pasien Menggunakan \nAlgoritma Round Robin di Klinik Seno Medika Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-07-01",
+          "hari": "Senin",
+          "nim": "10120183",
+          "nama": "Rizal Prasetia Supriadi",
+          "judul": "Sistem Rekam Medis Terdistribusi dengan Memanfaatkan \nTeknologi Blockchain untuk Meningkatkan Keamanan Data",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Irawan Afrianto, S.T., M.T.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5312,
+      "completion_tokens": 390,
+      "total_tokens": 5702,
+      "latency_s": 3.989
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-01",
+          "hari": "Senin",
+          "nim": "10120067",
+          "nama": "Zulfa Firdaus",
+          "judul": "Sistem Penjadwalan Antrian Pemeriksaan Pasien Menggunakan Algoritma Round Robin di Klinik Seno Medika Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Anna Dara Andriana, S.Kom., M.Kom.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-07-01",
+          "hari": "Senin",
+          "nim": "10120183",
+          "nama": "Rizal Prasetia Supriadi",
+          "judul": "Sistem Rekam Medis Terdistribusi dengan Memanfaatkan Teknologi Blockchain untuk Meningkatkan Keamanan Data",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9577,
+      "completion_tokens": 384,
+      "total_tokens": 9961,
+      "latency_s": 3.045
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.944,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}
