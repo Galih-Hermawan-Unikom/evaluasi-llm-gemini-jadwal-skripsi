@@ -1,0 +1,86 @@
+{
+  "query": "Siapa mahasiswa dengan seminar paling terakhir pada hari Senin",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 3,
+    "timestamp": "2025-05-23T18:00:59.349947",
+    "scenario_id": 91,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-11",
+          "hari": "Senin",
+          "nim": "10119028",
+          "nama": "Rizal Sihombing",
+          "judul": "Pembangunan Sistem Pemantauan Kebutuhan Air Minum pada Saat Olahraga Lari Berbasis Android",
+          "waktu_mulai": "15:30",
+          "waktu_selesai": "16:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 856,
+      "completion_tokens": 202,
+      "total_tokens": 1058,
+      "latency_s": 4.815
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-11",
+          "hari": "Senin",
+          "nim": "10119028",
+          "nama": "Rizal Sihombing",
+          "judul": "Pembangunan Sistem Pemantauan Kebutuhan Air Minum pada Saat Olahraga Lari Berbasis Android",
+          "waktu_mulai": "15:30",
+          "waktu_selesai": "16:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Ir. Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1005,
+      "completion_tokens": 202,
+      "total_tokens": 1207,
+      "latency_s": 2.984
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 1.8310000000000004,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

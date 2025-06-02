@@ -1,0 +1,86 @@
+{
+  "query": "Dimana ruang seminarnya Hafid",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 4,
+    "timestamp": "2025-05-23T17:43:53.621239",
+    "scenario_id": 28,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-19",
+          "hari": "Selasa",
+          "nim": "10119089",
+          "nama": "Hafid Ramadhan",
+          "judul": "Pengembangan Mobile Ad Hoc Network di Daerah Minim Sinyal Internet Menggunakan Metode Peer to Peer Berbasis Mikrotik pada PT. Wamengkoli Jaya",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1664,
+      "completion_tokens": 213,
+      "total_tokens": 1877,
+      "latency_s": 4.417
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-19",
+          "hari": "Selasa",
+          "nim": "10119089",
+          "nama": "Hafid Ramadhan",
+          "judul": "Pengembangan Mobile Ad Hoc Network di Daerah Minim Sinyal Internet Menggunakan Metode Peer to Peer Berbasis Mikrotik pada PT. Wamengkoli Jaya",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2376,
+      "completion_tokens": 213,
+      "total_tokens": 2589,
+      "latency_s": 1.903
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 2.514,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

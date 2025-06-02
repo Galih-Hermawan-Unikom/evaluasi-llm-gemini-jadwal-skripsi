@@ -1,0 +1,114 @@
+{
+  "query": "Di mana seminar Rizky dilaksanakan",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 3,
+    "timestamp": "2025-05-23T17:41:30.247018",
+    "scenario_id": 17,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-11",
+          "hari": "Senin",
+          "nim": "10119193",
+          "nama": "Muhammad Rizky Pratama",
+          "judul": "Penghitungan Kendaraan Bermotor Berdasarkan Jenis Dengan Menggunakan Metode YOLOv8",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        },
+        {
+          "tanggal": "2023-12-12",
+          "hari": "Selasa",
+          "nim": "10118147",
+          "nama": "Rizky Renaldi Cahya Febrian",
+          "judul": "Pembangunan Aplikasi Pendeteksi Plagiarisme Menggunakan API Open AI",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 852,
+      "completion_tokens": 379,
+      "total_tokens": 1231,
+      "latency_s": 7.533
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-11",
+          "hari": "Senin",
+          "nim": "10119193",
+          "nama": "Muhammad Rizky Pratama Solahudin",
+          "judul": "Penghitungan Kendaraan Bermotor Berdasarkan Jenis Dengan Menggunakan Metode YOLOv8",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        },
+        {
+          "tanggal": "2023-12-12",
+          "hari": "Selasa",
+          "nim": "10118147",
+          "nama": "Rizky Renaldi Cahya Febrian",
+          "judul": "Pembangunan Aplikasi Pendeteksi Plagiarisme Menggunakan API Open AI",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1001,
+      "completion_tokens": 382,
+      "total_tokens": 1383,
+      "latency_s": 7.466
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.06700000000000017,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

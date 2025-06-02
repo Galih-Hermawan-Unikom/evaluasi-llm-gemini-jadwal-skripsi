@@ -1,0 +1,394 @@
+{
+  "query": "Nama mahasiswa yang seminar pada tanggal 26 Jun 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 6,
+    "timestamp": "2025-05-27T17:16:26.066430",
+    "scenario_id": 65,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120757",
+          "nama": "Muhammad Hilmiy Muharram",
+          "judul": "Sistem Penentuan Jumlah Penjualan Produk Kosmetik dan Perawatan Tubuh Menggunakan Metode Double Exponential Smoothing di CV. Moscip Niaga Mandiri",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Hani Irmayanti, S.Kom.,M.Kom.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120707",
+          "nama": "Rangga Hadi Juniansyah",
+          "judul": "Penerapan Algoritma LSTM pada Chatbot Sistem Informasi Akademik di Program Studi Teknik Informatika Universitas Komputer Indonesia",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120004",
+          "nama": "Muhammad Fariz Rahmat A",
+          "judul": "Implementasi Linear Congruent Method pada Game Edukasi Tahsin Berbasis Android untuk Meningkatkan Literasi Al - Qur’an",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "tidak",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120747",
+          "nama": "Fadillah Fitriani Supriatna",
+          "judul": "Sistem Monitoring dan Evaluasi Penyaluran Dana Bantuan Sosial Menggunakan Metode Performance Dashboard di Desa Cinta Rakyat Kabupaten Garut",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Hani Irmayanti, S.Kom.,M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10119374",
+          "nama": "Muh Abdilah Uzumi",
+          "judul": "Penerapan Optimasi Metode Random Over Sampling (ROS) untuk Kasus Imbalance Class dalam Analisis Sentimen Berbasis Aspek pada Kasus Pembatalan Piala Dunia -20 di Indonesia",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120266",
+          "nama": "Annisa Wulan Sari",
+          "judul": "Sistem Pemantauan Status Kesehatan Sapi Potong Berbasis Internet of Things",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10122705",
+          "nama": "Rayhan Zharfan Al Ghifari",
+          "judul": "Implementasi Security Information and Event Management (SIEM) di Lingkungan UNIKOM",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120136",
+          "nama": "Alif Aziz Alviansyah",
+          "judul": "Pembangungan Aplikasi Face Recognition pada Gimbal untuk Auto Fokus dan Penerapan Filter AI pada Kamera",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Andri Heryandi, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120186",
+          "nama": "Raihan Syah Sukana Putra",
+          "judul": "Analisis Sentimen terhadap Topik di Media Sosial Twitter",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "tidak",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120732",
+          "nama": "Muhammad Armandino Soleh",
+          "judul": "TERAVIS : Game Edukasi Mata Pelajaran Sejarah Indonesia Kelas XI di SMAN 1 Pacet Cianjur",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120220",
+          "nama": "Fahmi Anwar Sidik",
+          "judul": "Analisis Sentimen Berbasis Aspek terhadap Pemindahan Ibu Kota Negara Indonesia Menggunakan Smooth Support Vector Machines",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120735",
+          "nama": "Pauli Yudha Gultom",
+          "judul": "Visualisasi Data Perancangan dan Evaluasi Pembangunan di Badan Perencanaan Pembangunan Daerah Jawa Barat",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6722,
+      "completion_tokens": 2160,
+      "total_tokens": 8882,
+      "latency_s": 19.798
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120757",
+          "nama": "Muhammad Hilmiy Muharram",
+          "judul": "Sistem Penentuan Jumlah Penjualan Produk Kosmetik dan Perawatan Tubuh Menggunakan Metode Double Exponential Smoothing di CV. Moscip Niaga Mandiri",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Hani Irmayanti, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120707",
+          "nama": "Rangga Hadi Juniansyah",
+          "judul": "Penerapan Algoritma LSTM pada Chatbot Sistem Informasi Akademik di Program Studi Teknik Informatika Universitas Komputer Indonesia",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Dr. Ednawati Rainarli, S.Si., M.Si.",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120004",
+          "nama": "Muhammad Fariz Rahmat A",
+          "judul": "Implementasi Linear Congruent Method pada Game Edukasi Tahsin Berbasis Android untuk Meningkatkan Literasi Al-Qur’an",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "tidak",
+          "dosen": [
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120747",
+          "nama": "Fadillah Fitriani Supriatna",
+          "judul": "Sistem Monitoring dan Evaluasi Penyaluran Dana Bantuan Sosial Menggunakan Metode Performance Dashboard di Desa Cinta Rakyat Kabupaten Garut",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Hani Irmayanti, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10119374",
+          "nama": "Muh Abdilah Uzumi",
+          "judul": "Penerapan Optimasi Metode Random Over Sampling (ROS) untuk Kasus Imbalance Class dalam Analisis Sentimen Berbasis Aspek pada Kasus Pembatalan Piala Dunia U-20 di Indonesia",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Galih Hermawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120266",
+          "nama": "Annisa Wulan Sari",
+          "judul": "Sistem Pemantauan Status Kesehatan Sapi Potong Berbasis Internet of Things",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10122705",
+          "nama": "Rayhan Zharfan Al Ghifari",
+          "judul": "Implementasi Security Information and Event Management (SIEM) di Lingkungan UNIKOM",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120136",
+          "nama": "Alif Aziz Alviansyah",
+          "judul": "Pembangungan Aplikasi Face Recognition pada Gimbal untuk Auto Fokus dan Penerapan Filter AI pada Kamera",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120186",
+          "nama": "Raihan Syah Sukana Putra",
+          "judul": "Analisis Sentimen terhadap Topik di Media Sosial Twitter",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "tidak",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120732",
+          "nama": "Muhammad Armandino Soleh",
+          "judul": "TERAVIS : Game Edukasi Mata Pelajaran Sejarah Indonesia Kelas XI di SMAN 1 Pacet Cianjur",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120220",
+          "nama": "Fahmi Anwar Sidik",
+          "judul": "Analisis Sentimen Berbasis Aspek terhadap Pemindahan Ibu Kota Negara Indonesia Menggunakan Smooth Support Vector Machines",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120735",
+          "nama": "Pauli Yudha Gultom",
+          "judul": "Visualisasi Data Perancangan dan Evaluasi Pembangunan di Badan Perencanaan Pembangunan Daerah Jawa Barat",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 11872,
+      "completion_tokens": 2162,
+      "total_tokens": 14034,
+      "latency_s": 9.852
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 9.945999999999998,
+    "records": {
+      "txt_count": 12,
+      "json_count": 12,
+      "count_match": true,
+      "common_count": 12,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

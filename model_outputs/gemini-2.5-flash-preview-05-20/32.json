@@ -1,0 +1,114 @@
+{
+  "query": "Siapa saja mahasiswa yang seminar dengan Pak Galih",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 4,
+    "timestamp": "2025-05-23T17:45:09.354929",
+    "scenario_id": 32,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-19",
+          "hari": "Selasa",
+          "nim": "10119106",
+          "nama": "Ahmad Fikri Maulana",
+          "judul": "Pembangunan Aplikasi Pendeteksi Bahasa Isyarat Memanfaatkan Tensorflow API dan Text to Speech API Berbasis Android",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2023-12-19",
+          "hari": "Selasa",
+          "nim": "10119004",
+          "nama": "Muhamad Ramadan",
+          "judul": "Pembangunan Aplikasi Monitoring Tanam Panen Tanaman Sawi",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1667,
+      "completion_tokens": 372,
+      "total_tokens": 2039,
+      "latency_s": 7.107
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-19",
+          "hari": "Selasa",
+          "nim": "10119106",
+          "nama": "Ahmad Fikri Maulana",
+          "judul": "Pembangunan Aplikasi Pendeteksi Bahasa Isyarat Memanfaatkan Tensorflow API dan Text to Speech API Berbasis Android",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2023-12-19",
+          "hari": "Selasa",
+          "nim": "10119004",
+          "nama": "Muhamad Ramadan",
+          "judul": "Pembangunan Aplikasi Monitoring Tanam Panen Tanaman Sawi",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Ir. Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2379,
+      "completion_tokens": 372,
+      "total_tokens": 2751,
+      "latency_s": 5.086
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 2.021,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

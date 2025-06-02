@@ -1,0 +1,86 @@
+{
+  "query": "Jadwal di 6010, 03 Januari 2024, selesai pukul 13",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-23T17:51:48.323789",
+    "scenario_id": 55,
+    "category_id": "K-3"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119901",
+          "nama": "Fauzan Muhammad A",
+          "judul": "Pembangunan Aplikasi Pemesanan Tiket Shuttle Perdana Trans Berbasis Web",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3082,
+      "completion_tokens": 202,
+      "total_tokens": 3284,
+      "latency_s": 5.076
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119901",
+          "nama": "Fauzan Muhammad A",
+          "judul": "Pembangunan Aplikasi Pemesanan Tiket Shuttle Perdana Trans Berbasis Web",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5082,
+      "completion_tokens": 202,
+      "total_tokens": 5284,
+      "latency_s": 5.787
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.7110000000000003,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

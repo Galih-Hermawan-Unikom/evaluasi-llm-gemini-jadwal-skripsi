@@ -1,0 +1,64 @@
+{
+  "query": "Total seminar mulai 09.15 tanggal 28 Juni 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 6,
+    "timestamp": "2025-05-23T17:57:20.656604",
+    "scenario_id": 72,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 5
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 6423,
+      "completion_tokens": 33,
+      "total_tokens": 6456,
+      "latency_s": 3.6
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 3
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 11553,
+      "completion_tokens": 33,
+      "total_tokens": 11586,
+      "latency_s": 2.876
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.7240000000000002,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "count: 5"
+      ],
+      "only_in_json": [
+        "count: 3"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

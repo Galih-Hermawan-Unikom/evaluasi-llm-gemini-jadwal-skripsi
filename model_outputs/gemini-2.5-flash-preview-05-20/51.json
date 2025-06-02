@@ -1,0 +1,86 @@
+{
+  "query": "Jadwal di R6010, 29 Mei 2024, selesai 10.30",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 2,
+    "timestamp": "2025-05-23T17:50:17.669297",
+    "scenario_id": 51,
+    "category_id": "K-3"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-05-29",
+          "hari": "Rabu",
+          "nim": "10120905",
+          "nama": "Johndy Panca",
+          "judul": "Analisis Efisiensi Horizontal Pod Autoscalling Kubernetes dalam Mengelola Lonjakan Traffic pada Platform E-Learning Moodle",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2450,
+      "completion_tokens": 206,
+      "total_tokens": 2656,
+      "latency_s": 7.843
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-05-29",
+          "hari": "Rabu",
+          "nim": "10120905",
+          "nama": "Johndy Panca",
+          "judul": "Analisis Efisiensi Horizontal Pod Autoscaling Kubernetes dalam Mengelola Lonjakan Traffic pada Platform E-Learning Moodle",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Sopian Alviana, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3912,
+      "completion_tokens": 206,
+      "total_tokens": 4118,
+      "latency_s": 6.486
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 1.3570000000000002,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

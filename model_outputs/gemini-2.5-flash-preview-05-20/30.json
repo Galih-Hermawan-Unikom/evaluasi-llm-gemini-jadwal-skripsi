@@ -1,0 +1,114 @@
+{
+  "query": "Tanggal berapa Bu Gentisya seminar",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 4,
+    "timestamp": "2025-05-23T17:44:27.407262",
+    "scenario_id": 30,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-21",
+          "hari": "Kamis",
+          "nim": "10119209",
+          "nama": "Muhammad Iqbal Rosyidin",
+          "judul": "Sistem Penjadwalan Proyek Perangkat Lunak di PT.Swamedia Informatika dengan Metode Agile",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2023-12-22",
+          "hari": "Jumat",
+          "nim": "10119195",
+          "nama": "Fajar Nugraha",
+          "judul": "Sistem Penilaian Kepuasan Pelanggan Menggunakan Metode ServQual di PT. ATLANTIC AKSA GROUP",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1665,
+      "completion_tokens": 383,
+      "total_tokens": 2048,
+      "latency_s": 12.994
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-21",
+          "hari": "Kamis",
+          "nim": "10119209",
+          "nama": "Muhammad Iqbal Rosyidin",
+          "judul": "Sistem Penjadwalan Proyek Perangkat Lunak di PT. Swamedia Informatika dengan Metode Agile",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2023-12-22",
+          "hari": "Jumat",
+          "nim": "10119195",
+          "nama": "Fajar Nugraha",
+          "judul": "Sistem Penilaian Kepuasan Pelanggan Menggunakan Metode ServQual di PT. Atlantic Aksa Group",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2377,
+      "completion_tokens": 382,
+      "total_tokens": 2759,
+      "latency_s": 6.334
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 6.66,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

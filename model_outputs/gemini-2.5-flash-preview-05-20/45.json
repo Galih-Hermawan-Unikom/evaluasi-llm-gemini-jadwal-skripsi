@@ -1,0 +1,86 @@
+{
+  "query": "Kapan tanggal seminar mahasiswa NIM 10118346",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 7,
+    "timestamp": "2025-05-23T17:48:45.806624",
+    "scenario_id": 45,
+    "category_id": "K-2"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-13",
+          "hari": "Sabtu",
+          "nim": "10118346",
+          "nama": "Ari Vatricosada Pakpahan",
+          "judul": "Sistem Penentuan Jumlah Pembelian Produk dengan Metode Weight Moving Average (WMA) di Bloom Petshop",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1080,
+      "completion_tokens": 203,
+      "total_tokens": 1283,
+      "latency_s": 6.381
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-13",
+          "hari": "Sabtu",
+          "nim": "10118346",
+          "nama": "Ari Vatricosada Pakpahan",
+          "judul": "Sistem Penentuan Jumlah Pembelian Produk dengan Metode Weight Moving Average (WMA) di Bloom Petshop",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1417,
+      "completion_tokens": 203,
+      "total_tokens": 1620,
+      "latency_s": 3.075
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 3.306,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

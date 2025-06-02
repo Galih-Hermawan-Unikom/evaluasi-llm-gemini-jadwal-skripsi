@@ -1,0 +1,86 @@
+{
+  "query": "Di antara seminar tanggal 9 Juli 2024, siapa mahasiswa dengan NIM terkecil",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 8,
+    "timestamp": "2025-05-23T18:00:32.429959",
+    "scenario_id": 89,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-09",
+          "hari": "Selasa",
+          "nim": "10118379",
+          "nama": "Luthfy Karliandi Nugraha",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Material Menggunakan Metode Economic Order Quantity (EOQ) di PT. Hasta Agung Nusantara Sentosa",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1446,
+      "completion_tokens": 215,
+      "total_tokens": 1661,
+      "latency_s": 4.104
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-09",
+          "hari": "Selasa",
+          "nim": "10118379",
+          "nama": "Luthfy Karliandi Nugraha",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Material Menggunakan Metode Economic Order Quantity (EOQ) di PT. Hasta Agung Nusantara Sentosa",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+            "Hanhan Maulana, M.Kom., Ph.D."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2008,
+      "completion_tokens": 215,
+      "total_tokens": 2223,
+      "latency_s": 2.96
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 1.1440000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

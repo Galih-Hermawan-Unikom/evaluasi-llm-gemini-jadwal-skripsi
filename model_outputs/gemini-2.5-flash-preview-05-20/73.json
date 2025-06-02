@@ -1,0 +1,60 @@
+{
+  "query": "Banyak seminar di 6028 tanggal 26 Juni 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 6,
+    "timestamp": "2025-05-26T21:43:50.830539",
+    "scenario_id": 73,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 4
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 6427,
+      "completion_tokens": 33,
+      "total_tokens": 6460,
+      "latency_s": 5.222
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 4
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 11558,
+      "completion_tokens": 33,
+      "total_tokens": 11591,
+      "latency_s": 2.971
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 2.2510000000000003,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}
