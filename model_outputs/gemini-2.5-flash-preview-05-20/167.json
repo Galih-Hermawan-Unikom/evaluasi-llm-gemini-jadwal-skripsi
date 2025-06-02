@@ -1,0 +1,178 @@
+{
+  "query": "Mahasiswa yang diuji oleh Bu Kania tanggal 15 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-26T11:46:01.650388",
+    "scenario_id": 167,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120214",
+          "nama": "Rully Fadia",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Moving Average di CV. Persada Mandiri",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120781",
+          "nama": "Guruh Fillah Alfariza",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Barang Bahan Bangunan Menggunakan Metode Economic Order Quantity (EOQ) di TB. Guntur",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sri Nurhayati, S.Si., M.T.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120193",
+          "nama": "Winda Asmarawati",
+          "judul": "Implementasi Deep Convolutional Generative Adversarial Networks (DCGAN) untuk Augmentasi Data Dalam Deteksi Penyakit Daun Padi",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6034",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120756",
+          "nama": "Nanda Yulia Nabilla",
+          "judul": "Pengaruh Word Normalization dan Levenshtein Distance pada Analisis Sentimen Cyberbullying terhadap Komentar Instagram",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Nelly Indriani W, S.Si., M.T.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5029,
+      "completion_tokens": 816,
+      "total_tokens": 5845,
+      "latency_s": 12.184
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120214",
+          "nama": "Rully Fadia",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Moving Average di CV. Persada Mandiri",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120781",
+          "nama": "Guruh Fillah Alfariza",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Barang Bahan Bangunan Menggunakan Metode Economic Order Quantity (EOQ) di TB. Guntur",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sri Nurhayati, S.Si., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120193",
+          "nama": "Winda Asmarawati",
+          "judul": "Implementasi Deep Convolutional Generative Adversarial Networks (DCGAN) untuk Augmentasi Data Dalam Deteksi Penyakit Daun Padi",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6034",
+          "dosen": [
+            "Dr. Ednawati Rainarli, S.Si., M.Si.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120756",
+          "nama": "Nanda Yulia Nabilla",
+          "judul": "Pengaruh Word Normalization dan Levenshtein Distance pada Analisis Sentimen Cyberbullying terhadap Komentar Instagram",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9046,
+      "completion_tokens": 816,
+      "total_tokens": 9862,
+      "latency_s": 6.341
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 5.842999999999999,
+    "records": {
+      "txt_count": 4,
+      "json_count": 4,
+      "count_match": true,
+      "common_count": 4,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

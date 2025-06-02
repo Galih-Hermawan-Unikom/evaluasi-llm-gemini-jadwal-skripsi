@@ -1,0 +1,208 @@
+{
+  "query": "NIM mahasiswa yang sidang di R6010 hari Selasa",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-23T18:22:07.770915",
+    "scenario_id": 168,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120143",
+          "nama": "Ihsan Ramadhan Nul Hakim",
+          "judul": "Pembangunan WhatsApp Messenger ChatBot untuk Mengidentifikasi Pesan Penipuan",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Sri Nurhayati, S.Si., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10119374",
+          "nama": "Muh Abdilah Uzumi",
+          "judul": "Penerapan Optimasi Metode Random Over Sampling (ROS) untuk Kasus Imbalance Class dalam Analisis Sentimen Berbasis Aspek pada Kasus Pembatalan Piala Dunia -20 di Indonesia",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120117",
+          "nama": "Septyan Surya Jatnika",
+          "judul": "Sistem Penjadwalan Mata Pelajaran Menggunakan Algoritma Genetika di SMA Nasional Bandung",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10119913",
+          "nama": "Muhammad Alvin Rizqi Ramadhan",
+          "judul": "Sistem Monitoring Penumpang Travel Berbasis Internet of Things",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120004",
+          "nama": "Muhammad Fariz Rahmat A",
+          "judul": "Implementasi Linear Congruent Method pada Game Edukasi Tahsin Berbasis Android untuk Meningkatkan Literasi Al - Qur’an",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5047,
+      "completion_tokens": 1007,
+      "total_tokens": 6054,
+      "latency_s": 15.137
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120143",
+          "nama": "Ihsan Ramadhan Nul Hakim",
+          "judul": "Pembangunan WhatsApp Messenger ChatBot untuk Mengidentifikasi Pesan Penipuan",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Sri Nurhayati, S.Si., M.T.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10119374",
+          "nama": "Muh Abdilah Uzumi",
+          "judul": "Penerapan Optimasi Metode Random Over Sampling (ROS) untuk Kasus Imbalance Class dalam Analisis Sentimen Berbasis Aspek pada Kasus Pembatalan Piala Dunia -20 di Indonesia",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120117",
+          "nama": "Septyan Surya Jatnika",
+          "judul": "Sistem Penjadwalan Mata Pelajaran Menggunakan Algoritma Genetika di SMA Nasional Bandung",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Riani Lubis, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10119913",
+          "nama": "Muhammad Alvin Rizqi Ramadhan",
+          "judul": "Sistem Monitoring Penumpang Travel Berbasis Internet of Things",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120004",
+          "nama": "Muhammad Fariz Rahmat A",
+          "judul": "Implementasi Linear Congruent Method pada Game Edukasi Tahsin Berbasis Android untuk Meningkatkan Literasi Al-Qur’an",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8967,
+      "completion_tokens": 1008,
+      "total_tokens": 9975,
+      "latency_s": 5.627
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 9.510000000000002,
+    "records": {
+      "txt_count": 5,
+      "json_count": 5,
+      "count_match": true,
+      "common_count": 5,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

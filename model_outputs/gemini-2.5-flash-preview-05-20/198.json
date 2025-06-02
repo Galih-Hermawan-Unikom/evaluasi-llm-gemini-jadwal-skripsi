@@ -1,0 +1,88 @@
+{
+  "query": "Sebutkan NIM mahasiswa terkecil yang sidang di Ruang 6010 pada tanggal 29 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-26T11:51:29.819917",
+    "scenario_id": 198,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-29",
+          "hari": "Kamis",
+          "nim": "10117002",
+          "nama": "Putra Rizki Pratama Anny",
+          "judul": "Perancangan RPG Startegy Turn-Base berdasar Dokumentasi Peristiwa Sejarah \"Bandung Lautan Api\"",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9025,
+      "completion_tokens": 223,
+      "total_tokens": 9248,
+      "latency_s": 5.678
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-29",
+          "hari": "Kamis",
+          "nim": "10117002",
+          "nama": "Putra Rizki Pratama Anny",
+          "judul": "Perancangan RPG Startegy Turn-Base berdasar Dokumentasi Peristiwa Sejarah 'Bandung Lautan Api'",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Richi Dwi Agustia, M.Kom.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16634,
+      "completion_tokens": 223,
+      "total_tokens": 16857,
+      "latency_s": 4.821
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.8570000000000002,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

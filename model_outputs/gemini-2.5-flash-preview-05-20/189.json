@@ -1,0 +1,88 @@
+{
+  "query": "Di antara sidang tanggal 26 Agustus 2024, siapa mahasiswa dengan NIM terkecil",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-23T18:27:51.815400",
+    "scenario_id": 189,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10118370",
+          "nama": "Muhammad Yusuf",
+          "judul": "Pengembangan Modul Tanda Tangan Digital pada Sistem DP2M Unikom Menggunakan Metode ECDSA",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Richi Dwi Agustia, M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9042,
+      "completion_tokens": 215,
+      "total_tokens": 9257,
+      "latency_s": 15.812
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10118370",
+          "nama": "MUHAMMAD YUSUF",
+          "judul": "Pengembangan Modul Tanda Tangan Digital pada Sistem DP2M Unikom Menggunakan Metode ECDSA",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Angga Setiyadi, S.Kom., M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16554,
+      "completion_tokens": 219,
+      "total_tokens": 16773,
+      "latency_s": 3.654
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 12.158,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

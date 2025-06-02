@@ -1,0 +1,63 @@
+{
+  "query": "Siapa saja dosen yang menguji terbanyak pada tanggal 29 Agustus 2024 jika lebih dari satu tampilkan sesuai urutan alphabet",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-26T11:51:02.452513",
+    "scenario_id": 193,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Hanhan Maulana, M.Kom., Ph.D."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8810,
+      "completion_tokens": 44,
+      "total_tokens": 8854,
+      "latency_s": 11.134
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Hanhan Maulana, M.Kom., Ph.D.",
+        "Richi Dwi Agustia, M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16403,
+      "completion_tokens": 58,
+      "total_tokens": 16461,
+      "latency_s": 16.675
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 5.541,
+    "records": {
+      "txt_count": 1,
+      "json_count": 2,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [
+        "Richi Dwi Agustia, M.Kom."
+      ],
+      "match_percentage": 50.0
+    }
+  }
+}

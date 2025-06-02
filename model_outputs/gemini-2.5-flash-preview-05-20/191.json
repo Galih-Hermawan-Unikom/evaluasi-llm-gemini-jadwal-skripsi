@@ -1,0 +1,88 @@
+{
+  "query": "Siapa mahasiswa dengan sidang paling terakhir pada hari Senin",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-27T01:09:14.718088",
+    "scenario_id": 191,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120001",
+          "nama": "Rudiansyah Adi Prasetyo",
+          "judul": "Pengembangan Teknologi Game Interaktif dalam Pendidikan Lingkungan : Implementasi Game untuk Pemilahan dan Pengelolaan Sampah",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Richi Dwi Agustia, M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9072,
+      "completion_tokens": 221,
+      "total_tokens": 9293,
+      "latency_s": 10.622
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120001",
+          "nama": "RUDIANSYAH ADI PRASETYO",
+          "judul": "Pengembangan Teknologi Game Interaktif dalam Pendidikan Lingkungan: Implementasi Game untuk Pemilahan dan Pengelolaan Sampah",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16684,
+      "completion_tokens": 224,
+      "total_tokens": 16908,
+      "latency_s": 6.331
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 4.2909999999999995,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "query": "Siapa mahasiswa dengan sidang paling awal pada hari Senin? Jika lebih dari 1 orang ambil nim yang paling besar",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-23T18:27:11.282037",
+    "scenario_id": 187,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-19",
+          "hari": "Senin",
+          "nim": "10120181",
+          "nama": "Akhdan Rafly",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Exponential Smoothing di Toko Putra Subur Makmur",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10594,
+      "completion_tokens": 221,
+      "total_tokens": 10815,
+      "latency_s": 9.515
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-19",
+          "hari": "Senin",
+          "nim": "10120181",
+          "nama": "Akhdan Rafly",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Exponential Smoothing di Toko Putra Subur Makmur",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19203,
+      "completion_tokens": 221,
+      "total_tokens": 19424,
+      "latency_s": 3.458
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 6.057,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

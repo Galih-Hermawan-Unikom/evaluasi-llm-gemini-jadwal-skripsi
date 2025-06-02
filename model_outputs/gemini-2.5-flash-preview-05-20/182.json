@@ -1,0 +1,88 @@
+{
+  "query": "Siapa mahasiswa dengan sidang paling akhir pada  21 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T18:53:47.886140",
+    "scenario_id": 182,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-21",
+          "hari": "RABU",
+          "nim": "10117121",
+          "nama": "MOHAMMAD RIFQI SHODIQ MUJAHID",
+          "judul": "Pembangunan Sistem Inventori Puskesmas Pamandegan Berbasis Mobile",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Sufaatin, S.T., M.Kom.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10630,
+      "completion_tokens": 220,
+      "total_tokens": 10850,
+      "latency_s": 6.072
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-21",
+          "hari": "Rabu",
+          "nim": "10117121",
+          "nama": "Muhammad Rifqi Shodiq Mujahid",
+          "judul": "Pembangunan Sistem Inventori Puskesmas Pamandegan Berbasis Mobile",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19339,
+      "completion_tokens": 213,
+      "total_tokens": 19552,
+      "latency_s": 6.543
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.4710000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}
