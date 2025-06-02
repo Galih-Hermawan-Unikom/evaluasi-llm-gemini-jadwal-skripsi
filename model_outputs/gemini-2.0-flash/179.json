@@ -1,0 +1,64 @@
+{
+  "query": "Banyak sidang Pak Hanhan hari Senin",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T22:12:23.320978",
+    "scenario_id": 179,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 2
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 10308,
+      "completion_tokens": 33,
+      "total_tokens": 10341,
+      "latency_s": 2.695
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 0
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 18998,
+      "completion_tokens": 33,
+      "total_tokens": 19031,
+      "latency_s": 11.29
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 8.594999999999999,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "count: 2"
+      ],
+      "only_in_json": [
+        "count: 0"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

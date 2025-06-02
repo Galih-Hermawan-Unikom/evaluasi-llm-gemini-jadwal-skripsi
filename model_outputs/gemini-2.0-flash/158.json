@@ -1,0 +1,103 @@
+{
+  "query": "Mahasiswa di ruang R6010 tanggal 14 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T22:08:17.352507",
+    "scenario_id": 158,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120114",
+          "nama": "Rayhan Rahman Miraj Bunyamin Rustandar",
+          "judul": "Reengineering Website Juragan Panel Menggunakan Metode Clean Code",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120020",
+          "nama": "Risha Amara",
+          "judul": "Penerapan Data Mining Menggunakan Metode Klasifikasi untuk Menghasilkan Rekomendasi Tanam",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120222",
+          "nama": "Martinus Celvyn Situmorang",
+          "judul": "Sistem Optimalisasi Mesin Produksi dengan Metode Overall Equipment Effectiveness (OEE) di PT. Bandung Lautan Kemasan",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120918",
+          "nama": "Dennie Fuzi Alviyanies",
+          "judul": "Perancangan Design System dengan Metode Atomic Design pada Majelis Pendidikan Darul Hikam",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5095,
+      "completion_tokens": 798,
+      "total_tokens": 5893,
+      "latency_s": 6.072
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": false,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "latency_s": 0
+    },
+    "valid_json": false,
+    "schema_issues": []
+  }
+}

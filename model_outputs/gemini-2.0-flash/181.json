@@ -1,0 +1,88 @@
+{
+  "query": "Siapa saja mahasiswa dengan sidang paling pagi pada tanggal 20 Agustus 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil.",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T22:12:42.642955",
+    "scenario_id": 181,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120178",
+          "nama": "Muhammad Noer Ikhsan Hidayat",
+          "judul": "Sistem Perbaikan Kualitas Pelayanan Menggunakan Metode Service Quality di Klinik Utama Jasmine Mq Medika",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10648,
+      "completion_tokens": 223,
+      "total_tokens": 10871,
+      "latency_s": 3.849
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-20",
+          "hari": "Selasa",
+          "nim": "10120178",
+          "nama": "Muhammad Noer Ikhsan Hidayat",
+          "judul": "Sistem Perbaikan Kualitas Pelayanan Menggunakan Metode Service Quality di Klinik Utama Jasmine Mq Medika",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19357,
+      "completion_tokens": 223,
+      "total_tokens": 19580,
+      "latency_s": 4.023
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.1739999999999995,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

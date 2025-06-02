@@ -1,0 +1,58 @@
+{
+  "query": "Tanggal berapa sidang John dilaksanakan",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 3,
+    "timestamp": "2025-05-27T22:05:43.861739",
+    "scenario_id": 140,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": false,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "latency_s": 0
+    },
+    "valid_json": false,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-28",
+          "hari": "Rabu",
+          "nim": "10119349",
+          "nama": "John Pardamean Napitupulu",
+          "judul": "Visualisasi Data Koperasi dan UKM Provinsi Sumatera Utara",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6990,
+      "completion_tokens": 213,
+      "total_tokens": 7203,
+      "latency_s": 2.976
+    },
+    "valid_json": true,
+    "schema_issues": []
+  }
+}

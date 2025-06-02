@@ -1,0 +1,74 @@
+{
+  "query": "Jam berapa sidang Ferdi berakhir",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T22:00:30.417444",
+    "scenario_id": 107,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": []
+    },
+    "metrics": {
+      "prompt_tokens": 5248,
+      "completion_tokens": 25,
+      "total_tokens": 5273,
+      "latency_s": 1.125
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-06",
+          "hari": "Selasa",
+          "nim": "10119246",
+          "nama": "Ferdi Bayu Febryan",
+          "judul": "Sistem Informasi Manajemen Produksi di PT. Sab Indo",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Sri Nurhayati, S.Si., M.T.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9319,
+      "completion_tokens": 209,
+      "total_tokens": 9528,
+      "latency_s": 2.452
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.327,
+    "records": {
+      "txt_count": 0,
+      "json_count": 1,
+      "count_match": false,
+      "common_count": 0,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10119246"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

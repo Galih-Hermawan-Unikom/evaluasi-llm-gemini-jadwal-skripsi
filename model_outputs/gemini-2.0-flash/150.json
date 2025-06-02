@@ -1,0 +1,58 @@
+{
+  "query": "Jadwal di R6028, 31 Juli 2024, jam 8",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 1,
+    "timestamp": "2025-05-27T22:07:03.823300",
+    "scenario_id": 150,
+    "category_id": "K-3"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-31",
+          "hari": "Rabu",
+          "nim": "10118113",
+          "nama": "Givansyach Astin Taqwa",
+          "judul": "Rancangan Aplikasi Edukasi Cerita Rakyat berbasis Visual Novel Tiga Dimensi (3D) untuk Menumbuhkan Minat Baca pada Anak",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Irawan Afrianto, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2212,
+      "completion_tokens": 237,
+      "total_tokens": 2449,
+      "latency_s": 2.96
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": false,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "latency_s": 0
+    },
+    "valid_json": false,
+    "schema_issues": []
+  }
+}

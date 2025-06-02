@@ -1,0 +1,105 @@
+{
+  "query": "Siapa saja mahasiswa dengan sidang paling akhir pada tanggal 24 Agustus 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T22:13:32.206505",
+    "scenario_id": 186,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-24",
+          "hari": "Sabtu",
+          "nim": "10118379",
+          "nama": "Luthfy Karliandi Nugraha",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Material Menggunakan Metode Economic Order Quantity (EOQ) di PT. Hasta Agung Nusantara Sentosa",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-24",
+          "hari": "Sabtu",
+          "nim": "10120139",
+          "nama": "Mochamad Ridho",
+          "judul": "Pembangunan Aplikasi Monitoring pada Anak Berbasis Android dengan Memanfaatkan Teknologi Geofencing dan Firebase",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10647,
+      "completion_tokens": 426,
+      "total_tokens": 11073,
+      "latency_s": 3.727
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-24",
+          "hari": "Sabtu",
+          "nim": "10120139",
+          "nama": "Mochamad Ridho",
+          "judul": "Pembangunan Aplikasi Monitoring pada Anak Berbasis Android dengan Memanfaatkan Teknologi Geofencing dan Firebase",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Andri Heryandi, S.T., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19356,
+      "completion_tokens": 219,
+      "total_tokens": 19575,
+      "latency_s": 4.119
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.3919999999999999,
+    "records": {
+      "txt_count": 2,
+      "json_count": 1,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [
+        "10118379"
+      ],
+      "only_in_json": [],
+      "match_percentage": 50.0
+    }
+  }
+}

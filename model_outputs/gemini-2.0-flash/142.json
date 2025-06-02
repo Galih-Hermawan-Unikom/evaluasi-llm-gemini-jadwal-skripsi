@@ -1,0 +1,58 @@
+{
+  "query": "Apa judul skripsi dari mahasiswa dengan NIM 10119902",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 3,
+    "timestamp": "2025-05-27T22:05:59.523577",
+    "scenario_id": 142,
+    "category_id": "K-2"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-28",
+          "hari": "Rabu",
+          "nim": "10119902",
+          "nama": "Muhammad Nurkholiq",
+          "judul": "Pembangunan Aplikasi Disposisi Surat dengan Menerapkan Teknologi Tanda Tangan Digital pada Kantor Kecamatan Coblong Kota Bandung",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Hanhan Maulana, S.Kom., M.Kom",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3973,
+      "completion_tokens": 223,
+      "total_tokens": 4196,
+      "latency_s": 2.622
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": false,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "latency_s": 0
+    },
+    "valid_json": false,
+    "schema_issues": []
+  }
+}

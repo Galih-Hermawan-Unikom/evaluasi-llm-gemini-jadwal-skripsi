@@ -1,0 +1,246 @@
+{
+  "query": "Tampilkan jadwal Ir.Taryana Suryana",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T22:00:48.160072",
+    "scenario_id": 108,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119126",
+          "nama": "Dicky Setiadi",
+          "judul": "Pembangunan Aplikasi Sistem Pemesanan dan Pembayaran Menggunakan Teknologi QRIS berbasis Web pada Cafe Buana Life Pangalengan",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119115",
+          "nama": "Weldira Tarigan",
+          "judul": "Sistem Prioritas Laporan Aduan Jabar Quick Responses berbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119043",
+          "nama": "Fermi Naufal Akbar",
+          "judul": "Game Edukasi Mata Pelajaran Fisika Kelas X di SMAN 1 Kalirejo",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-06",
+          "hari": "Selasa",
+          "nim": "10119039",
+          "nama": "Diva Sabila Ramadhan",
+          "judul": "Aplikasi Pembelajaran Interaktif Mata Pelajaran Kimia Kelas X di SMA Rocha Indonesia berbasis Android",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5251,
+      "completion_tokens": 790,
+      "total_tokens": 6041,
+      "latency_s": 6.101
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119043",
+          "nama": "Fermi Naufal Akbar",
+          "judul": "Game Edukasi Mata Pelajaran Fisika Kelas X di SMAN 1 Kalirejo",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Richi Dwi Agustia, M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119065",
+          "nama": "Fachriansyah Muh Nur I",
+          "judul": "Game Edukasi Mata Pelajaran Produk Kreatif dan Kewirausahaan Kelas XI di SMKN 1 Cikarang Utara",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Richi Dwi Agustia, M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119126",
+          "nama": "Dicky Setiadi",
+          "judul": "Pembangunan Aplikasi Sistem Pemesanan dan Pembayaran Menggunakan Teknologi QRIS berbasis Web pada Cafe Buana Life Pangalengan",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119115",
+          "nama": "Weldira Tarigan",
+          "judul": "Sistem Prioritas Laporan Aduan Jabar Quick Responses berbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Irfan Maliki, S.T., M.T.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119073",
+          "nama": "Aghnia Dewi Mahiranie",
+          "judul": "Pembangunan Game Edukasi Pembelajaran Materi Kecap Bahasa Sunda berbasis Desktop",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6034",
+          "dosen": [
+            "Hanhan Maulana, S.Kom., M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119078",
+          "nama": "Adam Firdaus Darmawan",
+          "judul": "Pembangunan Game Edukasi Untuk Menambah Kosakata dan Membantu Pengucapan Bahasa Inggris dengan Menggunakan Voice Recognition",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-16",
+          "hari": "Jumat",
+          "nim": "10117189",
+          "nama": "Agung Maulana",
+          "judul": "Pembangunan Aplikasi Pemesanan Katering di Cahaya Indah Berbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Hanhan Maulana, S.Kom., M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-16",
+          "hari": "Jumat",
+          "nim": "10119173",
+          "nama": "Birliano Ekayan Arsyad",
+          "judul": "Pembangunan Aplikasi Pendeteksi Grammar dan Plagiat pada Karya Ilmiah Berbahasa Inggris berbasis Android",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Nelly Indriani W, S.Si., M.T.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9322,
+      "completion_tokens": 1552,
+      "total_tokens": 10874,
+      "latency_s": 9.096
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 2.995,
+    "records": {
+      "txt_count": 4,
+      "json_count": 8,
+      "count_match": false,
+      "common_count": 3,
+      "only_in_txt": [
+        "10119039"
+      ],
+      "only_in_json": [
+        "10117189",
+        "10119065",
+        "10119073",
+        "10119078",
+        "10119173"
+      ],
+      "match_percentage": 33.33
+    }
+  }
+}

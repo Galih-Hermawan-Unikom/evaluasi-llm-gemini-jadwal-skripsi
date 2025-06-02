@@ -1,0 +1,100 @@
+{
+  "query": "Tampilkan daftar nama dosen yang menguji pada sidang hari Senin, diurutkan secara alfabet",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-27T22:14:50.952845",
+    "scenario_id": 194,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Alif Finandhita, S.Kom., M.T.",
+        "Anna Dara Andriana, S.Kom., M.Kom",
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Dr. Ednawati Rainarli, S.Si., M.Si.",
+        "Eko Budi Setiawan, S.Kom., M.T.",
+        "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "Galih Hermawan, S.Kom, M.T.",
+        "Irfan Maliki, S.T., M.T.",
+        "Ir.Taryana Suryana, M.Kom.",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Rani Susanto, S.Kom, M.Kom.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Riani Lubis, S.T., M.T.",
+        "Sansa Fajrian",
+        "Sopian Alviana, S.Kom.,M.Kom.",
+        "Sufaatin, S.T., M.Kom.",
+        "Utami Dewi W, S.Kom., M.Kom"
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8823,
+      "completion_tokens": 300,
+      "total_tokens": 9123,
+      "latency_s": 3.856
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Alif Finandhita, S.Kom., M.T.",
+        "Andri Heryandi, S.T., M.T.",
+        "Angga Setiyadi, S.Kom., M.Kom.",
+        "Anna Dara Andriana, S.Kom., M.Kom.",
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Dr. Ednawati Rainarli, S.Si., M.Si.",
+        "Eko Budi Setiawan, S.Kom., M.T.",
+        "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "Galih Hermawan, S.Kom., M.T.",
+        "Irfan Maliki, S.T., M.T.",
+        "Ir. Taryana Suryana, M.Kom.",
+        "Kania Evita Dewi, S.Pd., M.Si.",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Rani Susanto, S.Kom., M.Kom.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Riani Lubis, S.T., M.T.",
+        "Sopian Alviana, S.Kom., M.Kom.",
+        "Sufaatin, S.T., M.Kom.",
+        "Utami Dewi W, S.Kom., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16414,
+      "completion_tokens": 343,
+      "total_tokens": 16757,
+      "latency_s": 3.375
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.48099999999999987,
+    "records": {
+      "txt_count": 17,
+      "json_count": 19,
+      "count_match": false,
+      "common_count": 16,
+      "only_in_txt": [
+        "Sansa Fajrian"
+      ],
+      "only_in_json": [
+        "Andri Heryandi, S.T., M.T.",
+        "Angga Setiyadi, S.Kom., M.Kom.",
+        "Kania Evita Dewi, S.Pd., M.Si."
+      ],
+      "match_percentage": 80.0
+    }
+  }
+}

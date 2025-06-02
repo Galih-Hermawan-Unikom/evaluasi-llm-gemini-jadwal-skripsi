@@ -1,0 +1,178 @@
+{
+  "query": "NIM mahasiswa sidang pukul 09.15 tanggal 15 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T22:08:33.017236",
+    "scenario_id": 159,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120032",
+          "nama": "Hanif Amrullah Almuharam",
+          "judul": "Pembangunan Aplikasi Asisten Berbasis Android untuk Individu Disabilitas Penglihatan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10119086",
+          "nama": "Seldi Syahrizal",
+          "judul": "Pembangunan Aplikasi Pendeteksi Tingkat Kematangan Buah",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120781",
+          "nama": "Guruh Fillah Alfariza",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Barang Bahan Bangunan Menggunakan Metode Economic Order Quantity (EOQ) di TB. Guntur",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sri Nurhayati, S.Si., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120212",
+          "nama": "Daffa Albari",
+          "judul": "Penerapan Prompt Engineering pada Aplikasi Analisis Sosial Media",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5096,
+      "completion_tokens": 781,
+      "total_tokens": 5877,
+      "latency_s": 5.92
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120032",
+          "nama": "Hanif Amrullah Almuharam",
+          "judul": "Pembangunan Aplikasi Asisten Berbasis Android untuk Individu Disabilitas Penglihatan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10119086",
+          "nama": "Seldi Syahrizal",
+          "judul": "Pembangunan Aplikasi Pendeteksi Tingkat Kematangan Buah",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120212",
+          "nama": "Daffa Albari",
+          "judul": "Penerapan Prompt Engineering pada Aplikasi Analisis Sosial Media",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120781",
+          "nama": "Guruh Fillah Alfariza",
+          "judul": "Sistem Penentuan Jumlah dan Waktu Pembelian Barang Bahan Bangunan Menggunakan Metode Economic Order Quantity (EOQ) di TB. Guntur",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sri Nurhayati, S.Si., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9116,
+      "completion_tokens": 781,
+      "total_tokens": 9897,
+      "latency_s": 7.263
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.343,
+    "records": {
+      "txt_count": 4,
+      "json_count": 4,
+      "count_match": true,
+      "common_count": 4,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

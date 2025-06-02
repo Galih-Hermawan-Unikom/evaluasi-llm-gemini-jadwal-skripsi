@@ -1,0 +1,106 @@
+{
+  "query": "Semua mahasiswa sidang di R6028 hari Selasa",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T22:08:54.754611",
+    "scenario_id": 161,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": []
+    },
+    "metrics": {
+      "prompt_tokens": 5087,
+      "completion_tokens": 25,
+      "total_tokens": 5112,
+      "latency_s": 0.984
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120034",
+          "nama": "Ariq Fadhilah Saputra",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Klinik Menggunakan Performance Dashboard di Klinik Pratama Pradita Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120066",
+          "nama": "Eky Nugraha Heriawan",
+          "judul": "Sistem Monitoring Kegiatan Penjualan Menggunakan Metode Performance Dashboard di PT. Yans Sumber Segar",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120140",
+          "nama": "Rifqi Nugraha",
+          "judul": "Implementasi Deep Q-Network untuk Simulasi Kendaraan Balap Otonom di Lingkungan yang Dinamis",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9107,
+      "completion_tokens": 605,
+      "total_tokens": 9712,
+      "latency_s": 4.645
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 3.6609999999999996,
+    "records": {
+      "txt_count": 0,
+      "json_count": 3,
+      "count_match": false,
+      "common_count": 0,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10120034",
+        "10120066",
+        "10120140"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}
