@@ -1,0 +1,86 @@
+{
+  "query": "Tampilkan jadwal seminar dari mahasiswa Muhammad Irsyad",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T21:49:54.654994",
+    "scenario_id": 37,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-05",
+          "hari": "Jumat",
+          "nim": "10119212",
+          "nama": "Muhammad Irsyad Ibrahim",
+          "judul": "Sistem Informasi Manajemen Produksi di CV. Vendorin Indonesia",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3109,
+      "completion_tokens": 194,
+      "total_tokens": 3303,
+      "latency_s": 2.79
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-05",
+          "hari": "Jumat",
+          "nim": "10119212",
+          "nama": "Muhammad Irsyad Ibrahim",
+          "judul": "Sistem Informasi Manajemen Produksi di CV. Vendorin Indonesia",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sopian Alviana, S.Kom., M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5211,
+      "completion_tokens": 194,
+      "total_tokens": 5405,
+      "latency_s": 1.946
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.8440000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

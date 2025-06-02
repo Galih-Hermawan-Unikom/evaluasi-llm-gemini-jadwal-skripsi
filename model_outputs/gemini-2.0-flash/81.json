@@ -1,0 +1,86 @@
+{
+  "query": "Siapa saja mahasiswa dengan seminar paling pagi pada tanggal 1 Juli 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil.",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 7,
+    "timestamp": "2025-05-27T21:56:38.758399",
+    "scenario_id": 81,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-01",
+          "hari": "Senin",
+          "nim": "10120067",
+          "nama": "Zulfa Firdaus",
+          "judul": "Sistem Penjadwalan Antrian Pemeriksaan Pasien Menggunakan \nAlgoritma Round Robin di Klinik Seno Medika Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5312,
+      "completion_tokens": 211,
+      "total_tokens": 5523,
+      "latency_s": 2.194
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-01",
+          "hari": "Senin",
+          "nim": "10120067",
+          "nama": "Zulfa Firdaus",
+          "judul": "Sistem Penjadwalan Antrian Pemeriksaan Pasien Menggunakan Algoritma Round Robin di Klinik Seno Medika Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Anna Dara Andriana, S.Kom., M.Kom.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9577,
+      "completion_tokens": 209,
+      "total_tokens": 9786,
+      "latency_s": 3.763
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.569,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

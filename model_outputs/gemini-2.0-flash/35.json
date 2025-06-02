@@ -1,0 +1,170 @@
+{
+  "query": "Sebutkan mahasiswa yang diuji oleh Pak Eko Budi",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T21:49:32.406297",
+    "scenario_id": 35,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10119355",
+          "nama": "Yandika Yuga Rabbani",
+          "judul": "Perancangan dan Pembangunan Aplikasi Tracking Real Time \nKendaraan Bermotor dengan Integritas Perangkat Global \nPositioning System (GPS)",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10119101",
+          "nama": "Andika Putra",
+          "judul": "Pembangunan Aplikasi Pendeteksi Penyakit pada Tanaman Sawi \nBerbasis Android",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119306",
+          "nama": "Dimas Agung",
+          "judul": "Pembangunan Telegram Messenger Chatbot Berbasis Natural \nLanguage Processing untuk Otomatisasi Jawaban General \nQuestion Seputar Bahasa Pemrograman Java",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119901",
+          "nama": "Fauzan Muhammad A",
+          "judul": "Pembangunan Aplikasi Pemesanan Tiket Shuttle Perdana Trans \nBerbasis Web",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3112,
+      "completion_tokens": 752,
+      "total_tokens": 3864,
+      "latency_s": 5.594
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10119355",
+          "nama": "Yandika Yuga Rabbani",
+          "judul": "Perancangan dan Pembangunan Aplikasi Tracking Real Time Kendaraan Bermotor dengan Integritas Perangkat Global Positioning System (GPS)",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10119101",
+          "nama": "Andika Putra",
+          "judul": "Pembangunan Aplikasi Pendeteksi Penyakit pada Tanaman Sawi Berbasis Android",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119306",
+          "nama": "Dimas Agung",
+          "judul": "Pembangunan Telegram Messenger Chatbot Berbasis Natural Language Processing untuk Otomatisasi Jawaban General Question Seputar Bahasa Pemrograman Java",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119901",
+          "nama": "Fauzan Muhammad A",
+          "judul": "Pembangunan Aplikasi Pemesanan Tiket Shuttle Perdana Trans Berbasis Web",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5214,
+      "completion_tokens": 739,
+      "total_tokens": 5953,
+      "latency_s": 4.784
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.8100000000000005,
+    "records": {
+      "txt_count": 4,
+      "json_count": 4,
+      "count_match": true,
+      "common_count": 4,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

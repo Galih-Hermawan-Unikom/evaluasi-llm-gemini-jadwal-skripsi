@@ -1,0 +1,68 @@
+{
+  "query": "Siapa saja dosen yang menguji terbanyak pada tanggal 5 Januari 2024 jika lebih dari satu tampilkan sesuai urutan alphabet",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T21:58:14.745947",
+    "scenario_id": 93,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Anna Dara Andriana, S.Kom., M.Kom",
+        "Sopian Alviana, S.Kom.,M.Kom.",
+        "Utami Dewi W, S.Kom., M.Kom"
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2885,
+      "completion_tokens": 78,
+      "total_tokens": 2963,
+      "latency_s": 2.476
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Anna Dara Andriana, S.Kom., M.Kom.",
+        "Gentisya Tri Mardiani, S.Kom., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4968,
+      "completion_tokens": 63,
+      "total_tokens": 5031,
+      "latency_s": 1.433
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 1.043,
+    "records": {
+      "txt_count": 3,
+      "json_count": 2,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [
+        "Sopian Alviana, S.Kom.,M.Kom.",
+        "Utami Dewi W, S.Kom., M.Kom"
+      ],
+      "only_in_json": [
+        "Gentisya Tri Mardiani, S.Kom., M.Kom."
+      ],
+      "match_percentage": 25.0
+    }
+  }
+}

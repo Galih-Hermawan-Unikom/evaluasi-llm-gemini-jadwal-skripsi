@@ -1,0 +1,147 @@
+{
+  "query": "NIM mahasiswa yang seminar di R6028 tanggal 27 Juni 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 6,
+    "timestamp": "2025-05-27T21:54:13.402774",
+    "scenario_id": 64,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-27",
+          "hari": "Kamis",
+          "nim": "10120110",
+          "nama": "Audy Revi Nugraha",
+          "judul": "Sistem Monitoring Kualitas Udara di Dalam Mobil Menggunakan Arduino Berbasis Internet of Things",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-27",
+          "hari": "Kamis",
+          "nim": "10120211",
+          "nama": "Arif Rachmat Darmawan",
+          "judul": "Pembangunan Aplikasi Diagnosa Penyakit Feline Calicivirus pada Kucing Menggunakan Teknologi Microphone dan Image Recognition Berbasis Mobile",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-06-27",
+          "hari": "Kamis",
+          "nim": "10120227",
+          "nama": "Salma Wafa Sa Diyah",
+          "judul": "Pembangunan Aplikasi Buku Catatan Pengeluaran Menggunakan Deteksi Struk Belanja Berbasis Web",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-27",
+          "hari": "Kamis",
+          "nim": "10120071",
+          "nama": "Gilang Dhiya Ulhaq",
+          "judul": "Sistem Perbaikan Kualitas Layanan Menggunakan Metode Servqual di CV. Dania Abadi Utama",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Riani Lubis, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-06-27",
+          "hari": "Kamis",
+          "nim": "10120156",
+          "nama": "Aditya Mahendra Pamungkas",
+          "judul": "Sistem Penyortiran Ikan Mas Berbasis Internet of Things",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Dedeng Hirawan, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6727,
+      "completion_tokens": 917,
+      "total_tokens": 7644,
+      "latency_s": 7.011
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-27",
+          "hari": "Kamis",
+          "nim": "10120211",
+          "nama": "Arif Rachmat Darmawan",
+          "judul": "Pembangunan Aplikasi Diagnosa Penyakit Feline Calicivirus pada Kucing Menggunakan Teknologi Microphone dan Image Recognition Berbasis Mobile",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 11877,
+      "completion_tokens": 215,
+      "total_tokens": 12092,
+      "latency_s": 3.703
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 3.3080000000000003,
+    "records": {
+      "txt_count": 5,
+      "json_count": 1,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [
+        "10120071",
+        "10120110",
+        "10120156",
+        "10120227"
+      ],
+      "only_in_json": [],
+      "match_percentage": 20.0
+    }
+  }
+}

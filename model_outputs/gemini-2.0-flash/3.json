@@ -1,0 +1,86 @@
+{
+  "query": "Pukul berapa seminar Faishal dimulai",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T21:45:08.309419",
+    "scenario_id": 3,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-27",
+          "hari": "Senin",
+          "nim": "10119048",
+          "nama": "Mochammad Faishal",
+          "judul": "Sistem Pelatihan Robot Lengan berbasis Visual",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2976,
+      "completion_tokens": 194,
+      "total_tokens": 3170,
+      "latency_s": 3.371
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-27",
+          "hari": "Senin",
+          "nim": "10119048",
+          "nama": "Mochammad Faishal",
+          "judul": "Sistem Pelatihan Robot Lengan berbasis Visual",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Sopian Alviana, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4837,
+      "completion_tokens": 194,
+      "total_tokens": 5031,
+      "latency_s": 2.909
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.4620000000000002,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

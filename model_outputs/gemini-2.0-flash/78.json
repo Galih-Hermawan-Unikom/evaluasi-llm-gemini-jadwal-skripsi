@@ -1,0 +1,60 @@
+{
+  "query": "Jumlah jadwal di R6028 tanggal 2 Juli 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 7,
+    "timestamp": "2025-05-27T21:56:13.329143",
+    "scenario_id": 78,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 4
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 4997,
+      "completion_tokens": 33,
+      "total_tokens": 5030,
+      "latency_s": 2.119
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 4
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 9243,
+      "completion_tokens": 33,
+      "total_tokens": 9276,
+      "latency_s": 1.725
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.39400000000000013,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

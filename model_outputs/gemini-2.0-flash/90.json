@@ -1,0 +1,90 @@
+{
+  "query": "Untuk seminar tanggal 8 Juli 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 8,
+    "timestamp": "2025-05-27T21:57:52.925637",
+    "scenario_id": 90,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-08",
+          "hari": "Senin",
+          "nim": "10120721",
+          "nama": "Gibran Mahardhika",
+          "judul": "Sistem Monitoring Dan Evaluasi Kinerja Divisi Programming Menggunakan Metode Key Performance Indicator (KPI) di PT. Mediatama Kreasi Informatika",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1491,
+      "completion_tokens": 212,
+      "total_tokens": 1703,
+      "latency_s": 3.007
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-08",
+          "hari": "Senin",
+          "nim": "10120050",
+          "nama": "Ari Syafri",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Puskesmas Menggunakan Metode Performance Dashboard di UPTD Puskesmas Sagalaherang Kabupaten Subang",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2155,
+      "completion_tokens": 211,
+      "total_tokens": 2366,
+      "latency_s": 2.91
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.09699999999999998,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "10120721"
+      ],
+      "only_in_json": [
+        "10120050"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "query": "Mahasiswa yang memiliki judul skripsi paling panjang pada tanggal 6 Januari 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T21:59:22.419390",
+    "scenario_id": 100,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-06",
+          "hari": "Sabtu",
+          "nim": "10119239",
+          "nama": "Dea Inesia Sri Utami",
+          "judul": "Analisis Desain Interaksi Media Pembelajaran Sistem Peredaran Darah untuk Tingkat Sekolah Dasar / Madrasah Ibtidaiyah",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3118,
+      "completion_tokens": 212,
+      "total_tokens": 3330,
+      "latency_s": 2.943
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-06",
+          "hari": "Sabtu",
+          "nim": "10119239",
+          "nama": "Dea Inesia Sri Utami",
+          "judul": "Analisis Desain Interaksi Media Pembelajaran Sistem Peredaran Darah untuk Tingkat Sekolah Dasar / Madrasah Ibtidaiyah",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5220,
+      "completion_tokens": 212,
+      "total_tokens": 5432,
+      "latency_s": 3.172
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.2290000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

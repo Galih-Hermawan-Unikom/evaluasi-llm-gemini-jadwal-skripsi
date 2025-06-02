@@ -1,0 +1,86 @@
+{
+  "query": "Jadwal di R6010, 27 Mei 2024, mulai 09.15",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 2,
+    "timestamp": "2025-05-27T21:51:20.874971",
+    "scenario_id": 48,
+    "category_id": "K-3"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-05-27",
+          "hari": "Senin",
+          "nim": "10120134",
+          "nama": "Eriko Ananta",
+          "judul": "Pengaruh Penerapan Frame Rate Terhadap Peningkatan Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi lag dalam Game Shooter Multiplayer",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2491,
+      "completion_tokens": 209,
+      "total_tokens": 2700,
+      "latency_s": 2.807
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-05-27",
+          "hari": "Senin",
+          "nim": "10120134",
+          "nama": "Eriko Ananta",
+          "judul": "Pengaruh Penerapan Frame Rate Terhadap Peningkatan Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi Lag dalam Game Shooter Multiplayer",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4055,
+      "completion_tokens": 209,
+      "total_tokens": 4264,
+      "latency_s": 3.049
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.242,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

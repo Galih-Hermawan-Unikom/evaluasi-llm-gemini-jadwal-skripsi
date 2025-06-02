@@ -1,0 +1,63 @@
+{
+  "query": "Siapa penguji seminar dari mahasiswa NIM 10119913",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 1,
+    "timestamp": "2025-05-27T21:51:05.399104",
+    "scenario_id": 46,
+    "category_id": "K-2"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Didit Andri Jatmiko, S.Kom., M.T.",
+        "Dedeng Hirawan, S.Kom., M.Kom"
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 565,
+      "completion_tokens": 63,
+      "total_tokens": 628,
+      "latency_s": 2.426
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Dedeng Hirawan, S.Kom., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 691,
+      "completion_tokens": 45,
+      "total_tokens": 736,
+      "latency_s": 1.2
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 1.2260000000000002,
+    "records": {
+      "txt_count": 2,
+      "json_count": 1,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [
+        "Didit Andri Jatmiko, S.Kom., M.T."
+      ],
+      "only_in_json": [],
+      "match_percentage": 50.0
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "query": "Siapa mahasiswa dengan seminar paling akhir pada  4 Juli 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 7,
+    "timestamp": "2025-05-27T21:56:48.252907",
+    "scenario_id": 82,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-04",
+          "hari": "Kamis",
+          "nim": "10120716",
+          "nama": "Muhammad Harry Rizky",
+          "judul": "Taste of Memories : Pembangunan Game sebagai Media  Promosi Kuliner Indonesia",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5294,
+      "completion_tokens": 194,
+      "total_tokens": 5488,
+      "latency_s": 3.047
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-04",
+          "hari": "Kamis",
+          "nim": "10120716",
+          "nama": "Muhammad Harry Rizky",
+          "judul": "Taste of Memories : Pembangunan Game sebagai Media Promosi Kuliner Indonesia",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9559,
+      "completion_tokens": 193,
+      "total_tokens": 9752,
+      "latency_s": 3.959
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.9119999999999999,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

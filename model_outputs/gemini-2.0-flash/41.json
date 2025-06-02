@@ -1,0 +1,86 @@
+{
+  "query": "Siapa nama mahasiswa dengan NIM 10118058",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 7,
+    "timestamp": "2025-05-27T21:50:33.139684",
+    "scenario_id": 41,
+    "category_id": "K-2"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-12",
+          "hari": "Jumat",
+          "nim": "10118058",
+          "nama": "Satyaning Andaru Bawa Laksana",
+          "judul": "Penerapan Algoritma FP-Growth dalam Penentuan Pembelian Persediaan Material pada Studi Kasus PT. Bintang Energi Pratama",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1121,
+      "completion_tokens": 214,
+      "total_tokens": 1335,
+      "latency_s": 2.662
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-12",
+          "hari": "Jumat",
+          "nim": "10118058",
+          "nama": "Satyaning Andaru Bawa Laksana",
+          "judul": "Penerapan Algoritma FP-Growth dalam Penentuan Pembelian Persediaan Material pada Studi Kasus PT. Bintang Energi Pratama",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1560,
+      "completion_tokens": 214,
+      "total_tokens": 1774,
+      "latency_s": 3.004
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.3420000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}
