@@ -1,0 +1,74 @@
+{
+  "query": "Semua dosen yang menguji di hari Kamis ruang R6010",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-23T18:21:14.819006",
+    "scenario_id": 166,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Angga Setiyadi, S.Kom., M.Kom",
+        "Eko Budi Setiawan, S.Kom., M.T.",
+        "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "Kania Evita Dewi, S.Pd., M.Si.",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Sri Nurhayati, S.Si., M.T.",
+        "Tati Harihayati M., S.T., M.T."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4814,
+      "completion_tokens": 163,
+      "total_tokens": 4977,
+      "latency_s": 5.621
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Angga Setiyadi, S.Kom., M.Kom",
+        "Eko Budi Setiawan, S.Kom., M.T.",
+        "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "Kania Evita Dewi, S.Pd., M.Si.",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Sri Nurhayati, S.Si., M.T.",
+        "Tati Harihayati M., S.T., M.T."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8816,
+      "completion_tokens": 163,
+      "total_tokens": 8979,
+      "latency_s": 3.58
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 2.0410000000000004,
+    "records": {
+      "txt_count": 8,
+      "json_count": 8,
+      "count_match": true,
+      "common_count": 8,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

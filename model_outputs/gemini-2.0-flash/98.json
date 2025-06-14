@@ -1,0 +1,86 @@
+{
+  "query": "Sebutkan NIM mahasiswa terkecil yang seminar di Ruang 6010 pada tanggal 3 Januari 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T21:59:05.451380",
+    "scenario_id": 98,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119026",
+          "nama": "Muhammad Khatami",
+          "judul": "Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada Acara Job Fair",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3127,
+      "completion_tokens": 193,
+      "total_tokens": 3320,
+      "latency_s": 2.188
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119026",
+          "nama": "Muhammad Khatami",
+          "judul": "Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada Acara Job Fair",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5229,
+      "completion_tokens": 193,
+      "total_tokens": 5422,
+      "latency_s": 3.238
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.0499999999999998,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

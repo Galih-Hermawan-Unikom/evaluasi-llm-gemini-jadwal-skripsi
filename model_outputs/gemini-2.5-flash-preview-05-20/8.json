@@ -1,0 +1,142 @@
+{
+  "query": "Tampilkan jadwal Bu Rani",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-23T17:39:36.889343",
+    "scenario_id": 8,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-29",
+          "hari": "Rabu",
+          "nim": "10118135",
+          "nama": "Muhammad Iman Komarudiansyah",
+          "judul": "Sistem Informasi Manajemen Produksi Bawang Goreng di UD. Sinar Tani",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2023-12-02",
+          "hari": "Sabtu",
+          "nim": "10119170",
+          "nama": "Elbaruna Wifaldzan",
+          "judul": "Pembangunan Aplikasi E-Learning dengan Fitur Pendeteksi Plagiarisme di SMKN 1 Cipeundeuy",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Andri Heryandi, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2023-12-02",
+          "hari": "Sabtu",
+          "nim": "10119227",
+          "nama": "Naufal Hafizh Widiathalla",
+          "judul": "Pembangunan Sistem Informasi Manajemen Produksi Papan Selancar di PT. Kayu Surfboard",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Sri Nurhayati, S.Si., M.T.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2932,
+      "completion_tokens": 555,
+      "total_tokens": 3487,
+      "latency_s": 8.746
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-29",
+          "hari": "Rabu",
+          "nim": "10118135",
+          "nama": "Muhammad Iman Komarudiansyah",
+          "judul": "Sistem Informasi Manajemen Produksi Bawang Goreng di UD. Sinar Tani",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom.",
+            "Rani Susanto, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2023-12-02",
+          "hari": "Sabtu",
+          "nim": "10119170",
+          "nama": "Elbaruna Wifaldzan",
+          "judul": "Pembangunan Aplikasi E-Learning dengan Fitur Pendeteksi Plagiarisme di SMKN 1 Cipeundeuy",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Andri Heryandi, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2023-12-02",
+          "hari": "Sabtu",
+          "nim": "10119227",
+          "nama": "Naufal Hafizh Widiathalla",
+          "judul": "Pembangunan Sistem Informasi Manajemen Produksi Papan Selancar di PT. Kayu Surfboard",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Sri Nurhayati, S.Si., M.T.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4691,
+      "completion_tokens": 555,
+      "total_tokens": 5246,
+      "latency_s": 6.392
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 2.354,
+    "records": {
+      "txt_count": 3,
+      "json_count": 3,
+      "count_match": true,
+      "common_count": 3,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

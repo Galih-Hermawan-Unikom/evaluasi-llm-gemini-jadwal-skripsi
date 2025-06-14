@@ -1,0 +1,88 @@
+{
+  "query": "Apa judul skripsi Fermi Naufal Akbar",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T22:00:08.459588",
+    "scenario_id": 104,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119043",
+          "nama": "Fermi Naufal Akbar",
+          "judul": "Game Edukasi Mata Pelajaran Fisika Kelas X di SMAN 1 Kalirejo",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5251,
+      "completion_tokens": 213,
+      "total_tokens": 5464,
+      "latency_s": 2.202
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119043",
+          "nama": "Fermi Naufal Akbar",
+          "judul": "Game Edukasi Mata Pelajaran Fisika Kelas X di SMAN 1 Kalirejo",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Richi Dwi Agustia, M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9322,
+      "completion_tokens": 213,
+      "total_tokens": 9535,
+      "latency_s": 2.788
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.5859999999999999,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

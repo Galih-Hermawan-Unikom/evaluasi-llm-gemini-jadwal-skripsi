@@ -1,0 +1,58 @@
+{
+  "query": "Hari apa mahasiswa dengan NIM 10118314 sidang",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 1,
+    "timestamp": "2025-05-27T22:06:38.059898",
+    "scenario_id": 147,
+    "category_id": "K-2"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-30",
+          "hari": "Selasa",
+          "nim": "10118314",
+          "nama": "Moch Rivally Ilham Bintang",
+          "judul": "Reengineering pada Aplikasi Rumah Sakit Bunda Nanda",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Hanhan Maulana, M.Kom., Ph.D."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2205,
+      "completion_tokens": 210,
+      "total_tokens": 2415,
+      "latency_s": 2.881
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": false,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "latency_s": 0
+    },
+    "valid_json": false,
+    "schema_issues": []
+  }
+}

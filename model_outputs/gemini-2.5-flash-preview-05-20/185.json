@@ -1,0 +1,88 @@
+{
+  "query": "Untuk sidang tanggal 24 Agustus 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-23T18:26:39.178321",
+    "scenario_id": 185,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-24",
+          "hari": "Sabtu",
+          "nim": "10119005",
+          "nama": "Hayin Ananta",
+          "judul": "Analisis Eksplorasi Data dalam Mengukur Beban Kognitif berdasarkan Detak Jantung Manusia pada Domain Visualisasi Data",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10597,
+      "completion_tokens": 227,
+      "total_tokens": 10824,
+      "latency_s": 15.394
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-24",
+          "hari": "Sabtu",
+          "nim": "10119005",
+          "nama": "Hayin Ananta",
+          "judul": "Analisis Eksplorasi Data dalam Mengukur Beban Kognitif berdasarkan Detak Jantung Manusia pada Domain Visualisasi Data",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19206,
+      "completion_tokens": 227,
+      "total_tokens": 19433,
+      "latency_s": 10.325
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 5.069000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

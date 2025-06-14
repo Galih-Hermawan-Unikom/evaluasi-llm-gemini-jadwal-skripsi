@@ -1,0 +1,102 @@
+{
+  "query": "NIM mahasiswa seminar selesai pukul 09.15 tanggal 3 Jan 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:04:01.999534",
+    "scenario_id": 59,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119026",
+          "nama": "Muhammad Khatami",
+          "judul": "Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada Acara Job Fair",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3119,
+      "completion_tokens": 193,
+      "total_tokens": 3312,
+      "latency_s": 2.612
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119026",
+          "nama": "Muhammad Khatami",
+          "judul": "Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada Acara Job Fair",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119245",
+          "nama": "Apid Haryana",
+          "judul": "Sistem Penentuan Kebutuhan Obat dan Alat Kesehatan Menggunakan Metode Single Exponential Smoothing di UPTD Puskesmas Talaga Kabupaten Majalengka",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5221,
+      "completion_tokens": 375,
+      "total_tokens": 5596,
+      "latency_s": 3.923
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.311,
+    "records": {
+      "txt_count": 1,
+      "json_count": 2,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10119245"
+      ],
+      "match_percentage": 50.0
+    }
+  }
+}

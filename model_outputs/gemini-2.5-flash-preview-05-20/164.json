@@ -1,0 +1,148 @@
+{
+  "query": "NIM mahasiswa yang sidang di R6028 tanggal 13 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-23T18:20:32.397180",
+    "scenario_id": 164,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120034",
+          "nama": "Ariq Fadhilah Saputra",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Klinik Menggunakan Performance Dashboard di Klinik Pratama Pradita Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120066",
+          "nama": "Eky Nugraha Heriawan",
+          "judul": "Sistem Monitoring Kegiatan Penjualan Menggunakan Metode Performance Dashboard di PT. Yans Sumber Segar",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120140",
+          "nama": "Rifqi Nugraha",
+          "judul": "Implementasi Deep Q-Network untuk Simulasi Kendaraan Balap Otonom di Lingkungan yang Dinamis",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Irfan Maliki, S.T., M.T.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5055,
+      "completion_tokens": 605,
+      "total_tokens": 5660,
+      "latency_s": 12.445
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120034",
+          "nama": "Ariq Fadhilah Saputra",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Klinik Menggunakan Performance Dashboard di Klinik Pratama Pradita Bandung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120066",
+          "nama": "Eky Nugraha Heriawan",
+          "judul": "Sistem Monitoring Kegiatan Penjualan Menggunakan Metode Performance Dashboard di PT. Yans Sumber Segar",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-13",
+          "hari": "Selasa",
+          "nim": "10120140",
+          "nama": "Rifqi Nugraha",
+          "judul": "Implementasi Deep Q-Network untuk Simulasi Kendaraan Balap Otonom di Lingkungan yang Dinamis",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8975,
+      "completion_tokens": 605,
+      "total_tokens": 9580,
+      "latency_s": 4.973
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 7.472,
+    "records": {
+      "txt_count": 3,
+      "json_count": 3,
+      "count_match": true,
+      "common_count": 3,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

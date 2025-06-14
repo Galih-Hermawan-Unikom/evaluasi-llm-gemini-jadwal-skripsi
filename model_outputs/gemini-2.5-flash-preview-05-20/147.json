@@ -1,0 +1,88 @@
+{
+  "query": "Hari apa mahasiswa dengan NIM 10118314 sidang",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 1,
+    "timestamp": "2025-05-23T18:14:47.933083",
+    "scenario_id": 147,
+    "category_id": "K-2"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-30",
+          "hari": "Selasa",
+          "nim": "10118314",
+          "nama": "Moch Rivaly Ilham Bintang",
+          "judul": "Reengineering pada Aplikasi Rumah Sakit Bunda Nanda",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Hanhan Maulana, M.Kom., Ph.D."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2164,
+      "completion_tokens": 210,
+      "total_tokens": 2374,
+      "latency_s": 7.393
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-30",
+          "hari": "Selasa",
+          "nim": "10118314",
+          "nama": "Moch Rivally Ilham Bintang",
+          "judul": "Reengineering pada Aplikasi Rumah Sakit Bunda Nanda",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Hanhan Maulana, M.Kom., Ph.D."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3327,
+      "completion_tokens": 210,
+      "total_tokens": 3537,
+      "latency_s": 2.01
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 5.383,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

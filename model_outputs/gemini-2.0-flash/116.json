@@ -1,0 +1,181 @@
+{
+  "query": "Munculkan jadwal dari Bapak Irawan",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T22:01:56.504293",
+    "scenario_id": 116,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119118",
+          "nama": "Rizky Septiana Abdul Razak",
+          "judul": "Pembangunan Aplikasi Layanan Pengaduan Masyarakat sebagai Inovasi Smart Village di Kecamatan Leles berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Andri Heryandi, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10118103",
+          "nama": "Billy Muhammad Ridwan",
+          "judul": "Pembangunan Aplikasi Diagnosis Penyakit Ringworm Menggunakan Image Recognition Berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Andri Heryandi, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-17",
+          "hari": "Sabtu",
+          "nim": "10118707",
+          "nama": "R. Wiranda Purba",
+          "judul": "Sistem Infromasi Manajemen Produksi di CV. Tekad Jaya",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5251,
+      "completion_tokens": 600,
+      "total_tokens": 5851,
+      "latency_s": 4.991
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119043",
+          "nama": "Fermi Naufal Akbar",
+          "judul": "Game Edukasi Mata Pelajaran Fisika Kelas X di SMAN 1 Kalirejo",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Richi Dwi Agustia, M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-06",
+          "hari": "Selasa",
+          "nim": "10117096",
+          "nama": "Miftah Muhammad Sidqi",
+          "judul": "Sistem Informasi Kepegawaian di Baznas Kabupaten Garut",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-07",
+          "hari": "Rabu",
+          "nim": "10118103",
+          "nama": "Billy Muhammad Ridwan",
+          "judul": "Pembangunan Aplikasi Diagnosis Penyakit Ringworm Menggunakan Image Recognition Berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119118",
+          "nama": "Rizky Septiana Abdul Razak",
+          "judul": "Pembangunan Aplikasi Layanan Pengaduan Masyarakat sebagai Inovasi Smart Village di Kecamatan Leles berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-17",
+          "hari": "Sabtu",
+          "nim": "10118707",
+          "nama": "Wiranda Purba",
+          "judul": "Sistem Informasi Manajemen Produksi di CV. Tekad Jaya",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9322,
+      "completion_tokens": 964,
+      "total_tokens": 10286,
+      "latency_s": 6.485
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.4940000000000007,
+    "records": {
+      "txt_count": 3,
+      "json_count": 5,
+      "count_match": false,
+      "common_count": 3,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10117096",
+        "10119043"
+      ],
+      "match_percentage": 60.0
+    }
+  }
+}

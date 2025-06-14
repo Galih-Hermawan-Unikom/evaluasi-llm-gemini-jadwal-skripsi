@@ -1,0 +1,86 @@
+{
+  "query": "Jam berapa seminar Ekayan Arsyad dimulai",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T19:57:01.244549",
+    "scenario_id": 9,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-29",
+          "hari": "Rabu",
+          "nim": "10119173",
+          "nama": "Birliano Ekayan Arsyad",
+          "judul": "Pembangunan Aplikasi Pendeteksi Grammar dan Plagiat pada Karya Ilmiah Berbahasa Ingris berbasis Android",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2978,
+      "completion_tokens": 214,
+      "total_tokens": 3192,
+      "latency_s": 3.8
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-29",
+          "hari": "Rabu",
+          "nim": "10119173",
+          "nama": "Birliano Ekayan Arsyad",
+          "judul": "Pembangunan Aplikasi Pendeteksi Grammar dan Plagiat pada Karya Ilmiah Berbahasa Inggris berbasis Android",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Chrismikha Haryanto, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4839,
+      "completion_tokens": 213,
+      "total_tokens": 5052,
+      "latency_s": 2.843
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.9569999999999999,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

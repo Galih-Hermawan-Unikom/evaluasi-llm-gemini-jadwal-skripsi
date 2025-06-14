@@ -1,0 +1,144 @@
+{
+  "query": "Mahasiswa yang diuji Bu Sufaatin jam 09:15",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 6,
+    "timestamp": "2025-05-27T21:53:52.945811",
+    "scenario_id": 62,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-28",
+          "hari": "Jumat",
+          "nim": "10120777",
+          "nama": "Muhammad Abi Rafdi Pratama",
+          "judul": "Sistem Prediksi Penjualan Menggunakan Metode Single Exponential Smoothing  di PT. Inefable Fesyenindo Group",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-28",
+          "hari": "Jumat",
+          "nim": "10120902",
+          "nama": "Dina Sri Hartini",
+          "judul": "Reengineering pada Website Bioskop Online",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-29",
+          "hari": "Sabtu",
+          "nim": "10120215",
+          "nama": "Rahma Yuniar",
+          "judul": "Sistem Optimalisasi Bahan Baku Menggunakan Metode Simpleks di PT. Bandung Lautan Kemasan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-29",
+          "hari": "Sabtu",
+          "nim": "10120733",
+          "nama": "Aldi Maulana Saputra",
+          "judul": "Sistem Penerimaan Karyawan Menggunakan Metode Weighted Product (WP) di Rumah Sakit Bhakti Asih Tangerang",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6723,
+      "completion_tokens": 641,
+      "total_tokens": 7364,
+      "latency_s": 13.76
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-28",
+          "hari": "Jumat",
+          "nim": "10120248",
+          "nama": "Diana Rachmawati Kusnadi",
+          "judul": "Sistem Penentuan Promosi Menggunakan Metode Association Rule di CV. Persada Mandiri (Point99 Computer)",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-29",
+          "hari": "Sabtu",
+          "nim": "10120215",
+          "nama": "Rahma Yuniar",
+          "judul": "Sistem Optimalisasi Bahan Baku Menggunakan Metode Simpleks di PT. Bandung Lautan Kemasan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 11873,
+      "completion_tokens": 374,
+      "total_tokens": 12247,
+      "latency_s": 3.559
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 10.201,
+    "records": {
+      "txt_count": 4,
+      "json_count": 2,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [
+        "10120733",
+        "10120777",
+        "10120902"
+      ],
+      "only_in_json": [
+        "10120248"
+      ],
+      "match_percentage": 20.0
+    }
+  }
+}

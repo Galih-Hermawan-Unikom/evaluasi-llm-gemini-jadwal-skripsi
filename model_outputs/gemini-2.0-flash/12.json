@@ -1,0 +1,62 @@
+{
+  "query": "Siapa Dosen yang ada diseminar Weldira Tarigan",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T21:46:25.466975",
+    "scenario_id": 12,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Irfan Maliki, S.T., M.T.",
+        "Ir.Taryana Suryana, M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2738,
+      "completion_tokens": 60,
+      "total_tokens": 2798,
+      "latency_s": 2.11
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Irfan Maliki, S.T., M.T.",
+        "Ir. Taryana Suryana, M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4580,
+      "completion_tokens": 60,
+      "total_tokens": 4640,
+      "latency_s": 1.293
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.817,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

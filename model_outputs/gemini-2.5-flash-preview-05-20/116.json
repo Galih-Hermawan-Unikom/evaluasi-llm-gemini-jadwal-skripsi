@@ -1,0 +1,165 @@
+{
+  "query": "Munculkan jadwal dari Bapak Irawan",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-26T11:45:10.714470",
+    "scenario_id": 116,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119118",
+          "nama": "Rizky Septiana Abdul Razak",
+          "judul": "Pembangunan Aplikasi Layanan Pengaduan Masyarakat sebagai Inovasi Smart Village di Kecamatan Leles berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Andri Heryandi, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-07",
+          "hari": "Rabu",
+          "nim": "10118103",
+          "nama": "Billy Muhammad Ridwan",
+          "judul": "Pembangunan Aplikasi Diagnosis Penyakit Ringworm Menggunakan Image Recognition Berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Andri Heryandi, S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-17",
+          "hari": "Sabtu",
+          "nim": "10118707",
+          "nama": "R. Wiranda Purba",
+          "judul": "Sistem Infromasi Manajemen Produksi di CV. Tekad Jaya",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5185,
+      "completion_tokens": 600,
+      "total_tokens": 5785,
+      "latency_s": 7.67
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-07",
+          "hari": "Rabu",
+          "nim": "10118103",
+          "nama": "Billy Muhammad Ridwan",
+          "judul": "Pembangunan Aplikasi Diagnosis Penyakit Ringworm Menggunakan Image Recognition Berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-12",
+          "hari": "Senin",
+          "nim": "10119118",
+          "nama": "Rizky Septiana Abdul Razak",
+          "judul": "Pembangunan Aplikasi Layanan Pengaduan Masyarakat sebagai Inovasi Smart Village di Kecamatan Leles berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119115",
+          "nama": "Weldira Tarigan",
+          "judul": "Sistem Prioritas Laporan Aduan Jabar Quick Responses berbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Irfan Maliki, S.T., M.T.",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-17",
+          "hari": "Sabtu",
+          "nim": "10118707",
+          "nama": "Wiranda Purba",
+          "judul": "Sistem Informasi Manajemen Produksi di CV. Tekad Jaya",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Irawan Afrianto, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9253,
+      "completion_tokens": 779,
+      "total_tokens": 10032,
+      "latency_s": 5.722
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 1.9479999999999995,
+    "records": {
+      "txt_count": 3,
+      "json_count": 4,
+      "count_match": false,
+      "common_count": 3,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10119115"
+      ],
+      "match_percentage": 75.0
+    }
+  }
+}

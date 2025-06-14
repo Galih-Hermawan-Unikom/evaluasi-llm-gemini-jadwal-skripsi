@@ -1,0 +1,174 @@
+{
+  "query": "Mahasiswa yang diuji Anna tanggal 15 Agustus 2024.",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T22:08:46.601204",
+    "scenario_id": 160,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120214",
+          "nama": "Rully Fadia",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Moving Average di CV. Persada Mandiri",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120032",
+          "nama": "Hanif Amrullah Almuharam",
+          "judul": "Pembangunan Aplikasi Asisten Berbasis Android untuk Individu Disabilitas Penglihatan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120160",
+          "nama": "Rendi Julianto",
+          "judul": "Pembangunan Aplikasi Top Up Digital dengan Multi Supplier (Studi Kasus : Toko Indah)",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10118149",
+          "nama": "Mochamad Bayu Satria Pratama",
+          "judul": "Analisis Perbandingan Kinerja MQTT Broker pada Virtual Private Server untuk Pengiriman Data Internet of Things",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5093,
+      "completion_tokens": 732,
+      "total_tokens": 5825,
+      "latency_s": 4.885
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120214",
+          "nama": "Rully Fadia",
+          "judul": "Sistem Penentuan Jumlah Pembelian Barang Menggunakan Metode Single Moving Average di CV. Persada Mandiri",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120032",
+          "nama": "Hanif Amrullah Almuharam",
+          "judul": "Pembangunan Aplikasi Asisten Berbasis Android untuk Individu Disabilitas Penglihatan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10120160",
+          "nama": "Rendi Julianto",
+          "judul": "Pembangunan Aplikasi Top Up Digital dengan Multi Supplier (Studi Kasus : Toko Indah)",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-15",
+          "hari": "Kamis",
+          "nim": "10118149",
+          "nama": "Mochamad Bayu Satria Pratama",
+          "judul": "Analisis Perbandingan Kinerja MQTT Broker pada Virtual Private Server untuk Pengiriman Data Internet of Things",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9113,
+      "completion_tokens": 803,
+      "total_tokens": 9916,
+      "latency_s": 6.177
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.2919999999999998,
+    "records": {
+      "txt_count": 4,
+      "json_count": 4,
+      "count_match": true,
+      "common_count": 4,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

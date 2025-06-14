@@ -1,0 +1,90 @@
+{
+  "query": "Mahasiswa mana yang memiliki judul skripsi paling singkat pada  tanggal 10 Juli 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 8,
+    "timestamp": "2025-05-27T20:08:32.147043",
+    "scenario_id": 88,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-10",
+          "hari": "Rabu",
+          "nim": "10120730",
+          "nama": "Ariq Maulana Putra",
+          "judul": "Pengembangan Flow of Life : Game Adventure Menggunakan Unity",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Hanhan Maulana, M.Kom., Ph.D."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1489,
+      "completion_tokens": 191,
+      "total_tokens": 1680,
+      "latency_s": 2.99
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-10",
+          "hari": "Rabu",
+          "nim": "10119086",
+          "nama": "Seldi Syahrizal",
+          "judul": "Pembangunan Aplikasi Pendeteksi Tingkat Kematangan Buah",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2153,
+      "completion_tokens": 194,
+      "total_tokens": 2347,
+      "latency_s": 3.031
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.040999999999999925,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "10120730"
+      ],
+      "only_in_json": [
+        "10119086"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

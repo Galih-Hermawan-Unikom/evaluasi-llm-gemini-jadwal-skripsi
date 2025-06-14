@@ -1,0 +1,103 @@
+{
+  "query": "Mahasiswa yang diuji oleh Bu Dian tanggal 5 Januari 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:05:50.445659",
+    "scenario_id": 67,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": []
+    },
+    "metrics": {
+      "prompt_tokens": 3116,
+      "completion_tokens": 25,
+      "total_tokens": 3141,
+      "latency_s": 2.063
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-05",
+          "hari": "Jumat",
+          "nim": "10118314",
+          "nama": "Moch Rivally Ilham Bintang",
+          "judul": "Reengineering pada Aplikasi Rumah Sakit Bunda Nanda",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-01-06",
+          "hari": "Sabtu",
+          "nim": "10119239",
+          "nama": "Dea Inesia Sri Utami",
+          "judul": "Analisis Desain Interaksi Media Pembelajaran Sistem Peredaran Darah untuk Tingkat Sekolah Dasar / Madrasah Ibtidaiyah",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-01-06",
+          "hari": "Sabtu",
+          "nim": "10119349",
+          "nama": "John Pardamean Napitupulu",
+          "judul": "Visualisasi Data Koperasi dan UKM Provinsi Sumatera Utara",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Alif Finandhita, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5218,
+      "completion_tokens": 547,
+      "total_tokens": 5765,
+      "latency_s": 3.525
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.4619999999999997,
+    "records": {
+      "txt_count": 0,
+      "json_count": 3,
+      "count_match": false,
+      "common_count": 0,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10118314",
+        "10119239",
+        "10119349"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

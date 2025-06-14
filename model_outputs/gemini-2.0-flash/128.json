@@ -1,0 +1,88 @@
+{
+  "query": "Dimana ruang sidang Rizky Renaldi Cahya Febrian",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 2,
+    "timestamp": "2025-05-27T22:03:39.462312",
+    "scenario_id": 128,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10118147",
+          "nama": "Rizky Renaldi Cahya Febrian",
+          "judul": "Pembangunan Aplikasi Pendeteksi Plagiarisme Menggunakan API Open AI",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4271,
+      "completion_tokens": 222,
+      "total_tokens": 4493,
+      "latency_s": 3.684
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10118147",
+          "nama": "Rizky Renaldi Cahya Febrian",
+          "judul": "Pembangunan Aplikasi Pendeteksi Plagiarisme Menggunakan API Open AI",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Dian Dharmayanti, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 7469,
+      "completion_tokens": 222,
+      "total_tokens": 7691,
+      "latency_s": 2.197
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 1.487,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

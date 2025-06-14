@@ -1,0 +1,64 @@
+{
+  "query": "Siapa Dosen yang ada di sidang Dewi Mahiranie",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-23T18:09:26.654766",
+    "scenario_id": 125,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Hanhan Maulana, S.Kom., M.Kom",
+        "Iskandar Ikbal, S.T., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4978,
+      "completion_tokens": 77,
+      "total_tokens": 5055,
+      "latency_s": 3.548
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Hanhan Maulana, S.Kom., M.Kom.",
+        "Iskandar Ikbal, S.T., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9031,
+      "completion_tokens": 77,
+      "total_tokens": 9108,
+      "latency_s": 3.308
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.2400000000000002,
+    "records": {
+      "txt_count": 3,
+      "json_count": 3,
+      "count_match": true,
+      "common_count": 3,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

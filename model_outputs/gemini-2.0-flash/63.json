@@ -1,0 +1,68 @@
+{
+  "query": "Semua dosen yang menguji di ruang R6010 tanggal 28 Juni 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 6,
+    "timestamp": "2025-05-27T21:54:00.190712",
+    "scenario_id": 63,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Sri Nurhayati, S.Si., M.T.",
+        "Angga Setiyadi, S.Kom., M.Kom"
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6486,
+      "completion_tokens": 61,
+      "total_tokens": 6547,
+      "latency_s": 2.492
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Chrismikha Haryanto, S.Kom., M.Kom.",
+        "Richi Dwi Agustia, M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 11617,
+      "completion_tokens": 63,
+      "total_tokens": 11680,
+      "latency_s": 2.274
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.21799999999999997,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "Angga Setiyadi, S.Kom., M.Kom",
+        "Sri Nurhayati, S.Si., M.T."
+      ],
+      "only_in_json": [
+        "Chrismikha Haryanto, S.Kom., M.Kom.",
+        "Richi Dwi Agustia, M.Kom."
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

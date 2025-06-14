@@ -1,0 +1,88 @@
+{
+  "query": "Pada sidang tanggal 30 Agustus 2024, siapakah mahasiswa yang memiliki NIM terbesar",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-23T18:29:50.290175",
+    "scenario_id": 195,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-30",
+          "hari": "Jumat",
+          "nim": "10123706",
+          "nama": "Rexy Mahendra Rasyid Khoto",
+          "judul": "Sistem Monitoring Inventaris Obat di Klinik Nayaka Eka Medika",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9041,
+      "completion_tokens": 217,
+      "total_tokens": 9258,
+      "latency_s": 8.117
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-30",
+          "hari": "Jumat",
+          "nim": "10123706",
+          "nama": "Rexy Mahendra Rasyid Khoto",
+          "judul": "Sistem Monitoring Inventaris Obat di Klinik Nayaka Eka Medika",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16553,
+      "completion_tokens": 217,
+      "total_tokens": 16770,
+      "latency_s": 2.789
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 5.328000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

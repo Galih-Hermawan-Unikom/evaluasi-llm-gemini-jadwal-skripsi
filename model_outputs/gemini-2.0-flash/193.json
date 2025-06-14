@@ -1,0 +1,95 @@
+{
+  "query": "Siapa saja dosen yang menguji terbanyak pada tanggal 29 Agustus 2024 jika lebih dari satu tampilkan sesuai urutan alphabet",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-27T22:14:41.194110",
+    "scenario_id": 193,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Alif Finandhita, S.Kom., M.T.",
+        "Andri Heryandi, S.T., M.T.",
+        "Eko Budi Setiawan, S.Kom., M.T.",
+        "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "Hanhan Maulana, M.Kom., Ph.D.",
+        "Iskandar Ikbal, S.T., M.Kom.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Sopian Alviana, S.Kom.,M.Kom.",
+        "Tati Harihayati M., S.T., M.T."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8835,
+      "completion_tokens": 178,
+      "total_tokens": 9013,
+      "latency_s": 3.296
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Alif Finandhita, S.Kom., M.T.",
+        "Andri Heryandi, S.T., M.T.",
+        "Anna Dara Andriana, S.Kom., M.Kom",
+        "Chrismikha Haryanto, S.Kom.,M.Kom.",
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Didit Andri Jatmiko, S.Kom., M.T.",
+        "Eko Budi Setiawan, S.Kom., M.T.",
+        "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "Hanhan Maulana, M.Kom., Ph.D.",
+        "Irawan Afrianto, S.T., M.T.",
+        "Iskandar Ikbal, S.T., M.Kom.",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Rani Susanto, S.Kom, M.Kom.",
+        "Riani Lubis, S.T., M.T.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Sopian Alviana, S.Kom.,M.Kom.",
+        "Sufaatin, S.T., M.Kom.",
+        "Tati Harihayati M., S.T., M.T."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16426,
+      "completion_tokens": 330,
+      "total_tokens": 16756,
+      "latency_s": 5.301
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 2.0050000000000003,
+    "records": {
+      "txt_count": 9,
+      "json_count": 18,
+      "count_match": false,
+      "common_count": 9,
+      "only_in_txt": [],
+      "only_in_json": [
+        "Anna Dara Andriana, S.Kom., M.Kom",
+        "Chrismikha Haryanto, S.Kom.,M.Kom.",
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Didit Andri Jatmiko, S.Kom., M.T.",
+        "Irawan Afrianto, S.T., M.T.",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Rani Susanto, S.Kom, M.Kom.",
+        "Riani Lubis, S.T., M.T.",
+        "Sufaatin, S.T., M.Kom."
+      ],
+      "match_percentage": 50.0
+    }
+  }
+}

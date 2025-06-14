@@ -1,0 +1,66 @@
+{
+  "query": "Semua dosen yang menguji di hari Kamis ruang R6010",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:05:42.329364",
+    "scenario_id": 66,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Tati Harihayati M., S.T., M.T.",
+        "Riani Lubis, S.T., M.T.",
+        "Sufaatin, S.T., M.Kom.",
+        "Anna Dara Andriana, S.Kom., M.Kom"
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2870,
+      "completion_tokens": 93,
+      "total_tokens": 2963,
+      "latency_s": 2.353
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Tati Harihayati M., S.T., M.T.",
+        "Riani Lubis, S.T., M.T.",
+        "Sufaatin, S.T., M.Kom.",
+        "Anna Dara Andriana, S.Kom., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4953,
+      "completion_tokens": 93,
+      "total_tokens": 5046,
+      "latency_s": 2.773
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.41999999999999993,
+    "records": {
+      "txt_count": 4,
+      "json_count": 4,
+      "count_match": true,
+      "common_count": 4,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

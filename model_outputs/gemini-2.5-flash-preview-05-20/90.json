@@ -1,0 +1,86 @@
+{
+  "query": "Untuk seminar tanggal 8 Juli 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 8,
+    "timestamp": "2025-05-23T18:00:48.843866",
+    "scenario_id": 90,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-08",
+          "hari": "Senin",
+          "nim": "10120721",
+          "nama": "Gibran Mahardhika",
+          "judul": "Sistem Monitoring Dan Evaluasi Kinerja Divisi Programming Menggunakan Metode Key Performance Indicator (KPI) di PT. Mediatama Kreasi Informatika",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1450,
+      "completion_tokens": 212,
+      "total_tokens": 1662,
+      "latency_s": 10.238
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-08",
+          "hari": "Senin",
+          "nim": "10120721",
+          "nama": "Gibran Mahardhika",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Divisi Programming Menggunakan Metode Key Performance Indicator (KPI) di PT. Mediatama Kreasi Informatika",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2012,
+      "completion_tokens": 212,
+      "total_tokens": 2224,
+      "latency_s": 3.702
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 6.536,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

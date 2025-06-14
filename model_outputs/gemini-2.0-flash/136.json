@@ -1,0 +1,156 @@
+{
+  "query": "Sebutkan NIM mahasiswa yang diuji oleh Pak Dedeng",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 2,
+    "timestamp": "2025-05-27T22:05:07.320297",
+    "scenario_id": 136,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "21-Februari-2024",
+          "hari": "Rabu",
+          "nim": "10119217",
+          "nama": "Tiyo Haryo Subaktiono",
+          "judul": "Prototipe Sistem Otomasi Irigasi Tetes pada Tanaman Cabai \nMenggunakan Teknologi MQTT dan HTTP",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "23-Februari-2024",
+          "hari": "Jumat",
+          "nim": "10119322",
+          "nama": "Karyadi Simamora",
+          "judul": "Pembangunan Aplikasi Rekomendasi Jasa Tukang Bangunan di \nKota Bandung Berbasis Android ",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "23-Februari-2024",
+          "hari": "Jumat",
+          "nim": "10119106",
+          "nama": "Ahmad Fikri Maulana",
+          "judul": "Pembangunan Aplikasi Pendeteksi Bahasa Isyarat \nMemanfaatkan Tensorflow API dan Text to Speech API \nBerbasis Android",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Dian Dharmayanti, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4271,
+      "completion_tokens": 623,
+      "total_tokens": 4894,
+      "latency_s": 4.835
+    },
+    "valid_json": true,
+    "schema_issues": [
+      "Item 0: Format tanggal '21-Februari-2024' tidak sesuai ISO",
+      "Item 1: Format tanggal '23-Februari-2024' tidak sesuai ISO",
+      "Item 2: Format tanggal '23-Februari-2024' tidak sesuai ISO"
+    ]
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119217",
+          "nama": "Tiyo Haryo Subaktiono",
+          "judul": "Prototipe Sistem Otomasi Irigasi Tetes pada Tanaman Cabai Menggunakan Teknologi MQTT dan HTTP",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119117",
+          "nama": "Fikri Muhamad Fauzi",
+          "judul": "Rancang Bangun Sistem Monitoring Udara Berbasis IoT dan Teknologi Blockchain",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Irawan Afrianto, S.T., M.T.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10119322",
+          "nama": "Karyadi Simamora",
+          "judul": "Pembangunan Aplikasi Rekomendasi Jasa Tukang Bangunan di Kota Bandung Berbasis Android",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 7469,
+      "completion_tokens": 605,
+      "total_tokens": 8074,
+      "latency_s": 5.308
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.47299999999999986,
+    "records": {
+      "txt_count": 3,
+      "json_count": 3,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [
+        "10119106"
+      ],
+      "only_in_json": [
+        "10119117"
+      ],
+      "match_percentage": 50.0
+    }
+  }
+}

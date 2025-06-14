@@ -1,0 +1,462 @@
+
+==================================================
+Jadwal Sidang Tanggal Senin, 19-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SENIN, 19-FEBRUARI-2024
+IKHSAN NURUL RIZKI
+1
+10119097
+Pembangunan Aplikasi Belajar Mengaji Al-Qur’an Memanfaatkan 
+Speech Recognition untuk Mendeteksi Kesalahan dalam 
+Pelafalan
+Hidayat, M.T.
+10.30-11.45
+R6010
+Andri Heryandi, S.T., M.T.
+Hanhan Maulana, S.Kom., M.Kom
+1.
+2.
+3.
+ARIF ABDAN SYAKUR
+2
+10119085
+Pembangunan Aplikasi Smart Monitoring pada Klub Sepeda 
+Permata Cycling Community
+Didit Andri Jatmiko, S.Kom., M.T.
+11.45-13.00
+R6010
+Andri Heryandi, S.T., M.T.
+Tati Harihayati M., S.T., M.T.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Rabu, 21-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+RABU, 21-FEBRUARI-2024
+APID HARYANA
+1
+10119245
+Sistem Penentuan Kebutuhan Obat dan Alat Kesehatan 
+Menggunakan Metode Single Exponential Smooting di UPTD 
+Puskemas Talaga Kabupaten Majalengka
+Riani Lubis, S.T., M.T.
+08.00-09.15
+R6010
+Rani Susanto, S.Kom, M.Kom.
+Chrismikha Haryanto, S.Kom.,M.Kom.
+1.
+2.
+3.
+MUHAMMAD IQBAL ROSYIDIN
+2
+10119209
+Sistem Penjadwalan Proyek Perangkat Lunak di PT.Swamedia 
+Informatika dengan Metode Agile
+Fakhrian Fadlia, S.Kom.M.Kom.
+08.00-09.15
+R6028
+Gentisya Tri Mardiani, S.Kom., M.Kom
+Nelly Indriani W, S.Si., M.T.
+1.
+2.
+3.
+TIYO HARYO SUBAKTIONO
+3
+10119217
+Prototipe Sistem Otomasi Irigasi Tetes pada Tanaman Cabai 
+Menggunakan Teknologi MQTT dan HTTP
+Dedeng Hirawan, S.Kom., M.Kom
+08.00-09.15
+R6034
+Sopian Alviana, S.Kom.,M.Kom.
+Anna Dara Andriana, S.Kom., M.Kom
+1.
+2.
+3.
+NAUFAL DAFFA ILYASA
+4
+10119259
+Sistem Penentuan Waktu dan Jumlah Pengadaan Obat 
+Menggunakan Metode Reorder Point di Klinik Tiga Mandiri 
+Gentisya Tri Mardiani, S.Kom., M.Kom
+09.15-10.30
+R6010
+Tati Harihayati M., S.T., M.T.
+Nelly Indriani W, S.Si., M.T.
+1.
+2.
+3.
+MUHAMMAD IRSYAD IBRAHIM
+5
+10119212
+Sistem Informasi Manajemen Produksi di CV. Vendorin Indonesia
+Sopian Alviana, S.Kom.,M.Kom.
+09.15-10.30
+R6028
+Anna Dara Andriana, S.Kom., M.Kom
+Fakhrian Fadlia, S.Kom.M.Kom.
+1.
+2.
+3.
+FIKRI MUHAMAD FAUZI
+6
+10119117
+Rancang Bangun Sistem Monitoring Udara Berbasis IoT dan 
+Teknologi Blockchain
+Irawan Afrianto, S.T., M.T.
+09.15-10.30
+R6034
+Dedeng Hirawan, S.Kom., M.Kom
+Irfan Maliki, S.T., M.T.
+1.
+2.
+3.
+AHMAD HARIS
+7
+10119266
+Sistem Penjadwalan Mata Pelajaran Menggunakan Algoritma 
+Genetika di SMK Negeri 1 Cianjur
+Utami Dewi W, S.Kom., M.Kom
+10.30-11.45
+R6010
+Rani Susanto, S.Kom, M.Kom.
+Andri Heryandi, S.T., M.T.
+1.
+2.
+3.
+MAHFUDZ ABDULLOH
+8
+10119092
+Sistem Penjadwalan Tenaga Keperawatan Bagian Rawat Jalan 
+menggunakan Algoritma Priority Schedulling di Rumah Sakit 
+Bayukarta Karawang
+Tati Harihayati M., S.T., M.T.
+10.30-11.45
+R6028
+Sufaatin, S.T., M.Kom.
+Eko Budi Setiawan, S.Kom., M.T.
+1.
+2.
+3.
+MUHAMAD RIDWAN
+9
+10119251
+Pengembangan Prototipe Pendeteksi Pelanggaran Lalu Lintas 
+Berbasis IoT Menggunakan Algoritma Yolo
+Angga Setiyadi, S.Kom., M.Kom
+10.30-11.45
+R6034
+Irawan Afrianto, S.T., M.T.
+Nelly Indriani W, S.Si., M.T.
+1.
+2.
+3.
+RAFLY ABDILLAH
+10
+10119314
+Pembangunan Aplikasi Monitoring Kualitas Jalan Rusak di Kota 
+Bandung
+Chrismikha Haryanto, S.Kom.,M.Kom.
+11.45-13.00
+R6028
+Ir.Taryana Suryana, M.Kom.
+Nelly Indriani W, S.Si., M.T.
+1.
+2.
+3.
+Halaman ke-1
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+RABU, 21-FEBRUARI-2024
+RIZKI LAIL RAHMAN
+11
+10119255
+Aplikasi Pelaporan Petugas Dinas Perhubungan Memanfaatan 
+Kamera dan GPS
+Ir.Taryana Suryana, M.Kom.
+13.00-14.15
+R6010
+Andri Heryandi, S.T., M.T.
+Riani Lubis, S.T., M.T.
+1.
+2.
+3.
+RIZKY RENALDI CAHYA FEBRIAN
+12
+10118147
+Pembangunan Aplikasi Pendeteksi Plagiarisme Menggunakan API 
+Open AI
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6034
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+Halaman ke-2
+
+
+
+==================================================
+Jadwal Sidang Tanggal Kamis, 22-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+KAMIS, 22-FEBRUARI-2024
+DITA PERMATASARI
+1
+10119311
+Sistem Penentuan Pegawai Lembur Produksi Menggunakan 
+Analytical Hierarchy Process (AHP) di PT. Neturen Indonesia 
+Gentisya Tri Mardiani, S.Kom., M.Kom
+08.00-09.15
+R6010
+Rani Susanto, S.Kom, M.Kom.
+Richi Dwi Agustia, M.Kom.
+1.
+2.
+3.
+ANDREAS SURYADI
+2
+10119918
+Visualisasi Data Sistem Penjualan Barang di Aplikasi Belanja 
+Online Gramedia
+Alif Finandhita, S.Kom., M.T.
+08.00-09.15
+R6028
+Fakhrian Fadlia, S.Kom.M.Kom.
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+ATHIAN RIZKI
+3
+10119337
+Sistem Optimalisasi Bahan Baku Utama Produksi Menggunakan 
+Metode Continuous Review System pada CV. Rudi Jaya Fashion
+Sufaatin, S.T., M.Kom.
+09.15-10.30
+R6010
+Gentisya Tri Mardiani, S.Kom., M.Kom
+Galih Hermawan, S.Kom, M.T.
+1.
+2.
+3.
+FAUZAN HILMY
+4
+10119219
+Pembangunan Aplikasi Edupreneurship dalam Pembuatan Baju 
+Cosplay di Facebook Berbasis Teknologi Augmented Reality
+Iskandar Ikbal, S.T., M.Kom.
+09.15-10.30
+R6028
+Richi Dwi Agustia, M.Kom.
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+MOCHAMAD YUSUF ADHIYAKSA
+5
+10117172
+Sistem Pengelolaan Pengetahuan Tenaga Pengajar 
+Menggunakan Metode Boyer-Moore untuk Optimasi Pencarian 
+Pengetahuan Di SMK Negeri 5 Bandung
+Utami Dewi W, S.Kom., M.Kom
+10.30-11.45
+R6010
+Sufaatin, S.T., M.Kom.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+MOCH WANDIKA YUSGIAR
+6
+10119220
+Pengembangan Media Pembelajaran Berkebun dengan Metode 
+Hidroponik sebagai Sarana Edupreneur
+Iskandar Ikbal, S.T., M.Kom.
+10.30-11.45
+R6028
+Richi Dwi Agustia, M.Kom.
+Riani Lubis, S.T., M.T.
+1.
+2.
+3.
+UMAR SAID ADI PRANOTO
+7
+10119920
+Visualisasi Data Interaktif untuk Penentuan Strategi Penjualan di 
+Restoran Cepat Saji Ayam Poka - Poka
+Alif Finandhita, S.Kom., M.T.
+11.45-13.00
+R6010
+Dian Dharmayanti, S.T., M.Kom.
+Gentisya Tri Mardiani, S.Kom., M.Kom
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Jumat, 23-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+JUMAT, 23-FEBRUARI-2024
+ALDI ARDIANSAH
+1
+10118121
+Sistem Penentuan Jumlah Pengadaan Obat menggunakan 
+Metode Holt-Winters Exponential Smoothing di Puskesmas Way 
+Dente Lampung
+Tati Harihayati M., S.T., M.T.
+08.00-09.15
+R6010
+Riani Lubis, S.T., M.T.
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+DAFFA SACOFI MUTAWAKKIL
+2
+10118401
+Sistem Penentuan Jumlah Persediaan Bahan Baku 
+Menggunakan Metode Simple Moving Average di PT. Langgeng 
+Iman Makmur
+Anna Dara Andriana, S.Kom., M.Kom
+08.00-09.15
+R6028
+Gentisya Tri Mardiani, S.Kom., M.Kom
+Irawan Afrianto, S.T., M.T.
+1.
+2.
+3.
+KARYADI SIMAMORA
+3
+10119322
+Pembangunan Aplikasi Rekomendasi Jasa Tukang Bangunan di 
+Kota Bandung Berbasis Android 
+Fakhrian Fadlia, S.Kom.M.Kom.
+08.00-09.15
+R6034
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Dedeng Hirawan, S.Kom., M.Kom
+1.
+2.
+3.
+ANDRE RIANA MULYA
+4
+10118259
+Penanganan Ketidakseimbangan Data Pada Kasus Analisis 
+Sentimen Berbasis Aspek
+Kania Evita Dewi, S.Pd., M.Si.
+09.15-10.30
+R6028
+Irfan Maliki, S.T., M.T.
+Tati Harihayati M., S.T., M.T.
+1.
+2.
+3.
+AHMAD FIKRI MAULANA
+5
+10119106
+Pembangunan Aplikasi Pendeteksi Bahasa Isyarat 
+Memanfaatkan Tensorflow API dan Text to Speech API 
+Berbasis Android
+Galih Hermawan, S.Kom, M.T.
+09.15-10.30
+R6034
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+ALDI REZEKI RAMDANI
+6
+10119273
+Pembangunan Chatbot Deteksi Tugas dan Presensi Peserta 
+Magang pada Perusahaan Cyberlabs
+Eko Budi Setiawan, S.Kom., M.T.
+10.30-11.45
+R6010
+Andri Heryandi, S.T., M.T.
+Angga Setiyadi, S.Kom., M.Kom
+1.
+2.
+3.
+AGHNIA DEWI MAHIRANIE
+7
+10119073
+Pembangunan Game Edukasi Pembelajaran Materi Kecap 
+Bahasa Sunda berbasis Desktop
+Iskandar Ikbal, S.T., M.Kom.
+10.30-11.45
+R6028
+Hanhan Maulana, S.Kom., M.Kom
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+ANDRI DWI PRASETIYO
+8
+10119014
+Pembangunan Aplikasi Musik sebagai Media Penurun Stres 
+Memanfaatkan Teknologi Smartwatch dan API SPOTIFY
+Fakhrian Fadlia, S.Kom.M.Kom.
+13.00-14.15
+R6010
+Andri Heryandi, S.T., M.T.
+Galih Hermawan, S.Kom, M.T.
+1.
+2.
+3.
+Halaman ke-1
+
+

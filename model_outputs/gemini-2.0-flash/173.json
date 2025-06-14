@@ -1,0 +1,64 @@
+{
+  "query": "Banyak sidang di 6034 tanggal 19 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T22:11:25.284235",
+    "scenario_id": 173,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 2
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 10319,
+      "completion_tokens": 33,
+      "total_tokens": 10352,
+      "latency_s": 2.708
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 1
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 19009,
+      "completion_tokens": 33,
+      "total_tokens": 19042,
+      "latency_s": 8.512
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 5.804,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "count: 2"
+      ],
+      "only_in_json": [
+        "count: 1"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "query": "Mahasiswa yang diuji Bu Sufaatin jam 09:15",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 6,
+    "timestamp": "2025-05-26T11:41:23.925629",
+    "scenario_id": 62,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120747",
+          "nama": "Fadillah Fitriani Supriatna",
+          "judul": "Sistem Monitoring dan Evaluasi Penyaluran Dana Bantuan Sosial Menggunakan Metode Performance Dashboard di Desa Cinta Rakyat Kabupaten Garut",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Hani Irmayanti, S.Kom.,M.Kom.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-29",
+          "hari": "Sabtu",
+          "nim": "10120215",
+          "nama": "Rahma Yuniar",
+          "judul": "Sistem Optimalisasi Bahan Baku Menggunakan Metode Simpleks di PT. Bandung Lautan Kemasan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6657,
+      "completion_tokens": 377,
+      "total_tokens": 7034,
+      "latency_s": 8.757
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-26",
+          "hari": "Rabu",
+          "nim": "10120747",
+          "nama": "Fadillah Fitriani Supriatna",
+          "judul": "Sistem Monitoring dan Evaluasi Penyaluran Dana Bantuan Sosial Menggunakan Metode Performance Dashboard di Desa Cinta Rakyat Kabupaten Garut",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Hani Irmayanti, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-29",
+          "hari": "Sabtu",
+          "nim": "10120215",
+          "nama": "Rahma Yuniar",
+          "judul": "Sistem Optimalisasi Bahan Baku Menggunakan Metode Simpleks di PT. Bandung Lautan Kemasan",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "tidak",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 11804,
+      "completion_tokens": 377,
+      "total_tokens": 12181,
+      "latency_s": 11.535
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 2.7780000000000005,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

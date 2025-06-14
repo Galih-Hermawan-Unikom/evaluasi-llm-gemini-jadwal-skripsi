@@ -1,0 +1,178 @@
+{
+  "query": "Semua mahasiswa di ruang R6034 tanggal 14 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-23T18:18:01.603554",
+    "scenario_id": 157,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120134",
+          "nama": "Eriko Ananta",
+          "judul": "Pengaruh Penerapan Frame Rate Terhadap Peningkatan Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi lag dalam Game Shooter Multiplayer",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Galih Hermawan, S.Kom, M.T.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120102",
+          "nama": "Fasya Mutiara Pagi",
+          "judul": "Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi Tinder dengan Metode Support Vector Machine",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Nelly Indriani W, S.Si., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120733",
+          "nama": "Aldi Maulana Saputra",
+          "judul": "Sistem Penerimaan Karyawan Menggunakan Metode Weighted Product (WP) di Rumah Sakit Bhakti Asih Tangerang",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6034",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120272",
+          "nama": "Salsabila Marhan",
+          "judul": "Implementasi Externally Hosted Private Cloud Aplikasi Penyimpanan Data Menggunakan Nextcloud Di SMA Negeri 1 Citeureup",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5054,
+      "completion_tokens": 816,
+      "total_tokens": 5870,
+      "latency_s": 23.91
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120134",
+          "nama": "Eriko Ananta",
+          "judul": "Pengaruh Penerapan Frame Rate Terhadap Peningkatan Keberhasilan Registrasi Hit untuk Optimalisasi Kompensasi lag dalam Game Shooter Multiplayer",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Galih Hermawan, S.Kom, M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120102",
+          "nama": "Fasya Mutiara Pagi",
+          "judul": "Analisis Sentimen Berbasis Aspek pada Ulasan Aplikasi Tinder dengan Metode Support Vector Machine",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Nelly Indriani W, S.Si., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120733",
+          "nama": "Aldi Maulana Saputra",
+          "judul": "Sistem Penerimaan Karyawan Menggunakan Metode Weighted Product (WP) di Rumah Sakit Bhakti Asih Tangerang",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6034",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-08-14",
+          "hari": "Rabu",
+          "nim": "10120272",
+          "nama": "Salsabila Marhan",
+          "judul": "Implementasi Externally Hosted Private Cloud Aplikasi Penyimpanan Data Menggunakan Nextcloud Di SMA Negeri 1 Citeureup",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8974,
+      "completion_tokens": 816,
+      "total_tokens": 9790,
+      "latency_s": 4.784
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 19.126,
+    "records": {
+      "txt_count": 4,
+      "json_count": 4,
+      "count_match": true,
+      "common_count": 4,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "query": "Siapa Dosen yang ada disidang Naufal Hafizh",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T22:01:18.227925",
+    "scenario_id": 112,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Utami Dewi W, S.Kom., M.Kom",
+        "Iskandar Ikbal, S.T., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4999,
+      "completion_tokens": 62,
+      "total_tokens": 5061,
+      "latency_s": 1.445
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Rani Susanto, S.Kom, M.Kom.",
+        "Sri Nurhayati, S.Si., M.T.",
+        "Dian Dharmayanti, S.T., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9051,
+      "completion_tokens": 76,
+      "total_tokens": 9127,
+      "latency_s": 2.677
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.232,
+    "records": {
+      "txt_count": 2,
+      "json_count": 3,
+      "count_match": false,
+      "common_count": 0,
+      "only_in_txt": [
+        "Iskandar Ikbal, S.T., M.Kom.",
+        "Utami Dewi W, S.Kom., M.Kom"
+      ],
+      "only_in_json": [
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Rani Susanto, S.Kom, M.Kom.",
+        "Sri Nurhayati, S.Si., M.T."
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

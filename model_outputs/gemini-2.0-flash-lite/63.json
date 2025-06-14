@@ -1,0 +1,71 @@
+{
+  "query": "Semua dosen yang menguji di ruang R6010 tanggal 28 Juni 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:04:50.640232",
+    "scenario_id": 63,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Sri Nurhayati, S.Si., M.T.",
+        "Chrismikha Haryanto, S.Kom.,M.Kom.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Angga Setiyadi, S.Kom., M.Kom.",
+        "Sufaatin, S.T., M.Kom.",
+        "Gentisya Tri Mardiani, S.Kom., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6486,
+      "completion_tokens": 128,
+      "total_tokens": 6614,
+      "latency_s": 6.932
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Chrismikha Haryanto, S.Kom., M.Kom.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Angga Setiyadi, S.Kom., M.Kom.",
+        "Sri Nurhayati, S.Si., M.T.",
+        "Gentisya Tri Mardiani, S.Kom., M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 11617,
+      "completion_tokens": 113,
+      "total_tokens": 11730,
+      "latency_s": 1.862
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 5.07,
+    "records": {
+      "txt_count": 6,
+      "json_count": 5,
+      "count_match": false,
+      "common_count": 5,
+      "only_in_txt": [
+        "Sufaatin, S.T., M.Kom."
+      ],
+      "only_in_json": [],
+      "match_percentage": 83.33
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "semester": "Genap",
+  "tahun_akademik": "2023/2024",
+  "pekan": 1,
+  "jenis": "Seminar",
+  "jadwal_harian": [
+    {
+      "tanggal": "2024-05-22",
+      "hari": "Rabu",
+      "jadwal": [
+        {
+          "nim": "10119913",
+          "nama": "Muhammad Alvin Rizqi Ramadhan",
+          "judul": "Sistem Monitoring Penumpang Travel Berbasis Internet of Things",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dedeng Hirawan, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2024-05-25",
+      "hari": "Sabtu",
+      "jadwal": [
+        {
+          "nim": "10120901",
+          "nama": "Mustapha Hadzi",
+          "judul": "Implementasi Konsep Gitops untuk Meningkatkan Efisiensi Deployment Aplikasi Berbasis Cloud Native",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Irawan Afrianto, S.T., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Angga Setiyadi, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

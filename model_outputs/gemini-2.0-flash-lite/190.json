@@ -1,0 +1,88 @@
+{
+  "query": "Untuk sidang tanggal 27 Agustus 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-27T20:24:12.322163",
+    "scenario_id": 190,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-27",
+          "hari": "Selasa",
+          "nim": "10120050",
+          "nama": "Ari Syafiri",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Puskesmas Menggunakan Metode Performance Dashboard di UPTD Puskesmas Sagalaherang Kabupaten Subang",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9087,
+      "completion_tokens": 227,
+      "total_tokens": 9314,
+      "latency_s": 2.767
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-27",
+          "hari": "Selasa",
+          "nim": "10120050",
+          "nama": "Ari Syaf",
+          "judul": "Sistem Monitoring dan Evaluasi Kinerja Puskesmas Menggunakan Metode Performance Dashboard di UPTD Puskesmas Sagalaherang Kabupaten Subang",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom",
+            "Tati Harihayati M., S.T., M.Τ",
+            "Kania Evita Dewi, S.Pd., M.Si"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16699,
+      "completion_tokens": 226,
+      "total_tokens": 16925,
+      "latency_s": 4.5
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.733,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

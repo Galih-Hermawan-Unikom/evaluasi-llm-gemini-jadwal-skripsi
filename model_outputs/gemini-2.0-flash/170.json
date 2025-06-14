@@ -1,0 +1,64 @@
+{
+  "query": "Berapa sidang di R6010 tanggal 15 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T22:10:57.737367",
+    "scenario_id": 170,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 5
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 4783,
+      "completion_tokens": 33,
+      "total_tokens": 4816,
+      "latency_s": 1.209
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 1
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 8784,
+      "completion_tokens": 33,
+      "total_tokens": 8817,
+      "latency_s": 2.808
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.5989999999999998,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "count: 5"
+      ],
+      "only_in_json": [
+        "count: 1"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

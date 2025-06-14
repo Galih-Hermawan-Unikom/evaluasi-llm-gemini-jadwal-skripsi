@@ -1,0 +1,597 @@
+
+==================================================
+Jadwal Sidang Tanggal Senin, 12-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SENIN, 12-FEBRUARI-2024
+RIZKY SEPTIANA ABDUL RAZAK
+1
+10119118
+Pembangunan Aplikasi Layanan Pengaduan Masyarakat 
+sebagai Inovasi Smart Village di Kecamatan Leles berbasis 
+Android
+Eko Budi Setiawan, S.Kom., M.T.
+10.30-11.45
+R6010
+Andri Heryandi, S.T., M.T.
+Irawan Afrianto, S.T., M.T.
+1.
+2.
+3.
+DICKY SETIADI
+2
+10119126
+Pembangunan Aplikasi Sistem Pemesanan dan Pembayaran 
+Menggunakan Teknologi QRIS berbasis Web pada Cafe Buana 
+Life Pangalengan
+Ir.Taryana Suryana, M.Kom.
+13.00-14.15
+R6010
+Andri Heryandi, S.T., M.T.
+Sopian Alviana, S.Kom.,M.Kom.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Senin, 5-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SENIN, 5-FEBRUARI-2024
+IVAN APRILMAN HURA
+1
+10119305
+Sistem Informasi Strategi Promosi di PT Ayudha Wahana Jasa 
+Dengan Pendekatan Customer Realtionship Manajemen (CRM)
+Sufaatin, S.T., M.Kom.
+10.30-11.45
+R6010
+Utami Dewi W, S.Kom., M.Kom
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+MUHAMMAD RIFQU ABDILLAH
+2
+10119042
+Pembangunan Aplikasi Rekomendasi Penjualan pada Tukang 
+Sayur berbasis Android
+Rani Susanto, S.Kom, M.Kom.
+10.30-11.45
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+Angga Setiyadi, S.Kom., M.Kom
+1.
+2.
+3.
+ARIF ABDAN SYAKUR
+3
+10119085
+Pembangunan Aplikasi Smart Monitoring pada Klub Sepeda 
+Permata Cycling Community
+Didit Andri Jatmiko, S.Kom., M.T.
+10.30-11.45
+R6034
+Andri Heryandi, S.T., M.T.
+Tati Harihayati M., S.T., M.T.
+1.
+2.
+3.
+IKHSAN NURUL RIZKI
+4
+10119097
+Pembangunan Aplikasi Belajar Mengaji Al-Qur’an Memanfaatkan 
+Speech Recognition untuk Mendeteksi Kesalahan dalam 
+Pelafalan
+Hidayat, M.T.
+11.45-13.00
+R6028
+Andri Heryandi, S.T., M.T.
+Hanhan Maulana, S.Kom., M.Kom
+1.
+2.
+3.
+FERMI NAUFAL AKBAR
+5
+10119043
+Game Edukasi Mata Pelajaran Fisika Kelas X di SMAN 1 Kalirejo
+Richi Dwi Agustia, M.Kom.
+13.00-14.15
+R6010
+Iskandar Ikbal, S.T., M.Kom.
+Ir.Taryana Suryana, M.Kom.
+1.
+2.
+3.
+TRI NOVAREL RAHMADHANI
+6
+10119069
+Sistem Kendali Robot Lengan berbasis Visual
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6034
+Dedeng Hirawan, S.Kom., M.Kom
+Fakhrian Fadlia, S.Kom.M.Kom.
+1.
+2.
+3.
+FACHRIANSYAH MUH NUR I
+7
+10119065
+Game Edukasi Mata Pelajaran Produk Kreatif dan 
+Kewirausahaan Kelas XI di SMKN 1 Cikarang Utara
+Richi Dwi Agustia, M.Kom.
+14.15-15.30
+R6010
+Iskandar Ikbal, S.T., M.Kom.
+Ir.Taryana Suryana, M.Kom.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Selasa, 13-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SELASA, 13-FEBRUARI-2024
+WELDIRA TARIGAN
+1
+10119115
+Sistem Prioritas Laporan Aduan Jabar Quick Responses 
+berbasis Android
+Irfan Maliki, S.T., M.T.
+09.15-10.30
+R6010
+Ir.Taryana Suryana, M.Kom.
+Sopian Alviana, S.Kom.,M.Kom.
+1.
+2.
+3.
+RENDY DERMAWAN
+2
+10119030
+Sistem Informasi Manajemen Produksi di PT. Artha Savana Digital
+Gentisya Tri Mardiani, S.Kom., M.Kom
+09.15-10.30
+R6028
+Riani Lubis, S.T., M.T.
+Iskandar Ikbal, S.T., M.Kom.
+1.
+2.
+3.
+REICHAN MUHAMMAD MAULANA
+3
+10119120
+Pembangunan Aplikasi Rekomendasi Makanan dan Olahraga 
+untuk Program Diet berbasis Android
+Angga Setiyadi, S.Kom., M.Kom
+10.30-11.45
+R6010
+Eko Budi Setiawan, S.Kom., M.T.
+Sufaatin, S.T., M.Kom.
+1.
+2.
+3.
+FERDY MOHAMAD FIRDAUS
+4
+10119194
+Pembangunan Aplikasi Sistem Absensi Face Recognition dan 
+SMS Gateway di Lab. Komputer SMAN Cimanggung
+Hidayat, M.T.
+10.30-11.45
+R6028
+Andri Heryandi, S.T., M.T.
+Anna Dara Andriana, S.Kom., M.Kom
+1.
+2.
+3.
+AGHNIA DEWI MAHIRANIE
+5
+10119073
+Pembangunan Game Edukasi Pembelajaran Materi Kecap 
+Bahasa Sunda berbasis Desktop
+Iskandar Ikbal, S.T., M.Kom.
+10.30-11.45
+R6034
+Hanhan Maulana, S.Kom., M.Kom
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+ADAM FIRDAUS DARMAWAN
+6
+10119078
+Pembangunan Game Edukasi Untuk Menambah Kosakata dan 
+Membantu Pengucapan Bahasa Inggris dengan Menggunakan 
+Voice Recognition
+Iskandar Ikbal, S.T., M.Kom.
+11.45-13.00
+R6010
+Angga Setiyadi, S.Kom., M.Kom
+Riani Lubis, S.T., M.T.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Selasa, 6-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SELASA, 6-FEBRUARI-2024
+FERDI BAYU FEBRYAN
+1
+10119246
+Sistem Informasi Manajemen Produksi di PT. Sab Indo
+Sri Nurhayati, S.Si., M.T.
+08.00-09.15
+R6010
+Utami Dewi W, S.Kom., M.Kom
+Alif Finandhita, S.Kom., M.T.
+1.
+2.
+3.
+MIFTAH MUHAMMAD SIDQI
+2
+10117096
+Sistem Informasi Kepegawaian di Baznas Kabupaten Garut
+Utami Dewi W, S.Kom., M.Kom
+09.15-10.30
+R6010
+Sufaatin, S.T., M.Kom.
+Irfan Maliki, S.T., M.T.
+1.
+2.
+3.
+MOCHAMMAD FAISHAL
+3
+10119048
+Sistem Pelatihan Robot Lengan berbasis Visual
+Didit Andri Jatmiko, S.Kom., M.T.
+09.15-10.30
+R6028
+Sopian Alviana, S.Kom.,M.Kom.
+Riani Lubis, S.T., M.T.
+1.
+2.
+3.
+TONI RIZKY AWALLUDIN
+4
+10117150
+Sistem Penilaian Kinerja Pegawai Kontrak pada PT. Zidny Akses 
+Gemilang
+Sufaatin, S.T., M.Kom.
+10.30-11.45
+R6010
+Utami Dewi W, S.Kom., M.Kom
+Iskandar Ikbal, S.T., M.Kom.
+1.
+2.
+3.
+NAUFAL HAFIZH WIDIATHALLA
+5
+10119227
+Pembangunan Sistem Informasi Manajemen Produksi Papan 
+Selancar di PT. Kayu Surfboard
+Sri Nurhayati, S.Si., M.T.
+10.30-11.45
+R6028
+Rani Susanto, S.Kom, M.Kom.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+RIKRIK HERDIANA
+6
+10119290
+Pembangunan Aplikasi Smart Resto di Rumah Makan Eboy Sunda
+Anna Dara Andriana, S.Kom., M.Kom
+10.30-11.45
+R6034
+Eko Budi Setiawan, S.Kom., M.T.
+Hanhan Maulana, S.Kom., M.Kom
+1.
+2.
+3.
+DIVA SABILA RAMADHAN
+7
+10119039
+Aplikasi Pembelajaran Interaktif Mata Pelajaran Kimia Kelas X di 
+SMA Rocha Indonesia berbasis Android
+Iskandar Ikbal, S.T., M.Kom.
+13.00-14.15
+R6010
+Richi Dwi Agustia, M.Kom.
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Rabu, 7-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+RABU, 7-FEBRUARI-2024
+ANGGA CAHYA ABADI
+1
+10119123
+Aplikasi Rekomendasi Makanan berdasarkan Komposisi Berat 
+Badan Memanfaatkan Smart Scale berbasis Mobile
+Richi Dwi Agustia, M.Kom.
+08.00-09.15
+R6010
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Rani Susanto, S.Kom, M.Kom.
+1.
+2.
+3.
+MOHAMAD IMRAN
+2
+10117170
+Sistem Monitoring dan Kontrol Untuk Smart Urban Farming 
+Menggunakan Internet of Things
+Dedeng Hirawan, S.Kom., M.Kom
+08.00-09.15
+R6028
+Sopian Alviana, S.Kom.,M.Kom.
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+RAIHAN MOHAMMAD RAMADHAN
+3
+10118224
+Otomasi Pencahayaan Buatan pada Mini Greenhouse untuk 
+Tanaman Cabai Rawit berbasis Internet of Things
+Dedeng Hirawan, S.Kom., M.Kom
+09.15-10.30
+R6028
+Sopian Alviana, S.Kom.,M.Kom.
+Anna Dara Andriana, S.Kom., M.Kom
+1.
+2.
+3.
+AHMAD FADIL SUBAGJA
+4
+10117222
+Sistem informasi Pengadaan Bahan Baku di CV. Karya Elang 
+Mas
+Sufaatin, S.T., M.Kom.
+10.30-11.45
+R6010
+Utami Dewi W, S.Kom., M.Kom
+Angga Setiyadi, S.Kom., M.Kom
+1.
+2.
+3.
+BILLY MUHAMMAD RIDWAN
+5
+10118103
+Pembangunan Aplikasi Diagnosis Penyakit Ringworm 
+Menggunakan Image Recognition Berbasis Android
+Chrismikha Haryanto, S.Kom.,M.Kom.
+10.30-11.45
+R6028
+Andri Heryandi, S.T., M.T.
+Irawan Afrianto, S.T., M.T.
+1.
+2.
+3.
+YOHANES JHON LIFER SINAGA
+6
+10117218
+Pembangunan Aplikasi Prediksi Kebutuhan Pupuk Berdasarkan 
+Kehijauan Daun Tanaman Kelapa Sawit
+Hanhan Maulana, S.Kom., M.Kom
+10.30-11.45
+R6034
+Irfan Maliki, S.T., M.T.
+Dedeng Hirawan, S.Kom., M.Kom
+1.
+2.
+3.
+RASHIL MUHAMMAD ALIF
+7
+10117042
+Penerapan Digital Signature Scheme Dan Schnorr 
+Authentication Untuk Keamanan E-Dokumen
+Angga Setiyadi, S.Kom., M.Kom
+11.45-13.00
+R6010
+Hanhan Maulana, S.Kom., M.Kom
+Sufaatin, S.T., M.Kom.
+1.
+2.
+3.
+DEDUS LIHOKO
+8
+10119131
+Pembangunan Aplikasi Monitoring Kehadiran Siswa berbasis 
+Android di SMA Plus Al-Wahid
+Chrismikha Haryanto, S.Kom.,M.Kom.
+11.45-13.00
+R6028
+Andri Heryandi, S.T., M.T.
+Didit Andri Jatmiko, S.Kom., M.T.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Jumat, 16-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+JUMAT, 16-FEBRUARI-2024
+AGUNG MAULANA
+1
+10117189
+Pembangunan Aplikasi Pemesanan Katering di Cahaya Indah 
+Berbasis Android 
+Iskandar Ikbal, S.T., M.Kom.
+09.15-10.30
+R6010
+Hanhan Maulana, S.Kom., M.Kom
+Dedeng Hirawan, S.Kom., M.Kom
+1.
+2.
+3.
+NADYA NURUL AWALIYAH
+2
+10119242
+Sistem Kontrol Penggunaan Pupuk Tanaman Padi menggunakan 
+Internet of Things
+Sopian Alviana, S.Kom.,M.Kom.
+09.15-10.30
+R6034
+Didit Andri Jatmiko, S.Kom., M.T.
+Galih Hermawan, S.Kom, M.T.
+1.
+2.
+3.
+ZAINUL RIFQI MUWAFFAQ
+3
+10119082
+Penerapan Augmented Reality dalam Pembentukan Imajinasi 
+pada Buku Cerita Anak
+Hanhan Maulana, S.Kom., M.Kom
+10.30-11.45
+R6010
+Richi Dwi Agustia, M.Kom.
+Riani Lubis, S.T., M.T.
+1.
+2.
+3.
+SAEFUL ANWAR OKTARIANSAH
+4
+10119094
+Pembangunan Aplikasi Rekomendasi Musik berdasarkan 
+Suasana Hati dengan memanfaatkan Face Emotion Recognition 
+dan Youtube Data API
+Chrismikha Haryanto, S.Kom.,M.Kom.
+10.30-11.45
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+Fakhrian Fadlia, S.Kom.M.Kom.
+1.
+2.
+3.
+BIRLIANO EKAYAN ARSYAD
+5
+10119173
+Pembangunan Aplikasi Pendeteksi Grammar dan Plagiat pada 
+Karya Ilmiah Berbahasa Ingris berbasis Android
+Nelly Indriani W, S.Si., M.T.
+13.00-14.15
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Iskandar Ikbal, S.T., M.Kom.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Sabtu, 17-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SABTU, 17-FEBRUARI-2024
+R. WIRANDA PURBA
+1
+10118707
+Sistem Infromasi Manajemen Produksi di CV. Tekad Jaya
+Sufaatin, S.T., M.Kom.
+09.15-10.30
+R6010
+Tati Harihayati M., S.T., M.T.
+Irawan Afrianto, S.T., M.T.
+1.
+2.
+3.
+RAFSAN ZEN MUSTAOFA
+2
+10119083
+Sistem Monitoring dan Kontrol Ketersediaan Nutrisi Otomatis 
+untuk Tanaman Brokoli menggunakan Internet of Things
+Sopian Alviana, S.Kom.,M.Kom.
+09.15-10.30
+R6028
+Dedeng Hirawan, S.Kom., M.Kom
+Alif Finandhita, S.Kom., M.T.
+1.
+2.
+3.
+Halaman ke-1
+
+

@@ -1,0 +1,88 @@
+{
+  "query": "Mahasiswa mana yang memiliki judul skripsi paling singkat pada  tanggal 24 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T01:11:08.999034",
+    "scenario_id": 188,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-24",
+          "hari": "Sabtu",
+          "nim": "10120191",
+          "nama": "AHMAD MUJAHID RAMDHANI",
+          "judul": "Pengembangan Sistem Pemetaan Lahan Sawit dengan Teknologi Blockchain",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Irawan Afrianto, S.T., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10635,
+      "completion_tokens": 215,
+      "total_tokens": 10850,
+      "latency_s": 10.618
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-24",
+          "hari": "Sabtu",
+          "nim": "10120191",
+          "nama": "Ahmad Mujahid Ramdhani",
+          "judul": "Pengembangan Sistem Pemetaan Lahan Sawit dengan Teknologi Blockchain",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Irawan Afrianto, S.T., M.T.",
+            "Sufaatin, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19344,
+      "completion_tokens": 213,
+      "total_tokens": 19557,
+      "latency_s": 7.934
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 2.684,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "query": "Mahasiswa mana yang memiliki judul skripsi terpanjang pada 5 Juli 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 7,
+    "timestamp": "2025-05-27T20:07:55.111086",
+    "scenario_id": 83,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-05",
+          "hari": "Jumat",
+          "nim": "10120103",
+          "nama": "Muhammad Rukki Afsa Jatnika",
+          "judul": "Pembangunan Telegram Chatbot \"U-Learning\" Berbasis Artificial Inteligance sebagai Asistem Pembelajaran Mandiri Siswa",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5298,
+      "completion_tokens": 212,
+      "total_tokens": 5510,
+      "latency_s": 3.167
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-05",
+          "hari": "Jumat",
+          "nim": "10120103",
+          "nama": "Muhammad Rukki Afsa Jatnika",
+          "judul": "Pembangunan Telegram Chatbot \"U-Learning\" Berbasis Artificial Inteligence sebagai Asistem Pembelajaran Mandiri Siswa",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom., M.Kom.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9563,
+      "completion_tokens": 212,
+      "total_tokens": 9775,
+      "latency_s": 2.288
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.879,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

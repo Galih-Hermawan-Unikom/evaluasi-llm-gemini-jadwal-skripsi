@@ -1,0 +1,86 @@
+{
+  "query": "Siapa mahasiswa dengan seminar paling pagi di ruang R6028 pada tanggal 3 Januari 2024? Jika lebih dari satu, ambil NIM terkecil.",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:09:34.139148",
+    "scenario_id": 97,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119245",
+          "nama": "Apid Haryana",
+          "judul": "Sistem Penentuan Kebutuhan Obat dan Alat Kesehatan Menggunakan Metode Single Exponential Smooting di UPTD Puskemas Talaga Kabupaten Majalengka",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3135,
+      "completion_tokens": 211,
+      "total_tokens": 3346,
+      "latency_s": 1.94
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-03",
+          "hari": "Rabu",
+          "nim": "10119245",
+          "nama": "Apid Haryana",
+          "judul": "Sistem Penentuan Kebutuhan Obat dan Alat Kesehatan Menggunakan Metode Single Exponential Smoothing di UPTD Puskesmas Talaga Kabupaten Majalengka",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5237,
+      "completion_tokens": 210,
+      "total_tokens": 5447,
+      "latency_s": 2.93
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.9900000000000002,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

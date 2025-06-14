@@ -1,0 +1,88 @@
+{
+  "query": "Apa judul skripsi dari mahasiswa dengan NIM 10119902",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 3,
+    "timestamp": "2025-05-23T18:13:59.731693",
+    "scenario_id": 142,
+    "category_id": "K-2"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-28",
+          "hari": "Rabu",
+          "nim": "10119902",
+          "nama": "Muhammad Nurkholiq",
+          "judul": "Pembangunan Aplikasi Disposisi Surat dengan Menerapkan Teknologi Tanda Tangan Digital pada Kantor Kecamatan Coblong Kota Bandung",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Hanhan Maulana, S.Kom., M.Kom",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3932,
+      "completion_tokens": 223,
+      "total_tokens": 4155,
+      "latency_s": 6.72
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-28",
+          "hari": "Rabu",
+          "nim": "10119902",
+          "nama": "Muhammad Nurkholiq",
+          "judul": "Pembangunan Aplikasi Disposisi Surat dengan Menerapkan Teknologi Tanda Tangan Digital pada Kantor Kecamatan Coblong Kota Bandung",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Hanhan Maulana, S.Kom., M.Kom",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6860,
+      "completion_tokens": 223,
+      "total_tokens": 7083,
+      "latency_s": 3.878
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 2.8419999999999996,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,424 @@
+
+==================================================
+Jadwal Sidang Tanggal Senin, 26-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SENIN, 26-FEBRUARI-2024
+RAHMATULLAH RIZKI
+1
+10119283
+Rancang Bangun Sistem Monitoring Grow Light Untuk 
+Kebutuhan Pertumbuhan Hidroponik Cabai Berbasis Internet of 
+Things
+Dedeng Hirawan, S.Kom., M.Kom
+08.00-09.15
+R6028
+Didit Andri Jatmiko, S.Kom., M.T.
+Alif Finandhita, S.Kom., M.T.
+1.
+2.
+3.
+MUHAMMAD ELZA ABIEZAL
+2
+10119081
+Perancangan Sistem Pemantauan dan Alarm Peringatan Banjir 
+Berbasis Citra Satelit
+Richi Dwi Agustia, M.Kom.
+09.15-10.30
+R6010
+Didit Andri Jatmiko, S.Kom., M.T.
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+HAFID RAMADHAN
+3
+10119089
+Pengembangan Mobile Ad Hoc Network di Daerah Minim Sinyal 
+Internet Menggunakan Metode Peer to Peer Berbasis Mikrotik 
+pada PT. Wamengkoli Jaya
+Iskandar Ikbal, S.T., M.Kom.
+09.15-10.30
+R6028
+Dedeng Hirawan, S.Kom., M.Kom
+Alif Finandhita, S.Kom., M.T.
+1.
+2.
+3.
+RIDWAN CAESARAHMAN JULIAN
+4
+10118410
+Pembangunan Smart Library dengan Context Aware System 
+pada Perpustakaan Teknik Informatika UNIKOM
+Hanhan Maulana, S.Kom., M.Kom
+10.30-11.45
+R6010
+Angga Setiyadi, S.Kom., M.Kom
+Nelly Indriani W, S.Si., M.T.
+1.
+2.
+3.
+FAJAR NUGRAHA
+5
+10119195
+Sistem Penilaian Kepuasan Pelanggan Menggunakan Metode 
+ServQual di PT. ATLANTIC AKSA GROUP
+Gentisya Tri Mardiani, S.Kom., M.Kom
+10.30-11.45
+R6034
+Sufaatin, S.T., M.Kom.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+MUHAMAD RAMADAN
+6
+10119004
+Pembangunan Aplikasi Monitoring Tanam Panen Tanaman Sawi
+Galih Hermawan, S.Kom, M.T.
+11.45-13.00
+R6028
+Ir.Taryana Suryana, M.Kom.
+Riani Lubis, S.T., M.T.
+1.
+2.
+3.
+ZULPANI RUBIAN
+7
+10119302
+Sistem Penentuan Jumlah Pengadaan Obat dan Alat Kesehatan 
+Menggunakan Metode Regresi Linier di Puskesmas Bagendit 
+Kecamatan Banyuresmi Kabupaten Garut
+Hanhan Maulana, S.Kom., M.Kom
+11.45-13.00
+R6034
+Gentisya Tri Mardiani, S.Kom., M.Kom
+Irfan Maliki, S.T., M.T.
+1.
+2.
+3.
+RIZAL SIHOMBING
+8
+10119028
+Pembangunan Sistem Pemantauan Kebutuhan Air Minum pada 
+Saat Olahraga Lari Berbasis Android
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6028
+Ir.Taryana Suryana, M.Kom.
+Riani Lubis, S.T., M.T.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Selasa, 27-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SELASA, 27-FEBRUARI-2024
+FIKRI AKBARI KARIM
+1
+10119192
+Sistem Perbaikan Kualitas Pelayanan Menggunakan Metode 
+ServQual di PT. Wahyu Abadi Wisata 
+Rani Susanto, S.Kom, M.Kom.
+08.00-09.15
+R6010
+Gentisya Tri Mardiani, S.Kom., M.Kom
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+SIMATUPANG RIO NUGRAHA
+2
+10119157
+Pembangunan Aplikasi Pengiklanan Jasa Berbasis Mobile
+Nelly Indriani W, S.Si., M.T.
+08.00-09.15
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Utami Dewi W, S.Kom., M.Kom
+1.
+2.
+3.
+MUHAMMAD FARHAN
+3
+10119264
+Sistem Penentuan Jumlah Pembelian Bahan Baku Menggunakan 
+Metode Simple Moving Average di PT. TSTECH
+Anna Dara Andriana, S.Kom., M.Kom
+09.15-10.30
+R6010
+Utami Dewi W, S.Kom., M.Kom
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+ADRIAN MAIDIYANGSA
+4
+10119029
+PENERAPAN BLOCKCHAIN UNTUK PENCATATAN BANTUAN 
+LANGSUNG TUNAI KEMISKINAN EKSTREM DESA
+Irawan Afrianto, S.T., M.T.
+09.15-10.30
+R6034
+Richi Dwi Agustia, M.Kom.
+Gentisya Tri Mardiani, S.Kom., M.Kom
+1.
+2.
+3.
+GHEA RIZQI NABILLA
+5
+10119180
+Sistem Rekomendasi Penjualan Produk Menggunakan Metode 
+Association Rules di Tovi Kohi 
+Sufaatin, S.T., M.Kom.
+10.30-11.45
+R6028
+Utami Dewi W, S.Kom., M.Kom
+Nelly Indriani W, S.Si., M.T.
+1.
+2.
+3.
+MUHAMMAD RIZKY PRATAMA 
+SOLAHUDIN
+6
+10119193
+Penghitungan Kendaraan Bermotor Berdasarkan Jenis Dengan 
+Menggunakan Metode YOLOv8
+Irfan Maliki, S.T., M.T.
+10.30-11.45
+R6034
+Galih Hermawan, S.Kom, M.T.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+ANDIKA PUTRA
+7
+10119101
+Pembangunan Aplikasi Pendeteksi Penyakit pada Tanaman Sawi 
+Berbasis Android
+Angga Setiyadi, S.Kom., M.Kom
+11.45-13.00
+R6010
+Eko Budi Setiawan, S.Kom., M.T.
+Tati Harihayati M., S.T., M.T.
+1.
+2.
+3.
+RESA ENDRAWAN
+8
+10119152
+Sistem Penilaian Kepuasan pelanggan dengan Metode Customer 
+Satisfaction Index (CSI) di CV. Abell
+Rani Susanto, S.Kom, M.Kom.
+11.45-13.00
+R6028
+Sufaatin, S.T., M.Kom.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Rabu, 28-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+RABU, 28-FEBRUARI-2024
+AENIK NUR AUFA
+1
+10118082
+Sistem Informasi Penentuan Strategi Promosi menggunakan 
+pendekatan Customer Relationship Management (CRM) di PT. 
+ELYPHSOFT TEKNOLOGI ASIA
+Anna Dara Andriana, S.Kom., M.Kom
+08.00-09.15
+R6010
+Utami Dewi W, S.Kom., M.Kom
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+RAFSAN ZEN MUSTAOFA
+2
+10119083
+Sistem Monitoring dan Kontrol Ketersediaan Nutrisi Otomatis 
+untuk Tanaman Brokoli menggunakan Internet of Things
+Sopian Alviana, S.Kom.,M.Kom.
+08.00-09.15
+R6028
+Dedeng Hirawan, S.Kom., M.Kom
+Alif Finandhita, S.Kom., M.T.
+1.
+2.
+3.
+DEA INESIA SRI UTAMI
+3
+10119239
+Analisis Desain Interaksi Media Pembelajaran Sistem Peredaran 
+Darah untuk Tingkat Sekolah Dasar / Madrasah Ibtidaiyah
+Dian Dharmayanti, S.T., M.Kom.
+10.30-11.45
+R6010
+Alif Finandhita, S.Kom., M.T.
+Riani Lubis, S.T., M.T.
+1.
+2.
+3.
+MUHAMMAD FARHAN 
+ROESFIAZHAR
+4
+10119023
+Pembangunan Aplikasi Penerjemah Menggunakan OCR sebagai 
+Alat Bantu Pembelajaran Bahasa Jepang Berbasis Desktop
+Andri Heryandi, S.T., M.T.
+10.30-11.45
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+Irfan Maliki, S.T., M.T.
+1.
+2.
+3.
+JOHN PARDAMEAN NAPITUPULU
+5
+10119349
+Visualisasi Data Koperasi dan UKM Provinsi Sumatera Utara
+Alif Finandhita, S.Kom., M.T.
+11.45-13.00
+R6010
+Fakhrian Fadlia, S.Kom.M.Kom.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+DENDEN TRIANA
+6
+10119233
+Pembangunan Bot Optical Character Recognition untuk 
+Pelacakan Pengeluaran Finansial
+Eko Budi Setiawan, S.Kom., M.T.
+11.45-13.00
+R6028
+Andri Heryandi, S.T., M.T.
+Irfan Maliki, S.T., M.T.
+1.
+2.
+3.
+MUHAMMAD NURKHOLIQ
+7
+10119902
+Pembangunan Aplikasi Disposisi Surat dengan Menerapkan 
+Teknologi Tanda Tangan Digital pada Kantor Kecamatan Coblong 
+Kota Bandung
+Hanhan Maulana, S.Kom., M.Kom
+13.00-14.15
+R6028
+Eko Budi Setiawan, S.Kom., M.T.
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Sidang Tanggal Kamis, 29-Februari-2024.pdf
+==================================================
+JADWAL SIDANG
+NO
+NIM
+NAMA
+JUDUL
+PENGUJI
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+KAMIS, 29-FEBRUARI-2024
+MOCHAMAD AGFARI INDRA JAYA
+1
+10119922
+Rancang Bangun Alat Monitoring Kadar PH dan Pakan Untuk 
+Petani Ikan Hias Berbasis IoT
+Dedeng Hirawan, S.Kom., M.Kom
+09.15-10.30
+R6028
+Angga Setiyadi, S.Kom., M.Kom
+Iskandar Ikbal, S.T., M.Kom.
+1.
+2.
+3.
+DIMAS AGUNG
+2
+10119306
+Pembangunan Telegram Messenger Chatbot Berbasis Natural 
+Language Processing untuk Otomatisasi Jawaban General 
+Question Seputar Bahasa Pemrograman Java
+Eko Budi Setiawan, S.Kom., M.T.
+10.30-11.45
+R6010
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Dian Dharmayanti, S.T., M.Kom.
+1.
+2.
+3.
+FIRMAN ARDHIANSYAH
+3
+10117056
+SISTEM INFORMASI PENGELOLAAN PENGETAHUAN GURU DI 
+SMK ICB CINTA TEKNIKA BANDUNG
+Irfan Maliki, S.T., M.T.
+10.30-11.45
+R6028
+Utami Dewi W, S.Kom., M.Kom
+Angga Setiyadi, S.Kom., M.Kom
+1.
+2.
+3.
+FAUZAN MUHAMMAD A
+4
+10119901
+Pembangunan Aplikasi Pemesanan Tiket Shuttle Perdana Trans 
+Berbasis Web
+Eko Budi Setiawan, S.Kom., M.T.
+11.45-13.00
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Kania Evita Dewi, S.Pd., M.Si.
+1.
+2.
+3.
+Halaman ke-1
+
+

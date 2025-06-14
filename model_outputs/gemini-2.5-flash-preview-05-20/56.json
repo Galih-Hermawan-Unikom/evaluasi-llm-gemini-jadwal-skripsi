@@ -1,0 +1,114 @@
+{
+  "query": "NIM mahasiswa yang diuji Chrismikha pada 21 Juni 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-23T17:52:09.385154",
+    "scenario_id": 56,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-21",
+          "hari": "Jumat",
+          "nim": "10120051",
+          "nama": "Muhammad Bagas Adikara",
+          "judul": "Pembangunan Website Pembelajaran Grammar Bahasa Inggris Melalui Gamifikasi",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-21",
+          "hari": "Jumat",
+          "nim": "10120903",
+          "nama": "Yora Barera",
+          "judul": "Optimasi dalam Sistem Aplikasi Pencatatan Data Produksi di P. Kahatex dengan Memanfaatkan Teknologi Cloud Computing",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5077,
+      "completion_tokens": 379,
+      "total_tokens": 5456,
+      "latency_s": 13.43
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-21",
+          "hari": "Jumat",
+          "nim": "10120051",
+          "nama": "Muhammad Bagas Adikara",
+          "judul": "Pembangunan Website Pembelajaran Grammar Bahasa Inggris Melalui Gamifikasi",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-21",
+          "hari": "Jumat",
+          "nim": "10120903",
+          "nama": "Yora Barera",
+          "judul": "Optimasi dalam Sistem Aplikasi Pencatatan Data Produksi di PT. Kahatex dengan Memanfaatkan Teknologi Cloud Computing",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8846,
+      "completion_tokens": 379,
+      "total_tokens": 9225,
+      "latency_s": 5.084
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 8.346,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "query": "Semua mahasiswa seminar di R6028 hari Sabtu",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:04:26.480929",
+    "scenario_id": 61,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-29",
+          "hari": "Sabtu",
+          "nim": "10120069",
+          "nama": "Rendy Agustin",
+          "judul": "Pembangunan Aplikasi Peringatan Cuaca Hujan dengan Memanfaatkan Teknologi Wearable Device bagi Pengendara Motor",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-29",
+          "hari": "Sabtu",
+          "nim": "10120048",
+          "nama": "Wildan Yusup",
+          "judul": "Monitoring Keluar Masuk Barang pada Perbelanjaan Grosir dengan Penerapan RFID",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6718,
+      "completion_tokens": 373,
+      "total_tokens": 7091,
+      "latency_s": 4.255
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-06-29",
+          "hari": "Sabtu",
+          "nim": "10120069",
+          "nama": "Rendy Agustin",
+          "judul": "Pembangunan Aplikasi Peringatan Cuaca Hujan dengan Memanfaatkan Teknologi Wearable Device bagi Pengendara Motor",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-06-29",
+          "hari": "Sabtu",
+          "nim": "10120048",
+          "nama": "Wildan Yusup",
+          "judul": "Monitoring Keluar Masuk Barang pada Perbelanjaan Grosir dengan Penerapan RFID",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Ir.Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 11868,
+      "completion_tokens": 373,
+      "total_tokens": 12241,
+      "latency_s": 4.133
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.12199999999999989,
+    "records": {
+      "txt_count": 2,
+      "json_count": 2,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

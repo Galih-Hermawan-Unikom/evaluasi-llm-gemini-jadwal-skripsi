@@ -1,0 +1,92 @@
+{
+  "query": "Di antara sidang tanggal 26 Agustus 2024, siapa mahasiswa dengan NIM terkecil",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 5,
+    "timestamp": "2025-05-27T20:24:02.544934",
+    "scenario_id": 189,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10118370",
+          "nama": "Muhammad Yusuf",
+          "judul": "Pengembangan Modul Tanda Tangan Digital pada Sistem DP2M Unikom Menggunakan Metode ECDSA",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Richi Dwi Agustia, M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9083,
+      "completion_tokens": 215,
+      "total_tokens": 9298,
+      "latency_s": 2.205
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-26",
+          "hari": "Senin",
+          "nim": "10120026",
+          "nama": "Rizki Ramdani",
+          "judul": "Sistem Penentuan Jumlah Pengadaan Teh Menggunakan Metode Single Exponential Smoothing di PTP Nusantara 1 Regional 2 Kebun Rancabali",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Utami Dewi W, S.Kom., M.Kom.",
+            "Ir. Taryana Suryana, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 16695,
+      "completion_tokens": 223,
+      "total_tokens": 16918,
+      "latency_s": 4.362
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 2.157,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "10118370"
+      ],
+      "only_in_json": [
+        "10120026"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

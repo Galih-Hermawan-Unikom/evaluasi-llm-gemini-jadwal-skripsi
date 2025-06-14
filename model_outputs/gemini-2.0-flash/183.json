@@ -1,0 +1,92 @@
+{
+  "query": "Mahasiswa mana yang memiliki judul skripsi terpanjang pada 21 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T22:13:01.917957",
+    "scenario_id": 183,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-21",
+          "hari": "Rabu",
+          "nim": "10119344",
+          "nama": "Gunawan Wibisono",
+          "judul": "Pembangunan Game Edukasi Pembelajaran Bahasa Inggris Sebagai Sarana Pembelajaran Kosa Kata Menggunakan Teknologi Speech",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Angga Setiyadi, S.Kom., M.Kom",
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Utami Dewi W, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10634,
+      "completion_tokens": 219,
+      "total_tokens": 10853,
+      "latency_s": 2.663
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-21",
+          "hari": "Rabu",
+          "nim": "10120752",
+          "nama": "Muhammad Fajar Ramadhan",
+          "judul": "Desain Interaksi Media Pembelajaran Operasi Bilangan dalam Bentuk Permainan Hewan dan Tata Surya untuk Anak Diskalkulia di SMPLB-C Nike Ardilla",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Dian Dharmayanti, S.T., M.Kom.",
+            "Alif Finandhita, S.Kom., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19343,
+      "completion_tokens": 232,
+      "total_tokens": 19575,
+      "latency_s": 3.725
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.0620000000000003,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "10119344"
+      ],
+      "only_in_json": [
+        "10120752"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

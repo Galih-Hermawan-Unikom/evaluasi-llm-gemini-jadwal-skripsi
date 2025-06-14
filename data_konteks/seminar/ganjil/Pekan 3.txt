@@ -1,0 +1,62 @@
+
+==================================================
+Senin, 11 Desember 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SENIN, 11-DESEMBER-2023
+MUHAMMAD RIZKY PRATAMA 
+SOLAHUDIN
+1
+10119193
+Penghitungan Kendaraan Bermotor Berdasarkan Jenis Dengan 
+Menggunakan Metode YOLOv8
+Irfan Maliki, S.T., M.T.
+14.15-15.30
+R6010
+Galih Hermawan, S.Kom, M.T.
+RIZAL SIHOMBING
+2
+10119028
+Pembangunan Sistem Pemantauan Kebutuhan Air Minum pada 
+Saat Olahraga Lari Berbasis Android
+Didit Andri Jatmiko, S.Kom., M.T.
+15.30-16.45
+R6028
+Ir.Taryana Suryana, M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Selasa, 12 Desember 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SELASA, 12-DESEMBER-2023
+RIZKY RENALDI CAHYA FEBRIAN
+1
+10118147
+Pembangunan Aplikasi Pendeteksi Plagiarisme Menggunakan API 
+Open AI
+Didit Andri Jatmiko, S.Kom., M.T.
+13.00-14.15
+R6028
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Halaman ke-1
+
+

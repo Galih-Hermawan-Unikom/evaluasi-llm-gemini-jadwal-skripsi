@@ -1,0 +1,64 @@
+{
+  "query": "Siapa Dosen yang ada disidang Naufal Hafizh",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-23T18:06:31.370556",
+    "scenario_id": 112,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Rani Susanto, S.Kom, M.Kom.",
+        "Sri Nurhayati, S.Si., M.T."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4980,
+      "completion_tokens": 76,
+      "total_tokens": 5056,
+      "latency_s": 3.069
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Dian Dharmayanti, S.T., M.Kom.",
+        "Rani Susanto, S.Kom, M.Kom.",
+        "Sri Nurhayati, S.Si., M.T."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9033,
+      "completion_tokens": 76,
+      "total_tokens": 9109,
+      "latency_s": 2.526
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.5430000000000001,
+    "records": {
+      "txt_count": 3,
+      "json_count": 3,
+      "count_match": true,
+      "common_count": 3,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

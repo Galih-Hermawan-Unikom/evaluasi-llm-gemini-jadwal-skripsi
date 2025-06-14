@@ -1,0 +1,90 @@
+{
+  "query": "Pada seminar tanggal 2 Januari 2024, siapakah mahasiswa yang memiliki NIM terbesar",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:09:19.392396",
+    "scenario_id": 95,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10119355",
+          "nama": "Yandika Yuga Rabbani",
+          "judul": "Perancangan dan Pembangunan Aplikasi Tracking Real Time Kendaraan Bermotor dengan Integritas Perangkat Global Positioning System (GPS)",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3118,
+      "completion_tokens": 211,
+      "total_tokens": 3329,
+      "latency_s": 1.785
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-01-02",
+          "hari": "Selasa",
+          "nim": "10119117",
+          "nama": "Fikri Muhamad Fauzi",
+          "judul": "Rancang Bangun Sistem Monitoring Udara Berbasis IoT dan Teknologi Blockchain",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Irawan Afrianto, S.T., M.T.",
+            "Dedeng Hirawan, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5220,
+      "completion_tokens": 198,
+      "total_tokens": 5418,
+      "latency_s": 2.181
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.39600000000000013,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "10119355"
+      ],
+      "only_in_json": [
+        "10119117"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

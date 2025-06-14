@@ -1,0 +1,200 @@
+{"id": 1, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Tampilkan jadwal Pak Sopian", "output_type": "schedule_rows"}
+{"id": 2, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Di ruang mana seminar Wildan dilaksanakan", "output_type": "schedule_rows"}
+{"id": 3, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Pukul berapa seminar Faishal dimulai", "output_type": "schedule_rows"}
+{"id": 4, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Apa judul skripsi Guntur Maulana Ibrahim", "output_type": "schedule_rows"}
+{"id": 5, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Berapa NIM dari mahasiswa Ferdi Bayu Febryan", "output_type": "schedule_rows"}
+{"id": 6, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Tanggal berapa seminar Tri Novarel Rahmadhani", "output_type": "schedule_rows"}
+{"id": 7, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Jam berapa seminar Muhammad Iman Komarudiansyah berakhir", "output_type": "schedule_rows"}
+{"id": 8, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Tampilkan jadwal Bu Rani", "output_type": "schedule_rows"}
+{"id": 9, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Jam berapa seminar Ekayan Arsyad dimulai", "output_type": "schedule_rows"}
+{"id": 10, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Hari apa seminar akan dilaksanakan Ivan Aprilman Hura", "output_type": "schedule_rows"}
+{"id": 11, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Jam berapa pelaksanaan seminar dari Muhammad Cahaya Adiransyah Tasman dimulai", "output_type": "schedule_rows"}
+{"id": 12, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Siapa Dosen yang ada diseminar Weldira Tarigan", "output_type": "lecturer_list"}
+{"id": 13, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Apa judul skripsi Elbaruna", "output_type": "schedule_rows"}
+{"id": 14, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Sebutkan ruangan tempat seminarnya Riswan", "output_type": "schedule_rows"}
+{"id": 15, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 1, "prompt": "Berapakan NIM dari Zulhaqi", "output_type": "schedule_rows"}
+{"id": 16, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Munculkan jadwal dari dosen Irfan", "output_type": "schedule_rows"}
+{"id": 17, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Di mana seminar Rizky dilaksanakan", "output_type": "schedule_rows"}
+{"id": 18, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Pada pukul berapa seminar Rizal Sihombing dimulai", "output_type": "schedule_rows"}
+{"id": 19, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Apa judul skripsi Rizky Renaldi", "output_type": "schedule_rows"}
+{"id": 20, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Berapa NIM dari mahasiswa Muhammad Rizky Pratama Solahudin", "output_type": "schedule_rows"}
+{"id": 21, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Tanggal berapa seminar Rizky Renaldi Cahya Febrian", "output_type": "schedule_rows"}
+{"id": 22, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Jam berapa seminar Rizal Sihombing berakhir", "output_type": "schedule_rows"}
+{"id": 23, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Jam berapa seminar Rizky dimulai", "output_type": "schedule_rows"}
+{"id": 24, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Hari apa seminar akan dilaksanakan oleh Rizky Pratama Solahudin", "output_type": "schedule_rows"}
+{"id": 25, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Siapa Dosen yang ada diseminar Rizky Renaldi", "output_type": "lecturer_list"}
+{"id": 26, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Jam berapa pelaksanaan seminar dari Muhammad Rizky", "output_type": "schedule_rows"}
+{"id": 27, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 4, "prompt": "Tampilkan jadwal Bapak Taryana", "output_type": "schedule_rows"}
+{"id": 28, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 4, "prompt": "Dimana ruang seminarnya Hafid", "output_type": "schedule_rows"}
+{"id": 29, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 4, "prompt": "Apa judul skripsi dari mahasiswa atas nama Simatupang", "output_type": "schedule_rows"}
+{"id": 30, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 4, "prompt": "Tanggal berapa Bu Gentisya seminar", "output_type": "schedule_rows"}
+{"id": 31, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 4, "prompt": "Hari apa saja Pak Dedeng seminar", "output_type": "schedule_rows"}
+{"id": 32, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 4, "prompt": "Siapa saja mahasiswa yang seminar dengan Pak Galih", "output_type": "schedule_rows"}
+{"id": 33, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 4, "prompt": "Berapa NIM dari mahasiswa Dimas", "output_type": "schedule_rows"}
+{"id": 34, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 4, "prompt": "Siapa saja dosen yang seminar bersama Pak Chrismikha", "output_type": "lecturer_list"}
+{"id": 35, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Sebutkan mahasiswa yang diuji oleh Pak Eko Budi", "output_type": "schedule_rows"}
+{"id": 36, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Sebutkan NIM mahasiswa yang diuji oleh Bu Anna Dara", "output_type": "schedule_rows"}
+{"id": 37, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Tampilkan jadwal seminar dari mahasiswa Muhammad Irsyad", "output_type": "schedule_rows"}
+{"id": 38, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Sebutkan judul skripsi dari mahasiwa Mochamad Yusuf", "output_type": "schedule_rows"}
+{"id": 39, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Di ruang mana seminar dengan Bu Anna Dara", "output_type": "schedule_rows"}
+{"id": 40, "id_kategori": "K-1", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Tanggal berapa seminar Sacofi dilaksanakan", "output_type": "schedule_rows"}
+{"id": 41, "id_kategori": "K-2", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 7, "prompt": "Siapa nama mahasiswa dengan NIM 10118058", "output_type": "schedule_rows"}
+{"id": 42, "id_kategori": "K-2", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 7, "prompt": "Apa judul skripsi dari mahasiswa dengan NIM 10118039", "output_type": "schedule_rows"}
+{"id": 43, "id_kategori": "K-2", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 7, "prompt": "Di ruang mana seminar NIM 10119192 berlangsung", "output_type": "schedule_rows"}
+{"id": 44, "id_kategori": "K-2", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 7, "prompt": "Pukul berapa seminar NIM 10117172 selesai", "output_type": "schedule_rows"}
+{"id": 45, "id_kategori": "K-2", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 7, "prompt": "Kapan tanggal seminar mahasiswa NIM 10118346", "output_type": "schedule_rows"}
+{"id": 46, "id_kategori": "K-2", "kegiatan": "Seminar", "semester": "Genap", "pekan": 1, "prompt": "Siapa penguji seminar dari mahasiswa NIM 10119913", "output_type": "lecturer_list"}
+{"id": 47, "id_kategori": "K-2", "kegiatan": "Seminar", "semester": "Genap", "pekan": 1, "prompt": "Hari apa mahasiswa dengan NIM 10120901 seminar", "output_type": "schedule_rows"}
+{"id": 48, "id_kategori": "K-3", "kegiatan": "Seminar", "semester": "Genap", "pekan": 2, "prompt": "Jadwal di R6010, 27 Mei 2024, mulai 09.15", "output_type": "schedule_rows"}
+{"id": 49, "id_kategori": "K-3", "kegiatan": "Seminar", "semester": "Genap", "pekan": 2, "prompt": "Jadwal di R6028, 27 Mei 2024, selesai 10.30", "output_type": "schedule_rows"}
+{"id": 50, "id_kategori": "K-3", "kegiatan": "Seminar", "semester": "Genap", "pekan": 2, "prompt": "Jadwal di R6028, 29 Mei 2024, jam 8", "output_type": "schedule_rows"}
+{"id": 51, "id_kategori": "K-3", "kegiatan": "Seminar", "semester": "Genap", "pekan": 2, "prompt": "Jadwal di R6010, 29 Mei 2024, selesai 10.30", "output_type": "schedule_rows"}
+{"id": 52, "id_kategori": "K-3", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Jadwal di R6010, 02 Jan 2024, mulai 09.15", "output_type": "schedule_rows"}
+{"id": 53, "id_kategori": "K-3", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Jadwal di 6010, 02 Januari 2024, mulai 10:30", "output_type": "schedule_rows"}
+{"id": 54, "id_kategori": "K-3", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Jadwal di 6028, 3 Januari 2024, selesai 09:15", "output_type": "schedule_rows"}
+{"id": 55, "id_kategori": "K-3", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Jadwal di 6010, 03 Januari 2024, selesai pukul 13", "output_type": "schedule_rows"}
+{"id": 56, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Genap", "pekan": 5, "prompt": "NIM mahasiswa yang diuji Chrismikha pada 21 Juni 2024", "output_type": "schedule_rows"}
+{"id": 57, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Genap", "pekan": 5, "prompt": "Semua mahasiswa di ruang R6010 tanggal 21 Juni 2024", "output_type": "schedule_rows"}
+{"id": 58, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Mahasiswa di ruang R6010 tanggal 2 Jan 2024", "output_type": "schedule_rows"}
+{"id": 59, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "NIM mahasiswa seminar selesai pukul 09.15 tanggal 3 Jan 2024", "output_type": "schedule_rows"}
+{"id": 60, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Mahasiswa yang diuji Anna tanggal 4 Jan 2024.", "output_type": "schedule_rows"}
+{"id": 61, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Genap", "pekan": 6, "prompt": "Semua mahasiswa seminar di R6028 hari Sabtu", "output_type": "schedule_rows"}
+{"id": 62, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Genap", "pekan": 6, "prompt": "Mahasiswa yang diuji Bu Sufaatin jam 09:15", "output_type": "schedule_rows"}
+{"id": 63, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Genap", "pekan": 6, "prompt": "Semua dosen yang menguji di ruang R6010 tanggal 28 Juni 2024", "output_type": "lecturer_list"}
+{"id": 64, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Genap", "pekan": 6, "prompt": "NIM mahasiswa yang seminar di R6028 tanggal 27 Juni 2024", "output_type": "schedule_rows"}
+{"id": 65, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Genap", "pekan": 6, "prompt": "Nama mahasiswa yang seminar pada tanggal 26 Jun 2024", "output_type": "schedule_rows"}
+{"id": 66, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Semua dosen yang menguji di hari Kamis ruang R6010", "output_type": "lecturer_list"}
+{"id": 67, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Mahasiswa yang diuji oleh Bu Dian tanggal 5 Januari 2024", "output_type": "schedule_rows"}
+{"id": 68, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "NIM mahasiswa yang seminar di R6010 hari Jumat", "output_type": "schedule_rows"}
+{"id": 69, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Semua mahasiswa yang seminar di R6028, tanggal 4 Januari 2024", "output_type": "schedule_rows"}
+{"id": 70, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Berapa seminar di R6010 tanggal 2 Jan 2024", "output_type": "aggregation"}
+{"id": 71, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Jumlah jadwal di R6028 tanggal 3 Jan 2024", "output_type": "aggregation"}
+{"id": 72, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Genap", "pekan": 6, "prompt": "Total seminar mulai 09.15 tanggal 28 Juni 2024", "output_type": "aggregation"}
+{"id": 73, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Genap", "pekan": 6, "prompt": "Banyak seminar di 6028 tanggal 26 Juni 2024", "output_type": "aggregation"}
+{"id": 74, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Genap", "pekan": 6, "prompt": "Jumlah seminar berakhir 10.30 tanggal 24 Juni 2024", "output_type": "aggregation"}
+{"id": 75, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Berapa jumlah dosen yang seminar tanggal 4 Jan", "output_type": "aggregation"}
+{"id": 76, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Berapa banyak mahasiswa yang seminar hari Rabu", "output_type": "aggregation"}
+{"id": 77, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Genap", "pekan": 7, "prompt": "Total seminar berakhir jam 11.45  tanggal 1 Juli 2024", "output_type": "aggregation"}
+{"id": 78, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Genap", "pekan": 7, "prompt": "Jumlah jadwal di R6028 tanggal 2 Juli 2024", "output_type": "aggregation"}
+{"id": 79, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Genap", "pekan": 7, "prompt": "Banyak seminar Bu Nelly hari Selasa", "output_type": "aggregation"}
+{"id": 80, "id_kategori": "K-5", "kegiatan": "Seminar", "semester": "Genap", "pekan": 7, "prompt": "Jumlah mahasiswa yang seminar di R6010 tanggal 4 Juli 2024", "output_type": "aggregation"}
+{"id": 81, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 7, "prompt": "Siapa saja mahasiswa dengan seminar paling pagi pada tanggal 1 Juli 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil.", "output_type": "schedule_rows"}
+{"id": 82, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 7, "prompt": "Siapa mahasiswa dengan seminar paling akhir pada  4 Juli 2024", "output_type": "schedule_rows"}
+{"id": 83, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 7, "prompt": "Mahasiswa mana yang memiliki judul skripsi terpanjang pada 5 Juli 2024", "output_type": "schedule_rows"}
+{"id": 84, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 7, "prompt": "Di antara seminar tanggal 4 Juli 2024, siapa mahasiswa dengan NIM terkecil", "output_type": "schedule_rows"}
+{"id": 85, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 7, "prompt": "Untuk seminar tanggal 3 Juli 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa", "output_type": "schedule_rows"}
+{"id": 86, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 8, "prompt": "Siapa saja mahasiswa dengan seminar paling akhir pada tanggal 8 Juli 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil", "output_type": "schedule_rows"}
+{"id": 87, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 8, "prompt": "Siapa mahasiswa dengan seminar paling awal pada hari Senin? Jika lebih dari 1 orang ambil nim yang paling besar", "output_type": "schedule_rows"}
+{"id": 88, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 8, "prompt": "Mahasiswa mana yang memiliki judul skripsi paling singkat pada  tanggal 10 Juli 2024", "output_type": "schedule_rows"}
+{"id": 89, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 8, "prompt": "Di antara seminar tanggal 9 Juli 2024, siapa mahasiswa dengan NIM terkecil", "output_type": "schedule_rows"}
+{"id": 90, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Genap", "pekan": 8, "prompt": "Untuk seminar tanggal 8 Juli 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa", "output_type": "schedule_rows"}
+{"id": 91, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Siapa mahasiswa dengan seminar paling terakhir pada hari Senin", "output_type": "schedule_rows"}
+{"id": 92, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 3, "prompt": "Siapa mahasiswa dengan NIM terkecil yang seminar di ruang  6010 pada 11 Desember 2023", "output_type": "schedule_rows"}
+{"id": 93, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Siapa saja dosen yang menguji terbanyak pada tanggal 5 Januari 2024 jika lebih dari satu tampilkan sesuai urutan alphabet", "output_type": "lecturer_list"}
+{"id": 94, "id_kategori": "K-4", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Urutkan berdasarkan alphabet nama dosen yang seminar di hari Jumat", "output_type": "lecturer_list"}
+{"id": 95, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Pada seminar tanggal 2 Januari 2024, siapakah mahasiswa yang memiliki NIM terbesar", "output_type": "schedule_rows"}
+{"id": 96, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Siapa mahasiswa dengan NIM terkecil yang seminar di ruang R6010 pada hari Selasa", "output_type": "schedule_rows"}
+{"id": 97, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Siapa mahasiswa dengan seminar paling pagi di ruang R6028 pada tanggal 3 Januari 2024? Jika lebih dari satu, ambil NIM terkecil.", "output_type": "schedule_rows"}
+{"id": 98, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Sebutkan NIM mahasiswa terkecil yang seminar di Ruang 6010 pada tanggal 3 Januari 2024", "output_type": "schedule_rows"}
+{"id": 99, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Sebutkan NIM mahasiswa yang seminar di hari Sabtu, jika lebih dari satu tampilkan NIM yang terbesar", "output_type": "schedule_rows"}
+{"id": 100, "id_kategori": "K-6", "kegiatan": "Seminar", "semester": "Ganjil", "pekan": 6, "prompt": "Mahasiswa yang memiliki judul skripsi paling panjang pada tanggal 6 Januari 2024", "output_type": "schedule_rows"}
+{"id": 101, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Tampilkan jadwal sidang Pak Andri", "output_type": "schedule_rows"}
+{"id": 102, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Di ruang mana sidang Ikhsan dilaksanakan", "output_type": "schedule_rows"}
+{"id": 103, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Pukul berapa sidang Muhammad Rifqu dimulai", "output_type": "schedule_rows"}
+{"id": 104, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Apa judul skripsi Fermi Naufal Akbar", "output_type": "schedule_rows"}
+{"id": 105, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Berapa NIM dari mahasiswa Tri Novarel Rahmadhani", "output_type": "schedule_rows"}
+{"id": 106, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Tanggal berapa sidang  Muh Nur I", "output_type": "schedule_rows"}
+{"id": 107, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Jam berapa sidang Ferdi berakhir", "output_type": "schedule_rows"}
+{"id": 108, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Tampilkan jadwal Ir.Taryana Suryana", "output_type": "schedule_rows"}
+{"id": 109, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Jam berapa sidang  Miftah dimulai", "output_type": "schedule_rows"}
+{"id": 110, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Hari apa sidang  Faishal akan dilaksanakan", "output_type": "schedule_rows"}
+{"id": 111, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Jam berapa pelaksanaan sidang dari Toni Rizky Awalludin dimulai", "output_type": "schedule_rows"}
+{"id": 112, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Siapa Dosen yang ada disidang Naufal Hafizh", "output_type": "lecturer_list"}
+{"id": 113, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Apa judul skripsi Rikrik", "output_type": "schedule_rows"}
+{"id": 114, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Sebutkan ruangan tempat sidang Diva Sabila Ramadhan", "output_type": "schedule_rows"}
+{"id": 115, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Berapakan NIM dari Angga", "output_type": "schedule_rows"}
+{"id": 116, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Munculkan jadwal dari Bapak Irawan", "output_type": "schedule_rows"}
+{"id": 117, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Di mana sidang mahasiswa bernama Alif dilaksanakan", "output_type": "schedule_rows"}
+{"id": 118, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Pada pukul berapa sidang Dedus Lihoko dimulai", "output_type": "schedule_rows"}
+{"id": 119, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Apa judul skripsi Rizky Septiana", "output_type": "schedule_rows"}
+{"id": 120, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Berapa NIM dari mahasiswa Dicky", "output_type": "schedule_rows"}
+{"id": 121, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Tanggal berapa sidang Weldira Tarigan", "output_type": "schedule_rows"}
+{"id": 122, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Jam berapa sidang Rendy Dermawan berakhir", "output_type": "schedule_rows"}
+{"id": 123, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Jam berapa sidang Reichan dimulai", "output_type": "schedule_rows"}
+{"id": 124, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Hari apa sidang akan dilaksanakan oleh Ferdy Mohamad Firdaus", "output_type": "schedule_rows"}
+{"id": 125, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Siapa Dosen yang ada di sidang Dewi Mahiranie", "output_type": "lecturer_list"}
+{"id": 126, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 1, "prompt": "Jam berapa pelaksanaan sidang dari Adam", "output_type": "schedule_rows"}
+{"id": 127, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Tampilkan jadwal sidang Bu Rani", "output_type": "schedule_rows"}
+{"id": 128, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Dimana ruang sidang Rizky Renaldi Cahya Febrian", "output_type": "schedule_rows"}
+{"id": 129, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Apa judul skripsi dari mahasiswa atas nama Dita", "output_type": "schedule_rows"}
+{"id": 130, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Tanggal berapa Pak Dwi sidang", "output_type": "schedule_rows"}
+{"id": 131, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Hari apa saja Bu Utami  menghadiri sidang skripsi", "output_type": "schedule_rows"}
+{"id": 132, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Siapa saja mahasiswa yang sidang dengan Pak Ikbal", "output_type": "schedule_rows"}
+{"id": 133, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Berapa NIM dari mahasiswa Umar", "output_type": "schedule_rows"}
+{"id": 134, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Siapa saja dosen yang sidang bersama Pak Hidayat", "output_type": "lecturer_list"}
+{"id": 135, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Sebutkan mahasiswa yang diuji oleh Bu Tati", "output_type": "schedule_rows"}
+{"id": 136, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Sebutkan NIM mahasiswa yang diuji oleh Pak Dedeng", "output_type": "schedule_rows"}
+{"id": 137, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Tampilkan jadwal sidang dari mahasiswa Ahmad Haris", "output_type": "schedule_rows"}
+{"id": 138, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 2, "prompt": "Sebutkan judul skripsi dari mahasiwa Muhammad Iqbal", "output_type": "schedule_rows"}
+{"id": 139, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 3, "prompt": "Di ruang mana sidang dengan Pak Didit", "output_type": "schedule_rows"}
+{"id": 140, "id_kategori": "K-1", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 3, "prompt": "Tanggal berapa sidang John dilaksanakan", "output_type": "schedule_rows"}
+{"id": 141, "id_kategori": "K-2", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 3, "prompt": "Siapa nama mahasiswa dengan NIM 10119233", "output_type": "schedule_rows"}
+{"id": 142, "id_kategori": "K-2", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 3, "prompt": "Apa judul skripsi dari mahasiswa dengan NIM 10119902", "output_type": "schedule_rows"}
+{"id": 143, "id_kategori": "K-2", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 3, "prompt": "Di ruang mana sidang NIM 10117056 berlangsung", "output_type": "schedule_rows"}
+{"id": 144, "id_kategori": "K-2", "kegiatan": "Sidang", "semester": "Ganjil", "pekan": 3, "prompt": "Pukul berapa sidang NIM 10119901 selesai", "output_type": "schedule_rows"}
+{"id": 145, "id_kategori": "K-2", "kegiatan": "Sidang", "semester": "Genap", "pekan": 1, "prompt": "Kapan tanggal sidang mahasiswa NIM 10119359", "output_type": "schedule_rows"}
+{"id": 146, "id_kategori": "K-2", "kegiatan": "Sidang", "semester": "Genap", "pekan": 1, "prompt": "Siapa penguji sidang dari mahasiswa NIM 10118158", "output_type": "lecturer_list"}
+{"id": 147, "id_kategori": "K-2", "kegiatan": "Sidang", "semester": "Genap", "pekan": 1, "prompt": "Hari apa mahasiswa dengan NIM 10118314 sidang", "output_type": "schedule_rows"}
+{"id": 148, "id_kategori": "K-3", "kegiatan": "Sidang", "semester": "Genap", "pekan": 1, "prompt": "Jadwal di R6010, 30 Juli 2024, mulai 09.15", "output_type": "schedule_rows"}
+{"id": 149, "id_kategori": "K-3", "kegiatan": "Sidang", "semester": "Genap", "pekan": 1, "prompt": "Jadwal di R6028, 30 Juli 2024, selesai 10.30", "output_type": "schedule_rows"}
+{"id": 150, "id_kategori": "K-3", "kegiatan": "Sidang", "semester": "Genap", "pekan": 1, "prompt": "Jadwal di R6028, 31 Juli 2024, jam 8", "output_type": "schedule_rows"}
+{"id": 151, "id_kategori": "K-3", "kegiatan": "Sidang", "semester": "Genap", "pekan": 1, "prompt": "Jadwal di R6010, 31 Juli 2024, selesai 10.30", "output_type": "schedule_rows"}
+{"id": 152, "id_kategori": "K-3", "kegiatan": "Sidang", "semester": "Genap", "pekan": 1, "prompt": "Jadwal di R6010, 01 Ags 2024, mulai 10.30", "output_type": "schedule_rows"}
+{"id": 153, "id_kategori": "K-3", "kegiatan": "Sidang", "semester": "Genap", "pekan": 1, "prompt": "Jadwal di 6010, 30 Juli 2024, mulai 10:30", "output_type": "schedule_rows"}
+{"id": 154, "id_kategori": "K-3", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Jadwal di 6028, 13 Agustus 2024, selesai 09:15", "output_type": "schedule_rows"}
+{"id": 155, "id_kategori": "K-3", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Jadwal di 6010, 13 Agustus 2024, selesai pukul 13", "output_type": "schedule_rows"}
+{"id": 156, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "NIM mahasiswa yang diuji Chrismikha pada 14 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 157, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Semua mahasiswa di ruang R6034 tanggal 14 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 158, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Mahasiswa di ruang R6010 tanggal 14 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 159, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "NIM mahasiswa sidang pukul 09.15 tanggal 15 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 160, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Mahasiswa yang diuji Anna tanggal 15 Agustus 2024.", "output_type": "schedule_rows"}
+{"id": 161, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Semua mahasiswa sidang di R6028 hari Selasa", "output_type": "schedule_rows"}
+{"id": 162, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Mahasiswa yang diuji Bu Sufaatin jam 08:00", "output_type": "schedule_rows"}
+{"id": 163, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Semua dosen yang menguji di ruang R6010 tanggal 13 Agustus 2024", "output_type": "lecturer_list"}
+{"id": 164, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "NIM mahasiswa yang sidang di R6028 tanggal 13 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 165, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Nama mahasiswa yang sidang di Rabu tanggal 14 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 166, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Semua dosen yang menguji di hari Kamis ruang R6010", "output_type": "lecturer_list"}
+{"id": 167, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Mahasiswa yang diuji oleh Bu Kania tanggal 15 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 168, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "NIM mahasiswa yang sidang di R6010 hari Selasa", "output_type": "schedule_rows"}
+{"id": 169, "id_kategori": "K-4", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Semua mahasiswa yang sidang di R6028, tanggal 14 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 170, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Berapa sidang di R6010 tanggal 15 Agustus 2024", "output_type": "aggregation"}
+{"id": 171, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 3, "prompt": "Jumlah jadwal di R6028 tanggal 15 Agust 2024", "output_type": "aggregation"}
+{"id": 172, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Total seminar mulai 09.15 tanggal 19 Agustus 2024", "output_type": "aggregation"}
+{"id": 173, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Banyak sidang di 6034 tanggal 19 Agustus 2024", "output_type": "aggregation"}
+{"id": 174, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Jumlah sidang berakhir 10.30 tanggal 20 Agustus 2024", "output_type": "aggregation"}
+{"id": 175, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Berapa jumlah dosen yang sidang tanggal 23 Agustus 2024", "output_type": "aggregation"}
+{"id": 176, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Berapa banyak mahasiswa yang sidang hari Kamis", "output_type": "aggregation"}
+{"id": 177, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Total sidang berakhir jam 11.45  tanggal 22 Agustus 2024", "output_type": "aggregation"}
+{"id": 178, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Jumlah jadwal di R6028 tanggal 21 Agustus 2024", "output_type": "aggregation"}
+{"id": 179, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Banyak sidang Pak Hanhan hari Senin", "output_type": "aggregation"}
+{"id": 180, "id_kategori": "K-5", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Jumlah mahasiswa yang seminar di R6010 tanggal 20 Agustus 2024", "output_type": "aggregation"}
+{"id": 181, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Siapa saja mahasiswa dengan sidang paling pagi pada tanggal 20 Agustus 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil.", "output_type": "schedule_rows"}
+{"id": 182, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Siapa mahasiswa dengan sidang paling akhir pada  21 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 183, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Mahasiswa mana yang memiliki judul skripsi terpanjang pada 21 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 184, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Di antara sidang tanggal 23 Agustus 2024, siapa mahasiswa dengan NIM terkecil", "output_type": "schedule_rows"}
+{"id": 185, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Untuk sidang tanggal 24 Agustus 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa", "output_type": "schedule_rows"}
+{"id": 186, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Siapa saja mahasiswa dengan sidang paling akhir pada tanggal 24 Agustus 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil", "output_type": "schedule_rows"}
+{"id": 187, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Siapa mahasiswa dengan sidang paling awal pada hari Senin? Jika lebih dari 1 orang ambil nim yang paling besar", "output_type": "schedule_rows"}
+{"id": 188, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 4, "prompt": "Mahasiswa mana yang memiliki judul skripsi paling singkat pada  tanggal 24 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 189, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Di antara sidang tanggal 26 Agustus 2024, siapa mahasiswa dengan NIM terkecil", "output_type": "schedule_rows"}
+{"id": 190, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Untuk sidang tanggal 27 Agustus 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa", "output_type": "schedule_rows"}
+{"id": 191, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Siapa mahasiswa dengan sidang paling terakhir pada hari Senin", "output_type": "schedule_rows"}
+{"id": 192, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Siapa mahasiswa dengan NIM terkecil yang sidang di ruang  6010 pada 28 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 193, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Siapa saja dosen yang menguji terbanyak pada tanggal 29 Agustus 2024 jika lebih dari satu tampilkan sesuai urutan alphabet", "output_type": "lecturer_list"}
+{"id": 194, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Tampilkan daftar nama dosen yang menguji pada sidang hari Senin, diurutkan secara alfabet", "output_type": "lecturer_list"}
+{"id": 195, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Pada sidang tanggal 30 Agustus 2024, siapakah mahasiswa yang memiliki NIM terbesar", "output_type": "schedule_rows"}
+{"id": 196, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Siapa mahasiswa yang sidang di ruang Lab 6 pada hari Senin", "output_type": "schedule_rows"}
+{"id": 197, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Sebutkan NIM mahasiswa yang sidang di Ruang 6028 pada tanggal 28 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 198, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Sebutkan NIM mahasiswa terkecil yang sidang di Ruang 6010 pada tanggal 29 Agustus 2024", "output_type": "schedule_rows"}
+{"id": 199, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Sebutkan NIM mahasiswa yang sidang di hari Jumat, jika lebih dari satu tampilkan NIM yang terbesar", "output_type": "schedule_rows"}
+{"id": 200, "id_kategori": "K-6", "kegiatan": "Sidang", "semester": "Genap", "pekan": 5, "prompt": "Mahasiswa yang memiliki judul skripsi paling panjang pada tanggal 29 Agustus 2024", "output_type": "schedule_rows"}

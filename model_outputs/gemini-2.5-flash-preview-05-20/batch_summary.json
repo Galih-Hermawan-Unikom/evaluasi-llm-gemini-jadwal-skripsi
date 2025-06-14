@@ -1,0 +1,2012 @@
+{
+  "total_prompts": 200,
+  "successful_evaluations": 200,
+  "rate_limited_evaluations": 0,
+  "complete_success_rate": 100.0,
+  "total_execution_time": 3242.7935428619385,
+  "average_time_per_prompt": 16.213967714309693,
+  "model": "gemini-2.5-flash-preview-05-20",
+  "temperature": 0.0,
+  "results_by_id": {
+    "1": {
+      "query": "Tampilkan jadwal Pak Sopian",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "2": {
+      "query": "Di ruang mana seminar Wildan dilaksanakan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "3": {
+      "query": "Pukul berapa seminar Faishal dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "4": {
+      "query": "Apa judul skripsi Guntur Maulana Ibrahim",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "5": {
+      "query": "Berapa NIM dari mahasiswa Ferdi Bayu Febryan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "6": {
+      "query": "Tanggal berapa seminar Tri Novarel Rahmadhani",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "7": {
+      "query": "Jam berapa seminar Muhammad Iman Komarudiansyah berakhir",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "8": {
+      "query": "Tampilkan jadwal Bu Rani",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "9": {
+      "query": "Jam berapa seminar Ekayan Arsyad dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "10": {
+      "query": "Hari apa seminar akan dilaksanakan Ivan Aprilman Hura",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "11": {
+      "query": "Jam berapa pelaksanaan seminar dari Muhammad Cahaya Adiransyah Tasman dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "12": {
+      "query": "Siapa Dosen yang ada diseminar Weldira Tarigan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "13": {
+      "query": "Apa judul skripsi Elbaruna",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "14": {
+      "query": "Sebutkan ruangan tempat seminarnya Riswan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "15": {
+      "query": "Berapakan NIM dari Zulhaqi",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "16": {
+      "query": "Munculkan jadwal dari dosen Irfan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "17": {
+      "query": "Di mana seminar Rizky dilaksanakan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "18": {
+      "query": "Pada pukul berapa seminar Rizal Sihombing dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "19": {
+      "query": "Apa judul skripsi Rizky Renaldi",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "20": {
+      "query": "Berapa NIM dari mahasiswa Muhammad Rizky Pratama Solahudin",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "21": {
+      "query": "Tanggal berapa seminar Rizky Renaldi Cahya Febrian",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "22": {
+      "query": "Jam berapa seminar Rizal Sihombing berakhir",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "23": {
+      "query": "Jam berapa seminar Rizky dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 50.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "24": {
+      "query": "Hari apa seminar akan dilaksanakan oleh Rizky Pratama Solahudin",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "25": {
+      "query": "Siapa Dosen yang ada diseminar Rizky Renaldi",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "26": {
+      "query": "Jam berapa pelaksanaan seminar dari Muhammad Rizky",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "27": {
+      "query": "Tampilkan jadwal Bapak Taryana",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "28": {
+      "query": "Dimana ruang seminarnya Hafid",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "29": {
+      "query": "Apa judul skripsi dari mahasiswa atas nama Simatupang",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "30": {
+      "query": "Tanggal berapa Bu Gentisya seminar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "31": {
+      "query": "Hari apa saja Pak Dedeng seminar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "32": {
+      "query": "Siapa saja mahasiswa yang seminar dengan Pak Galih",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "33": {
+      "query": "Berapa NIM dari mahasiswa Dimas",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "34": {
+      "query": "Siapa saja dosen yang seminar bersama Pak Chrismikha",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "35": {
+      "query": "Sebutkan mahasiswa yang diuji oleh Pak Eko Budi",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 50.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "36": {
+      "query": "Sebutkan NIM mahasiswa yang diuji oleh Bu Anna Dara",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 5,
+      "json_jadwal_count": 5,
+      "rate_limit_encountered": false
+    },
+    "37": {
+      "query": "Tampilkan jadwal seminar dari mahasiswa Muhammad Irsyad",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "38": {
+      "query": "Sebutkan judul skripsi dari mahasiwa Mochamad Yusuf",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "39": {
+      "query": "Di ruang mana seminar dengan Bu Anna Dara",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 5,
+      "json_jadwal_count": 5,
+      "rate_limit_encountered": false
+    },
+    "40": {
+      "query": "Tanggal berapa seminar Sacofi dilaksanakan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "41": {
+      "query": "Siapa nama mahasiswa dengan NIM 10118058",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "42": {
+      "query": "Apa judul skripsi dari mahasiswa dengan NIM 10118039",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "43": {
+      "query": "Di ruang mana seminar NIM 10119192 berlangsung",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "44": {
+      "query": "Pukul berapa seminar NIM 10117172 selesai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "45": {
+      "query": "Kapan tanggal seminar mahasiswa NIM 10118346",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "46": {
+      "query": "Siapa penguji seminar dari mahasiswa NIM 10119913",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 50.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "47": {
+      "query": "Hari apa mahasiswa dengan NIM 10120901 seminar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "48": {
+      "query": "Jadwal di R6010, 27 Mei 2024, mulai 09.15",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "49": {
+      "query": "Jadwal di R6028, 27 Mei 2024, selesai 10.30",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "50": {
+      "query": "Jadwal di R6028, 29 Mei 2024, jam 8",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "51": {
+      "query": "Jadwal di R6010, 29 Mei 2024, selesai 10.30",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "52": {
+      "query": "Jadwal di R6010, 02 Jan 2024, mulai 09.15",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 25.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "53": {
+      "query": "Jadwal di 6010, 02 Januari 2024, mulai 10:30",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "54": {
+      "query": "Jadwal di 6028, 3 Januari 2024, selesai 09:15",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "55": {
+      "query": "Jadwal di 6010, 03 Januari 2024, selesai pukul 13",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "56": {
+      "query": "NIM mahasiswa yang diuji Chrismikha pada 21 Juni 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "57": {
+      "query": "Semua mahasiswa di ruang R6010 tanggal 21 Juni 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "58": {
+      "query": "Mahasiswa di ruang R6010 tanggal 2 Jan 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "59": {
+      "query": "NIM mahasiswa seminar selesai pukul 09.15 tanggal 3 Jan 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "60": {
+      "query": "Mahasiswa yang diuji Anna tanggal 4 Jan 2024.",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "61": {
+      "query": "Semua mahasiswa seminar di R6028 hari Sabtu",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "62": {
+      "query": "Mahasiswa yang diuji Bu Sufaatin jam 09:15",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 50.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "63": {
+      "query": "Semua dosen yang menguji di ruang R6010 tanggal 28 Juni 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 80.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 5,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "64": {
+      "query": "NIM mahasiswa yang seminar di R6028 tanggal 27 Juni 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 5,
+      "json_jadwal_count": 5,
+      "rate_limit_encountered": false
+    },
+    "65": {
+      "query": "Nama mahasiswa yang seminar pada tanggal 26 Jun 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 12,
+      "json_jadwal_count": 12,
+      "rate_limit_encountered": false
+    },
+    "66": {
+      "query": "Semua dosen yang menguji di hari Kamis ruang R6010",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "67": {
+      "query": "Mahasiswa yang diuji oleh Bu Dian tanggal 5 Januari 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 0,
+      "json_jadwal_count": 0,
+      "rate_limit_encountered": false
+    },
+    "68": {
+      "query": "NIM mahasiswa yang seminar di R6010 hari Jumat",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "69": {
+      "query": "Semua mahasiswa yang seminar di R6028, tanggal 4 Januari 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "70": {
+      "query": "Berapa seminar di R6010 tanggal 2 Jan 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "71": {
+      "query": "Jumlah jadwal di R6028 tanggal 3 Jan 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "72": {
+      "query": "Total seminar mulai 09.15 tanggal 28 Juni 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "73": {
+      "query": "Banyak seminar di 6028 tanggal 26 Juni 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "74": {
+      "query": "Jumlah seminar berakhir 10.30 tanggal 24 Juni 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "75": {
+      "query": "Berapa jumlah dosen yang seminar tanggal 4 Jan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "76": {
+      "query": "Berapa banyak mahasiswa yang seminar hari Rabu",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "77": {
+      "query": "Total seminar berakhir jam 11.45  tanggal 1 Juli 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "78": {
+      "query": "Jumlah jadwal di R6028 tanggal 2 Juli 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "79": {
+      "query": "Banyak seminar Bu Nelly hari Selasa",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "80": {
+      "query": "Jumlah mahasiswa yang seminar di R6010 tanggal 4 Juli 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "81": {
+      "query": "Siapa saja mahasiswa dengan seminar paling pagi pada tanggal 1 Juli 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil.",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "82": {
+      "query": "Siapa mahasiswa dengan seminar paling akhir pada  4 Juli 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "83": {
+      "query": "Mahasiswa mana yang memiliki judul skripsi terpanjang pada 5 Juli 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "84": {
+      "query": "Di antara seminar tanggal 4 Juli 2024, siapa mahasiswa dengan NIM terkecil",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "85": {
+      "query": "Untuk seminar tanggal 3 Juli 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "86": {
+      "query": "Siapa saja mahasiswa dengan seminar paling akhir pada tanggal 8 Juli 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "87": {
+      "query": "Siapa mahasiswa dengan seminar paling awal pada hari Senin? Jika lebih dari 1 orang ambil nim yang paling besar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "88": {
+      "query": "Mahasiswa mana yang memiliki judul skripsi paling singkat pada  tanggal 10 Juli 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "89": {
+      "query": "Di antara seminar tanggal 9 Juli 2024, siapa mahasiswa dengan NIM terkecil",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "90": {
+      "query": "Untuk seminar tanggal 8 Juli 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "91": {
+      "query": "Siapa mahasiswa dengan seminar paling terakhir pada hari Senin",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "92": {
+      "query": "Siapa mahasiswa dengan NIM terkecil yang seminar di ruang  6010 pada 11 Desember 2023",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "93": {
+      "query": "Siapa saja dosen yang menguji terbanyak pada tanggal 5 Januari 2024 jika lebih dari satu tampilkan sesuai urutan alphabet",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 50.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "94": {
+      "query": "Urutkan berdasarkan alphabet nama dosen yang seminar di hari Jumat",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 6,
+      "json_jadwal_count": 6,
+      "rate_limit_encountered": false
+    },
+    "95": {
+      "query": "Pada seminar tanggal 2 Januari 2024, siapakah mahasiswa yang memiliki NIM terbesar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "96": {
+      "query": "Siapa mahasiswa dengan NIM terkecil yang seminar di ruang R6010 pada hari Selasa",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "97": {
+      "query": "Siapa mahasiswa dengan seminar paling pagi di ruang R6028 pada tanggal 3 Januari 2024? Jika lebih dari satu, ambil NIM terkecil.",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "98": {
+      "query": "Sebutkan NIM mahasiswa terkecil yang seminar di Ruang 6010 pada tanggal 3 Januari 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 33.33,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "99": {
+      "query": "Sebutkan NIM mahasiswa yang seminar di hari Sabtu, jika lebih dari satu tampilkan NIM yang terbesar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 33.33,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "100": {
+      "query": "Mahasiswa yang memiliki judul skripsi paling panjang pada tanggal 6 Januari 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "101": {
+      "query": "Tampilkan jadwal sidang Pak Andri",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 7,
+      "json_jadwal_count": 7,
+      "rate_limit_encountered": false
+    },
+    "102": {
+      "query": "Di ruang mana sidang Ikhsan dilaksanakan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "103": {
+      "query": "Pukul berapa sidang Muhammad Rifqu dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "104": {
+      "query": "Apa judul skripsi Fermi Naufal Akbar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "105": {
+      "query": "Berapa NIM dari mahasiswa Tri Novarel Rahmadhani",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "106": {
+      "query": "Tanggal berapa sidang  Muh Nur I",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "107": {
+      "query": "Jam berapa sidang Ferdi berakhir",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "108": {
+      "query": "Tampilkan jadwal Ir.Taryana Suryana",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "109": {
+      "query": "Jam berapa sidang  Miftah dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "110": {
+      "query": "Hari apa sidang  Faishal akan dilaksanakan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "111": {
+      "query": "Jam berapa pelaksanaan sidang dari Toni Rizky Awalludin dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "112": {
+      "query": "Siapa Dosen yang ada disidang Naufal Hafizh",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "113": {
+      "query": "Apa judul skripsi Rikrik",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "114": {
+      "query": "Sebutkan ruangan tempat sidang Diva Sabila Ramadhan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "115": {
+      "query": "Berapakan NIM dari Angga",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "116": {
+      "query": "Munculkan jadwal dari Bapak Irawan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "117": {
+      "query": "Di mana sidang mahasiswa bernama Alif dilaksanakan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "118": {
+      "query": "Pada pukul berapa sidang Dedus Lihoko dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "119": {
+      "query": "Apa judul skripsi Rizky Septiana",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "120": {
+      "query": "Berapa NIM dari mahasiswa Dicky",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "121": {
+      "query": "Tanggal berapa sidang Weldira Tarigan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "122": {
+      "query": "Jam berapa sidang Rendy Dermawan berakhir",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "123": {
+      "query": "Jam berapa sidang Reichan dimulai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "124": {
+      "query": "Hari apa sidang akan dilaksanakan oleh Ferdy Mohamad Firdaus",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "125": {
+      "query": "Siapa Dosen yang ada di sidang Dewi Mahiranie",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "126": {
+      "query": "Jam berapa pelaksanaan sidang dari Adam",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "127": {
+      "query": "Tampilkan jadwal sidang Bu Rani",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "128": {
+      "query": "Dimana ruang sidang Rizky Renaldi Cahya Febrian",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "129": {
+      "query": "Apa judul skripsi dari mahasiswa atas nama Dita",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "130": {
+      "query": "Tanggal berapa Pak Dwi sidang",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "131": {
+      "query": "Hari apa saja Bu Utami  menghadiri sidang skripsi",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "132": {
+      "query": "Siapa saja mahasiswa yang sidang dengan Pak Ikbal",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "133": {
+      "query": "Berapa NIM dari mahasiswa Umar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "134": {
+      "query": "Siapa saja dosen yang sidang bersama Pak Hidayat",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "135": {
+      "query": "Sebutkan mahasiswa yang diuji oleh Bu Tati",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 5,
+      "json_jadwal_count": 5,
+      "rate_limit_encountered": false
+    },
+    "136": {
+      "query": "Sebutkan NIM mahasiswa yang diuji oleh Pak Dedeng",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "137": {
+      "query": "Tampilkan jadwal sidang dari mahasiswa Ahmad Haris",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "138": {
+      "query": "Sebutkan judul skripsi dari mahasiwa Muhammad Iqbal",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "139": {
+      "query": "Di ruang mana sidang dengan Pak Didit",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "140": {
+      "query": "Tanggal berapa sidang John dilaksanakan",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "141": {
+      "query": "Siapa nama mahasiswa dengan NIM 10119233",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "142": {
+      "query": "Apa judul skripsi dari mahasiswa dengan NIM 10119902",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "143": {
+      "query": "Di ruang mana sidang NIM 10117056 berlangsung",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "144": {
+      "query": "Pukul berapa sidang NIM 10119901 selesai",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "145": {
+      "query": "Kapan tanggal sidang mahasiswa NIM 10119359",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "146": {
+      "query": "Siapa penguji sidang dari mahasiswa NIM 10118158",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "147": {
+      "query": "Hari apa mahasiswa dengan NIM 10118314 sidang",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "148": {
+      "query": "Jadwal di R6010, 30 Juli 2024, mulai 09.15",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "149": {
+      "query": "Jadwal di R6028, 30 Juli 2024, selesai 10.30",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "150": {
+      "query": "Jadwal di R6028, 31 Juli 2024, jam 8",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "151": {
+      "query": "Jadwal di R6010, 31 Juli 2024, selesai 10.30",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "152": {
+      "query": "Jadwal di R6010, 01 Ags 2024, mulai 10.30",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "153": {
+      "query": "Jadwal di 6010, 30 Juli 2024, mulai 10:30",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "154": {
+      "query": "Jadwal di 6028, 13 Agustus 2024, selesai 09:15",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "155": {
+      "query": "Jadwal di 6010, 13 Agustus 2024, selesai pukul 13",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "156": {
+      "query": "NIM mahasiswa yang diuji Chrismikha pada 14 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 2,
+      "rate_limit_encountered": false
+    },
+    "157": {
+      "query": "Semua mahasiswa di ruang R6034 tanggal 14 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "158": {
+      "query": "Mahasiswa di ruang R6010 tanggal 14 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "159": {
+      "query": "NIM mahasiswa sidang pukul 09.15 tanggal 15 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "160": {
+      "query": "Mahasiswa yang diuji Anna tanggal 15 Agustus 2024.",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "161": {
+      "query": "Semua mahasiswa sidang di R6028 hari Selasa",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "162": {
+      "query": "Mahasiswa yang diuji Bu Sufaatin jam 08:00",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "163": {
+      "query": "Semua dosen yang menguji di ruang R6010 tanggal 13 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 75.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 12,
+      "json_jadwal_count": 9,
+      "rate_limit_encountered": false
+    },
+    "164": {
+      "query": "NIM mahasiswa yang sidang di R6028 tanggal 13 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 3,
+      "rate_limit_encountered": false
+    },
+    "165": {
+      "query": "Nama mahasiswa yang sidang di Rabu tanggal 14 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 12,
+      "json_jadwal_count": 12,
+      "rate_limit_encountered": false
+    },
+    "166": {
+      "query": "Semua dosen yang menguji di hari Kamis ruang R6010",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 8,
+      "json_jadwal_count": 8,
+      "rate_limit_encountered": false
+    },
+    "167": {
+      "query": "Mahasiswa yang diuji oleh Bu Kania tanggal 15 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 80.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 5,
+      "rate_limit_encountered": false
+    },
+    "168": {
+      "query": "NIM mahasiswa yang sidang di R6010 hari Selasa",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 5,
+      "json_jadwal_count": 5,
+      "rate_limit_encountered": false
+    },
+    "169": {
+      "query": "Semua mahasiswa yang sidang di R6028, tanggal 14 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "170": {
+      "query": "Berapa sidang di R6010 tanggal 15 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "171": {
+      "query": "Jumlah jadwal di R6028 tanggal 15 Agust 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "172": {
+      "query": "Total seminar mulai 09.15 tanggal 19 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "173": {
+      "query": "Banyak sidang di 6034 tanggal 19 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "174": {
+      "query": "Jumlah sidang berakhir 10.30 tanggal 20 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "175": {
+      "query": "Berapa jumlah dosen yang sidang tanggal 23 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "176": {
+      "query": "Berapa banyak mahasiswa yang sidang hari Kamis",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "177": {
+      "query": "Total sidang berakhir jam 11.45  tanggal 22 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "178": {
+      "query": "Jumlah jadwal di R6028 tanggal 21 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "179": {
+      "query": "Banyak sidang Pak Hanhan hari Senin",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "180": {
+      "query": "Jumlah mahasiswa yang seminar di R6010 tanggal 20 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "txt",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "181": {
+      "query": "Siapa saja mahasiswa dengan sidang paling pagi pada tanggal 20 Agustus 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil.",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "182": {
+      "query": "Siapa mahasiswa dengan sidang paling akhir pada  21 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 33.33,
+      "faster_source": "json",
+      "txt_jadwal_count": 3,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "183": {
+      "query": "Mahasiswa mana yang memiliki judul skripsi terpanjang pada 21 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "184": {
+      "query": "Di antara sidang tanggal 23 Agustus 2024, siapa mahasiswa dengan NIM terkecil",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "185": {
+      "query": "Untuk sidang tanggal 24 Agustus 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "186": {
+      "query": "Siapa saja mahasiswa dengan sidang paling akhir pada tanggal 24 Agustus 2024? Jika ada lebih dari 1 orang, ambil yang nim nya paling kecil",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "187": {
+      "query": "Siapa mahasiswa dengan sidang paling awal pada hari Senin? Jika lebih dari 1 orang ambil nim yang paling besar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "188": {
+      "query": "Mahasiswa mana yang memiliki judul skripsi paling singkat pada  tanggal 24 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 0.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "189": {
+      "query": "Di antara sidang tanggal 26 Agustus 2024, siapa mahasiswa dengan NIM terkecil",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "190": {
+      "query": "Untuk sidang tanggal 27 Agustus 2024, judul mana yang muncul pertama secara alfabetis dan milik mahasiswa siapa",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "191": {
+      "query": "Siapa mahasiswa dengan sidang paling terakhir pada hari Senin",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 50.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 2,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "192": {
+      "query": "Siapa mahasiswa dengan NIM terkecil yang sidang di ruang  6010 pada 28 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "193": {
+      "query": "Siapa saja dosen yang menguji terbanyak pada tanggal 29 Agustus 2024 jika lebih dari satu tampilkan sesuai urutan alphabet",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 25.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "194": {
+      "query": "Tampilkan daftar nama dosen yang menguji pada sidang hari Senin, diurutkan secara alfabet",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 91.67,
+      "faster_source": "json",
+      "txt_jadwal_count": 23,
+      "json_jadwal_count": 25,
+      "rate_limit_encountered": false
+    },
+    "195": {
+      "query": "Pada sidang tanggal 30 Agustus 2024, siapakah mahasiswa yang memiliki NIM terbesar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "196": {
+      "query": "Siapa mahasiswa yang sidang di ruang Lab 6 pada hari Senin",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "197": {
+      "query": "Sebutkan NIM mahasiswa yang sidang di Ruang 6028 pada tanggal 28 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 4,
+      "rate_limit_encountered": false
+    },
+    "198": {
+      "query": "Sebutkan NIM mahasiswa terkecil yang sidang di Ruang 6010 pada tanggal 29 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 20.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 5,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "199": {
+      "query": "Sebutkan NIM mahasiswa yang sidang di hari Jumat, jika lebih dari satu tampilkan NIM yang terbesar",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 25.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 4,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    },
+    "200": {
+      "query": "Mahasiswa yang memiliki judul skripsi paling panjang pada tanggal 29 Agustus 2024",
+      "txt_success": true,
+      "json_success": true,
+      "match_percentage": 100.0,
+      "faster_source": "json",
+      "txt_jadwal_count": 1,
+      "json_jadwal_count": 1,
+      "rate_limit_encountered": false
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "query": "Tampilkan jadwal sidang Bu Rani",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 2,
+    "timestamp": "2025-05-27T22:03:31.089331",
+    "scenario_id": 127,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119245",
+          "nama": "Apid Haryana",
+          "judul": "Sistem Penentuan Kebutuhan Obat dan Alat Kesehatan Menggunakan Metode Single Exponential Smooting di UPTD Puskemas Talaga Kabupaten Majalengka",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-22",
+          "hari": "Kamis",
+          "nim": "10119311",
+          "nama": "Dita Permatasari",
+          "judul": "Sistem Penentuan Pegawai Lembur Produksi Menggunakan Analytical Hierarchy Process (AHP) di PT. Neturen Indonesia",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10118121",
+          "nama": "Aldi Ardiansah",
+          "judul": "Sistem Penentuan Jumlah Pengadaan Obat menggunakan Metode Holt-Winters Exponential Smoothing di Puskesmas Way Dente Lampung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Riani Lubis, S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4265,
+      "completion_tokens": 620,
+      "total_tokens": 4885,
+      "latency_s": 6.159
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119245",
+          "nama": "Apid Haryana",
+          "judul": "Sistem Penentuan Kebutuhan Obat dan Alat Kesehatan Menggunakan Metode Single Exponential Smooting di UPTD Puskemas Talaga Kabupaten Majalengka",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Riani Lubis, S.T., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119266",
+          "nama": "Ahmad Haris",
+          "judul": "Sistem Penjadwalan Mata Pelajaran Menggunakan Algoritma Genetika di SMK Negeri 1 Cianjur",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Andri Heryandi, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-22",
+          "hari": "Kamis",
+          "nim": "10119311",
+          "nama": "Dita Permatasari",
+          "judul": "Sistem Penentuan Pegawai Lembur Produksi Menggunakan Analytical Hierarchy Process (AHP) di PT. Neturen Indonesia",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Rani Susanto, S.Kom, M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 7463,
+      "completion_tokens": 617,
+      "total_tokens": 8080,
+      "latency_s": 5.184
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.9749999999999996,
+    "records": {
+      "txt_count": 3,
+      "json_count": 3,
+      "count_match": true,
+      "common_count": 2,
+      "only_in_txt": [
+        "10118121"
+      ],
+      "only_in_json": [
+        "10119266"
+      ],
+      "match_percentage": 50.0
+    }
+  }
+}

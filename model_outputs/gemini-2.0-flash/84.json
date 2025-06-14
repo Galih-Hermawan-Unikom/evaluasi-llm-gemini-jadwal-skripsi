@@ -1,0 +1,86 @@
+{
+  "query": "Di antara seminar tanggal 4 Juli 2024, siapa mahasiswa dengan NIM terkecil",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 7,
+    "timestamp": "2025-05-27T21:57:05.499937",
+    "scenario_id": 84,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-04",
+          "hari": "Kamis",
+          "nim": "10118356",
+          "nama": "Ferralldy Andree Sapoetra",
+          "judul": "Sistem Deteksi Penyakit Cabai Keriting Berbasis Visual & CNN",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Hanhan Maulana, M.Kom., Ph.D.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5298,
+      "completion_tokens": 201,
+      "total_tokens": 5499,
+      "latency_s": 2.06
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-04",
+          "hari": "Kamis",
+          "nim": "10118356",
+          "nama": "Ferallldy Andree Sapoetra",
+          "judul": "Sistem Deteksi Penyakit Cabai Keriting Berbasis Visual & CNN",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Hanhan Maulana, M.Kom., Ph.D."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9563,
+      "completion_tokens": 201,
+      "total_tokens": 9764,
+      "latency_s": 4.133
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 2.073,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

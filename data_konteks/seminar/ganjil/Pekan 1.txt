@@ -1,0 +1,302 @@
+
+==================================================
+Senin, 27 November 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SENIN, 27-NOVEMBER-2023
+WILDAN LUTFI ANNANTA
+1
+10118143
+Rancang Bangun Kamera Dinamis sebagai Monitoring 
+Pertumbuhan Tanaman berbasis Internet of Things (Iot)
+Dedeng Hirawan, S.Kom., M.Kom
+13.00-14.15
+R6010
+Didit Andri Jatmiko, S.Kom., M.T.
+MOCHAMMAD FAISHAL
+2
+10119048
+Sistem Pelatihan Robot Lengan berbasis Visual
+Didit Andri Jatmiko, S.Kom., M.T.
+14.15-15.30
+R6010
+Sopian Alviana, S.Kom.,M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Selasa, 28 November 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SELASA, 28-NOVEMBER-2023
+GUNTUR MAULANA IBRAHIM
+1
+10118032
+Sistem Deteksi Morfologi Tanaman pada Proses Pertumbuhan 
+Cabai Rawit berbasis Internet of Things
+Dedeng Hirawan, S.Kom., M.Kom
+08.00-09.15
+R6010
+Sopian Alviana, S.Kom.,M.Kom.
+FERDI BAYU FEBRYAN
+2
+10119246
+Sistem Informasi Manajemen Produksi di PT. Sab Indo
+Sri Nurhayati, S.Si., M.T.
+11.45-13.00
+R6010
+Utami Dewi W, S.Kom., M.Kom
+TRI NOVAREL RAHMADHANI
+3
+10119069
+Sistem Kendali Robot Lengan berbasis Visual
+Didit Andri Jatmiko, S.Kom., M.T.
+14.15-15.30
+R6010
+Dedeng Hirawan, S.Kom., M.Kom
+Halaman ke-1
+
+
+
+==================================================
+Rabu, 29 November 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+RABU, 29-NOVEMBER-2023
+MUHAMMAD IMAN 
+KOMARUDIANSYAH
+1
+10118135
+Sistem Informasi Manajemen Produksi Bawang Goreng di UD. 
+Sinar Tani
+Utami Dewi W, S.Kom., M.Kom
+08.00-09.15
+R6010
+Rani Susanto, S.Kom, M.Kom.
+DEDUS LIHOKO
+2
+10119131
+Pembangunan Aplikasi Monitoring Kehadiran Siswa berbasis 
+Android di SMA Plus Al-Wahid
+Chrismikha Haryanto, S.Kom.,M.Kom.
+13.00-14.15
+R6010
+Andri Heryandi, S.T., M.T.
+BIRLIANO EKAYAN ARSYAD
+3
+10119173
+Pembangunan Aplikasi Pendeteksi Grammar dan Plagiat pada 
+Karya Ilmiah Berbahasa Ingris berbasis Android
+Nelly Indriani W, S.Si., M.T.
+14.15-15.30
+R6010
+Chrismikha Haryanto, S.Kom.,M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Kamis, 30 November 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+KAMIS, 30-NOVEMBER-2023
+RENDY DERMAWAN
+1
+10119030
+Sistem Informasi Manajemen Produksi di PT. Artha Savana Digital
+Gentisya Tri Mardiani, S.Kom., M.Kom
+08.00-09.15
+R6010
+Riani Lubis, S.T., M.T.
+ZAINUL RIFQI MUWAFFAQ
+2
+10119082
+Penerapan Augmented Reality dalam Pembentukan Imajinasi 
+pada Buku Cerita Anak
+Hanhan Maulana, S.Kom., M.Kom
+09.15-10.30
+R6028
+Richi Dwi Agustia, M.Kom.
+IVAN APRILMAN HURA
+3
+10119305
+Sistem Informasi Strategi Promosi di PT Ayudha Wahana Jasa 
+Dengan Pendekatan Customer Realtionship Manajemen (CRM)
+Sufaatin, S.T., M.Kom.
+10.30-11.45
+R6010
+Utami Dewi W, S.Kom., M.Kom
+PUTRA RIZKI PRATAMA ANNY
+4
+10117002
+Perancangan RPG Startegy Turn-Base berdasar Dokumentasi 
+Peristiwa Sejarah "Bandung Lautan Api"
+Richi Dwi Agustia, M.Kom.
+10.30-11.45
+R6028
+Hanhan Maulana, S.Kom., M.Kom
+MUHAMMAD NURKHOLIQ
+5
+10119902
+Pembangunan Aplikasi Disposisi Surat dengan Menerapkan 
+Teknologi Tanda Tangan Digital pada Kantor Kecamatan Coblong 
+Kota Bandung
+Hanhan Maulana, S.Kom., M.Kom
+11.45-13.00
+R6010
+Eko Budi Setiawan, S.Kom., M.T.
+BILLY MUHAMMAD RIDWAN
+6
+10118103
+Pembangunan Aplikasi Diagnosis Penyakit Ringworm 
+Menggunakan Image Recognition Berbasis Android
+Chrismikha Haryanto, S.Kom.,M.Kom.
+13.00-14.15
+R6010
+Andri Heryandi, S.T., M.T.
+Halaman ke-1
+
+
+
+==================================================
+Jumat, 1 Desember 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+JUMAT, 1-DESEMBER-2023
+NURAENI EKA SUSANTI
+1
+10119225
+Sistem Informasi Manajemen Produksi di PT. Compact Total 
+Utama
+Sufaatin, S.T., M.Kom.
+08.00-09.15
+R6010
+Gentisya Tri Mardiani, S.Kom., M.Kom
+MUHAMMAD CAHAYA 
+ADIRANSYAH TASMAN
+2
+10117039
+Prototyping Smart Greenhouse dengan Kontroler Mobile 
+Berbasis Android
+Andri Heryandi, S.T., M.T.
+09.15-10.30
+R6010
+Ir.Taryana Suryana, M.Kom.
+MUHAMAD ZULHAQI
+3
+10119231
+Pengembangan Permainan Trading Card YU-GI-OH dengan 
+Teknologi Augmented Reality berbasis Android
+Hanhan Maulana, S.Kom., M.Kom
+10.30-11.45
+R6028
+Richi Dwi Agustia, M.Kom.
+MESYA HASDINI NUR FAIZAH 
+MUMTAZ SYAFITRI
+4
+10119360
+Pengaruh N-Gram dan Fasttext terhadap Topic Modelling pada 
+Sosial Media Twitter mengenai "Kampus Merdeka" 
+Menggunakan Metode Latent Dirichlet Allocation (LDA)
+Nelly Indriani W, S.Si., M.T.
+13.00-14.15
+R6010
+Kania Evita Dewi, S.Pd., M.Si.
+Halaman ke-1
+
+
+
+==================================================
+Sabtu, 2 Desember 2023.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GANJIL
+SABTU, 2-DESEMBER-2023
+WELDIRA TARIGAN
+1
+10119115
+Sistem Prioritas Laporan Aduan Jabar Quick Responses 
+berbasis Android
+Irfan Maliki, S.T., M.T.
+09.15-10.30
+R6010
+Ir.Taryana Suryana, M.Kom.
+ELBARUNA WIFALDZAN
+2
+10119170
+Pembangunan Aplikasi E-Learning dengan Fitur Pendeteksi 
+Plagiarisme di SMKN 1 Cipeundeuy
+Rani Susanto, S.Kom, M.Kom.
+10.30-11.45
+R6010
+Andri Heryandi, S.T., M.T.
+NAUFAL HAFIZH WIDIATHALLA
+3
+10119227
+Pembangunan Sistem Informasi Manajemen Produksi Papan 
+Selancar di PT. Kayu Surfboard
+Sri Nurhayati, S.Si., M.T.
+11.45-13.00
+R6010
+Rani Susanto, S.Kom, M.Kom.
+RISWAN GANI PADILAH
+4
+10119190
+Pengenalan Pola Citra Tulisan Tangan Bersambung 
+Menggunakan Contour Analysis dan Convolutional Neural 
+Network
+Irfan Maliki, S.T., M.T.
+13.00-14.15
+R6010
+Nelly Indriani W, S.Si., M.T.
+Halaman ke-1
+
+

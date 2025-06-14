@@ -1,0 +1,87 @@
+{
+  "query": "Di ruang mana sidang Ikhsan dilaksanakan",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T20:10:24.283413",
+    "scenario_id": 102,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119097",
+          "nama": "Ikhsan Nurul Rizki",
+          "judul": "Pembangunan Aplikasi Belajar Mengaji Al-Qur’an Memanfaatkan \nSpeech Recognition untuk Mendeteksi Kesalahan dalam \nPelafalan",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Hanhan Maulana, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5250,
+      "completion_tokens": 214,
+      "total_tokens": 5464,
+      "latency_s": 2.941
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-05",
+          "hari": "Senin",
+          "nim": "10119097",
+          "nama": "Ikhsan Nurul Rizki",
+          "judul": "Pembangunan Aplikasi Belajar Mengaji Al-Qur’an Memanfaatkan Speech Recognition untuk Mendeteksi Kesalahan dalam Pelafalan",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Hidayat, M.T.",
+            "Hanhan Maulana, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9321,
+      "completion_tokens": 221,
+      "total_tokens": 9542,
+      "latency_s": 3.331
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.3900000000000001,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "query": "Jam berapa seminar Rizky dimulai",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 3,
+    "timestamp": "2025-05-27T21:47:50.700100",
+    "scenario_id": 23,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-12",
+          "hari": "Selasa",
+          "nim": "10118147",
+          "nama": "Rizky Renaldi Cahya Febrian",
+          "judul": "Pembangunan Aplikasi Pendeteksi Plagiarisme Menggunakan API Open AI",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 893,
+      "completion_tokens": 206,
+      "total_tokens": 1099,
+      "latency_s": 2.602
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-11",
+          "hari": "Senin",
+          "nim": "10119193",
+          "nama": "Muhammad Rizky Pratama Solahudin",
+          "judul": "Penghitungan Kendaraan Bermotor Berdasarkan Jenis Dengan Menggunakan Metode YOLOv8",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 1144,
+      "completion_tokens": 204,
+      "total_tokens": 1348,
+      "latency_s": 1.708
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.8939999999999999,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "10118147"
+      ],
+      "only_in_json": [
+        "10119193"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

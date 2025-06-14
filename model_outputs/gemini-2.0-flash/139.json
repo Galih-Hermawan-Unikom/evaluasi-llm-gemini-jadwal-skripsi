@@ -1,0 +1,181 @@
+{
+  "query": "Di ruang mana sidang dengan Pak Didit",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 3,
+    "timestamp": "2025-05-27T22:05:38.120383",
+    "scenario_id": 139,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-26",
+          "hari": "Senin",
+          "nim": "10119283",
+          "nama": "Rahmatullah Rizki",
+          "judul": "Rancang Bangun Sistem Monitoring Grow Light Untuk \nKebutuhan Pertumbuhan Hidroponik Cabai Berbasis Internet of \nThings",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-26",
+          "hari": "Senin",
+          "nim": "10119081",
+          "nama": "Muhammad Elza Abiezal",
+          "judul": "Perancangan Sistem Pemantauan dan Alarm Peringatan Banjir \nBerbasis Citra Satelit",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-02-26",
+          "hari": "Senin",
+          "nim": "10119028",
+          "nama": "Rizal Sihombing",
+          "judul": "Pembangunan Sistem Pemantauan Kebutuhan Air Minum pada \nSaat Olahraga Lari Berbasis Android",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3964,
+      "completion_tokens": 614,
+      "total_tokens": 4578,
+      "latency_s": 5.317
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-26",
+          "hari": "Senin",
+          "nim": "10119283",
+          "nama": "Rahmatullah Rizki",
+          "judul": "Rancang Bangun Sistem Monitoring Grow Light Untuk Kebutuhan Pertumbuhan Hidroponik Cabai Berbasis Internet of Things",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-26",
+          "hari": "Senin",
+          "nim": "10119081",
+          "nama": "Muhammad Elza Abiezal",
+          "judul": "Perancangan Sistem Pemantauan dan Alarm Peringatan Banjir Berbasis Citra Satelit",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Richi Dwi Agustia, M.Kom.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-02-28",
+          "hari": "Rabu",
+          "nim": "10119083",
+          "nama": "Rafsan Zen Mustaofa",
+          "judul": "Sistem Monitoring dan Kontrol Ketersediaan Nutrisi Otomatis untuk Tanaman Brokoli menggunakan Internet of Things",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Alif Finandhita, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-26",
+          "hari": "Senin",
+          "nim": "10119028",
+          "nama": "Rizal Sihombing",
+          "judul": "Pembangunan Sistem Pemantauan Kebutuhan Air Minum pada Saat Olahraga Lari Berbasis Android",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Riani Lubis, S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-29",
+          "hari": "Kamis",
+          "nim": "10117056",
+          "nama": "Firman Ardhiansyah",
+          "judul": "Sistem Informasi Pengelolaan Pengetahuan Guru di SMK ICB Cinta Teknika Bandung",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Utami Dewi W, S.Kom., M.Kom",
+            "Irfan Maliki, S.T., M.T.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 6992,
+      "completion_tokens": 990,
+      "total_tokens": 7982,
+      "latency_s": 7.747
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 2.4299999999999997,
+    "records": {
+      "txt_count": 3,
+      "json_count": 5,
+      "count_match": false,
+      "common_count": 3,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10117056",
+        "10119083"
+      ],
+      "match_percentage": 60.0
+    }
+  }
+}

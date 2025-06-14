@@ -1,0 +1,126 @@
+
+==================================================
+Jadwal Seminar Tanggal Senin, 8-Juli-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SENIN, 8-JULI-2024
+ARI SYAFRI
+1
+10120050
+Sistem Monitoring dan Evaluasi Kinerja Puskesmas 
+Menggunakan Metode Performance Dashboard di UPTD 
+Puskesmas Sagalaherang Kabupaten Subang
+Tati Harihayati M., S.T., M.T.
+08.00-09.15
+R6028
+Rani Susanto, S.Kom, M.Kom.
+GIBRAN MAHARDHIKA
+2
+10120721
+Sistem Monitoring Dan Evaluasi Kinerja Divisi Programming 
+Menggunakan Metode Key Performance Indicator (KPI) di PT. 
+Mediatama Kreasi Informatika 
+Tati Harihayati M., S.T., M.T.
+09.15-10.30
+R6028
+Riani Lubis, S.T., M.T.
+MUHAMMAD EMIR FADLYANTO
+3
+10120121
+Sistem Penentuan Jumlah Pembelian Bahan Baku Menggunakan 
+Metode Economic Order Quantity Di PT. Tetianna Citra Selaras
+Riani Lubis, S.T., M.T.
+10.30-11.45
+R6028
+Rani Susanto, S.Kom, M.Kom.
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Selasa, 9-Juli-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+SELASA, 9-JULI-2024
+RIZKI RAMDANI
+1
+10120026
+Sistem Penentuan Jumlah Pengadaan Teh Menggunakan Metode 
+Single Exponential Smoothing di PTP Nusantara 1 Regional 2 
+Kebun Rancabali 
+Utami Dewi W, S.Kom., M.Kom
+09.15-10.30
+R6010
+Sufaatin, S.T., M.Kom.
+LUTHFY KARLIANDI NUGRAHA
+2
+10118379
+Sistem Penentuan Jumlah dan Waktu Pembelian Material 
+Menggunakan Metode Economic Order Quantity (EOQ) di PT. 
+Hasta Agung Nusantara Sentosa
+Hanhan Maulana, M.Kom., Ph.D.
+09.15-10.30
+R6028
+Gentisya Tri Mardiani, S.Kom., M.Kom
+VIDI ANANDISA FORTUNA
+3
+10120058
+Sistem Penilaian Kinerja Supplier Menggunakan Metode Simple 
+Additive Weighting di CV. Surya Kencana Lintas Yasa
+Utami Dewi W, S.Kom., M.Kom
+10.30-11.45
+R6010
+Anna Dara Andriana, S.Kom., M.Kom
+Halaman ke-1
+
+
+
+==================================================
+Jadwal Seminar Tanggal Rabu, 10-Juli-2024.pdf
+==================================================
+JADWAL SEMINAR
+NO
+NIM
+NAMA
+JUDUL
+REVIEWER & PEMBIMBINGS
+WAKTU
+RUANG
+TAHUN AKADEMIK 2023/2024 SEMESTER GENAP
+RABU, 10-JULI-2024
+ARIQ MAULANA PUTRA
+1
+10120730
+Pengembangan Flow of Life : Game Adventure Menggunakan 
+Unity
+Iskandar Ikbal, S.T., M.Kom.
+09.15-10.30
+R6028
+Hanhan Maulana, M.Kom., Ph.D.
+SELDI SYAHRIZAL
+2
+10119086
+Pembangunan Aplikasi Pendeteksi Tingkat Kematangan Buah
+Ir.Taryana Suryana, M.Kom.
+10.30-11.45
+R6010
+Andri Heryandi, S.T., M.T.
+Halaman ke-1
+
+

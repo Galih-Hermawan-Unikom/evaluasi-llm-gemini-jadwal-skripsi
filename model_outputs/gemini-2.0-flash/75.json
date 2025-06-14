@@ -1,0 +1,60 @@
+{
+  "query": "Berapa jumlah dosen yang seminar tanggal 4 Jan",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T21:55:53.770496",
+    "scenario_id": 75,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 8
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 2811,
+      "completion_tokens": 33,
+      "total_tokens": 2844,
+      "latency_s": 1.921
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 8
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 4894,
+      "completion_tokens": 33,
+      "total_tokens": 4927,
+      "latency_s": 1.213
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.708,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

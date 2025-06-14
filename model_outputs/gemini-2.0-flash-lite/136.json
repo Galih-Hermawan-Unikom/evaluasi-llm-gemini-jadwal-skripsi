@@ -1,0 +1,135 @@
+{
+  "query": "Sebutkan NIM mahasiswa yang diuji oleh Pak Dedeng",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 2,
+    "timestamp": "2025-05-27T20:15:26.194849",
+    "scenario_id": 136,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119217",
+          "nama": "Tiyo Haryo Subaktiono",
+          "judul": "Prototipe Sistem Otomasi Irigasi Tetes pada Tanaman Cabai Menggunakan Teknologi MQTT dan HTTP",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Anna Dara Andriana, S.Kom., M.Kom",
+            "Dedeng Hirawan, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10119322",
+          "nama": "Karyadi Simamora",
+          "judul": "Pembangunan Aplikasi Rekomendasi Jasa Tukang Bangunan di Kota Bandung Berbasis Android",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4271,
+      "completion_tokens": 418,
+      "total_tokens": 4689,
+      "latency_s": 3.831
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119217",
+          "nama": "Tiyo Haryo Subaktiono",
+          "judul": "Prototipe Sistem Otomasi Irigasi Tetes pada Tanaman Cabai Menggunakan Teknologi MQTT dan HTTP",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Sopian Alviana, S.Kom.,M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10119322",
+          "nama": "Karyadi Simamora",
+          "judul": "Pembangunan Aplikasi Rekomendasi Jasa Tukang Bangunan di Kota Bandung Berbasis Android",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6034",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dedeng Hirawan, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119117",
+          "nama": "Fikri Muhamad Fauzi",
+          "judul": "Rancang Bangun Sistem Monitoring Udara Berbasis IoT dan Teknologi Blockchain",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6034",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Irawan Afrianto, S.T., M.T.",
+            "Irfan Maliki, S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 7469,
+      "completion_tokens": 605,
+      "total_tokens": 8074,
+      "latency_s": 5.126
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.2950000000000004,
+    "records": {
+      "txt_count": 2,
+      "json_count": 3,
+      "count_match": false,
+      "common_count": 2,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10119117"
+      ],
+      "match_percentage": 66.67
+    }
+  }
+}

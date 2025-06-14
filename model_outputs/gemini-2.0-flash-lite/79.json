@@ -1,0 +1,60 @@
+{
+  "query": "Banyak seminar Bu Nelly hari Selasa",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Genap",
+    "pekan": 7,
+    "timestamp": "2025-05-27T20:07:23.502268",
+    "scenario_id": 79,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 2
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 4986,
+      "completion_tokens": 33,
+      "total_tokens": 5019,
+      "latency_s": 1.107
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 2
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 9232,
+      "completion_tokens": 33,
+      "total_tokens": 9265,
+      "latency_s": 2.549
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.442,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

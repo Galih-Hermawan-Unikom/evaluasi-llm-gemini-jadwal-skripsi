@@ -1,0 +1,86 @@
+{
+  "query": "Berapakan NIM dari Zulhaqi",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T21:46:50.875475",
+    "scenario_id": 15,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-01",
+          "hari": "Jumat",
+          "nim": "10119231",
+          "nama": "Muhamad Zulhaqi",
+          "judul": "Pengembangan Permainan Trading Card YU-GI-OH dengan Teknologi Augmented Reality berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Hanhan Maulana, S.Kom., M.Kom",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2976,
+      "completion_tokens": 197,
+      "total_tokens": 3173,
+      "latency_s": 3.374
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-01",
+          "hari": "Jumat",
+          "nim": "10119231",
+          "nama": "Muhamad Zulhaqi",
+          "judul": "Pengembangan Permainan Trading Card YU-GI-OH dengan Teknologi Augmented Reality berbasis Android",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Hanhan Maulana, S.Kom., M.Kom.",
+            "Richi Dwi Agustia, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4837,
+      "completion_tokens": 197,
+      "total_tokens": 5034,
+      "latency_s": 2.987
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.387,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

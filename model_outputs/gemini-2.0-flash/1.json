@@ -1,0 +1,102 @@
+{
+  "query": "Tampilkan jadwal Pak Sopian",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T21:44:50.999121",
+    "scenario_id": 1,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-28",
+          "hari": "Selasa",
+          "nim": "10118032",
+          "nama": "Guntur Maulana Ibrahim",
+          "judul": "Sistem Deteksi Morfologi Tanaman pada Proses Pertumbuhan \nCabai Rawit berbasis Internet of Things",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom",
+            "Sopian Alviana, S.Kom.,M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2974,
+      "completion_tokens": 204,
+      "total_tokens": 3178,
+      "latency_s": 2.964
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-27",
+          "hari": "Senin",
+          "nim": "10119048",
+          "nama": "Mochammad Faishal",
+          "judul": "Sistem Pelatihan Robot Lengan berbasis Visual",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Sopian Alviana, S.Kom., M.Kom."
+          ]
+        },
+        {
+          "tanggal": "2023-11-28",
+          "hari": "Selasa",
+          "nim": "10118032",
+          "nama": "Guntur Maulana Ibrahim",
+          "judul": "Sistem Deteksi Morfologi Tanaman pada Proses Pertumbuhan Cabai Rawit berbasis Internet of Things",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Dedeng Hirawan, S.Kom., M.Kom.",
+            "Sopian Alviana, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4835,
+      "completion_tokens": 368,
+      "total_tokens": 5203,
+      "latency_s": 3.515
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.5510000000000002,
+    "records": {
+      "txt_count": 1,
+      "json_count": 2,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10119048"
+      ],
+      "match_percentage": 50.0
+    }
+  }
+}

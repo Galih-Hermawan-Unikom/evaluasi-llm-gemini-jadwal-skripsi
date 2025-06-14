@@ -1,0 +1,88 @@
+{
+  "query": "Jadwal di R6010, 31 Juli 2024, selesai 10.30",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 1,
+    "timestamp": "2025-05-23T18:15:56.032165",
+    "scenario_id": 151,
+    "category_id": "K-3"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-31",
+          "hari": "Rabu",
+          "nim": "10119026",
+          "nama": "Muhammad Khatami",
+          "judul": "Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada Acara Job Fair",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2175,
+      "completion_tokens": 210,
+      "total_tokens": 2385,
+      "latency_s": 9.504
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-07-31",
+          "hari": "Rabu",
+          "nim": "10119026",
+          "nama": "Muhammad Khatami",
+          "judul": "Rekomendasi Tempat Kerja Berbasis Augmented Reality Pada Acara Job Fair",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Iskandar Ikbal, S.T., M.Kom.",
+            "Richi Dwi Agustia, M.Kom.",
+            "Fakhrian Fadlia, S.Kom.M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 3338,
+      "completion_tokens": 210,
+      "total_tokens": 3548,
+      "latency_s": 4.479
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 5.0249999999999995,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

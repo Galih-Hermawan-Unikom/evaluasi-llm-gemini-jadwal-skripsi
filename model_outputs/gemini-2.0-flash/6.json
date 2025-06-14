@@ -1,0 +1,86 @@
+{
+  "query": "Tanggal berapa seminar Tri Novarel Rahmadhani",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T21:45:32.932627",
+    "scenario_id": 6,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-28",
+          "hari": "Selasa",
+          "nim": "10119069",
+          "nama": "Tri Novarel Rahmadhani",
+          "judul": "Sistem Kendali Robot Lengan berbasis Visual",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Dedeng Hirawan, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 2978,
+      "completion_tokens": 193,
+      "total_tokens": 3171,
+      "latency_s": 2.923
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-11-28",
+          "hari": "Selasa",
+          "nim": "10119069",
+          "nama": "Tri Novarel Rahmadhani",
+          "judul": "Sistem Kendali Robot Lengan berbasis Visual",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Dedeng Hirawan, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4839,
+      "completion_tokens": 193,
+      "total_tokens": 5032,
+      "latency_s": 3.353
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.43000000000000016,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

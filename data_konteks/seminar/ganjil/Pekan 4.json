@@ -1,0 +1,212 @@
+{
+  "semester": "Ganjil",
+  "tahun_akademik": "2023/2024",
+  "pekan": 4,
+  "jenis": "Seminar",
+  "jadwal_harian": [
+    {
+      "tanggal": "2023-12-19",
+      "hari": "Selasa",
+      "jadwal": [
+        {
+          "nim": "10119106",
+          "nama": "Ahmad Fikri Maulana",
+          "judul": "Pembangunan Aplikasi Pendeteksi Bahasa Isyarat Memanfaatkan Tensorflow API dan Text to Speech API Berbasis Android",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Galih Hermawan, S.Kom, M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119004",
+          "nama": "Muhamad Ramadan",
+          "judul": "Pembangunan Aplikasi Monitoring Tanam Panen Tanaman Sawi",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6010",
+          "dosen": [
+            {
+              "nama": "Galih Hermawan, S.Kom, M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Ir. Taryana Suryana, M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119233",
+          "nama": "Denden Triana",
+          "judul": "Pembangunan Bot Optical Character Recognition untuk Pelacakan Pengeluaran Finansial",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Eko Budi Setiawan, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119089",
+          "nama": "Hafid Ramadhan",
+          "judul": "Pengembangan Mobile Ad Hoc Network di Daerah Minim Sinyal Internet Menggunakan Metode Peer to Peer Berbasis Mikrotik pada PT. Wamengkoli Jaya",
+          "waktu_mulai": "14:15",
+          "waktu_selesai": "15:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Iskandar Ikbal, S.T., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dedeng Hirawan, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2023-12-20",
+      "hari": "Rabu",
+      "jadwal": [
+        {
+          "nim": "10119285",
+          "nama": "Dimas Senjani Sukma",
+          "judul": "Pembangunan Aplikasi Pasar Online di PT. Harmoni Mitra Jayandra",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Kania Evita Dewi, S.Pd., M.Si.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119157",
+          "nama": "Simatupang Rio Nugraha",
+          "judul": "Pembangunan Aplikasi Pengiklanan Jasa Berbasis Mobile",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Nelly Indriani W, S.Si., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Chrismikha Haryanto, S.Kom.,M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2023-12-21",
+      "hari": "Kamis",
+      "jadwal": [
+        {
+          "nim": "10119209",
+          "nama": "Muhammad Iqbal Rosyidin",
+          "judul": "Sistem Penjadwalan Proyek Perangkat Lunak di PT. Swamedia Informatika dengan Metode Agile",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Fakhrian Fadlia, S.Kom.M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119913",
+          "nama": "Muhammad Alvin Rizqi Ramadhan",
+          "judul": "Sistem Monitoring Penumpang Travel Berbasis Internet of Things",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Didit Andri Jatmiko, S.Kom., M.T.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Dedeng Hirawan, S.Kom., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tanggal": "2023-12-22",
+      "hari": "Jumat",
+      "jadwal": [
+        {
+          "nim": "10119195",
+          "nama": "Fajar Nugraha",
+          "judul": "Sistem Penilaian Kepuasan Pelanggan Menggunakan Metode ServQual di PT. Atlantic Aksa Group",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Gentisya Tri Mardiani, S.Kom., M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Sufaatin, S.T., M.Kom.",
+              "peran": "Reviewer"
+            }
+          ]
+        },
+        {
+          "nim": "10119255",
+          "nama": "Rizki Lail Rahman",
+          "judul": "Aplikasi Pelaporan Petugas Dinas Perhubungan Memanfaatan Kamera dan GPS",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            {
+              "nama": "Ir. Taryana Suryana, M.Kom.",
+              "peran": "Pembimbing"
+            },
+            {
+              "nama": "Andri Heryandi, S.T., M.T.",
+              "peran": "Reviewer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

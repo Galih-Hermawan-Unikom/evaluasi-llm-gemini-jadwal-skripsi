@@ -1,0 +1,92 @@
+{
+  "query": "Mahasiswa mana yang memiliki judul skripsi paling singkat pada  tanggal 24 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T20:23:53.460293",
+    "scenario_id": 188,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-24",
+          "hari": "Sabtu",
+          "nim": "10120236",
+          "nama": "Zulfikar Azizan",
+          "judul": "Penerapan JSON Web Token untuk Keamanan Autentikasi Web Service Data Prestasi Mahasiswa Universitas Pendidikan Indonesia",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Galih Hermawan, S.Kom, M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10635,
+      "completion_tokens": 226,
+      "total_tokens": 10861,
+      "latency_s": 3.063
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-24",
+          "hari": "Sabtu",
+          "nim": "10120722",
+          "nama": "Veby Wahyuda",
+          "judul": "Penerapan Dashboard Visualisasi Data untuk Rumah Sakit Bhakti Asih Tanggerang",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Dr. Ednawati Rainarli, S.Si., M.Si.",
+            "Dian Dharmayanti, S.T., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19344,
+      "completion_tokens": 219,
+      "total_tokens": 19563,
+      "latency_s": 3.471
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.4079999999999999,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "10120236"
+      ],
+      "only_in_json": [
+        "10120722"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

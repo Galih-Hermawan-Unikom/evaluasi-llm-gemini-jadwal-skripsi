@@ -1,0 +1,208 @@
+{
+  "query": "Sebutkan mahasiswa yang diuji oleh Bu Tati",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 2,
+    "timestamp": "2025-05-23T18:12:12.822674",
+    "scenario_id": 135,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-19",
+          "hari": "Senin",
+          "nim": "10119085",
+          "nama": "Arif Abdan Syakur",
+          "judul": "Pembangunan Aplikasi Smart Monitoring pada Klub Sepeda Permata Cycling Community",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Andri Heryandi, S.T., M.T.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119259",
+          "nama": "Naufal Daffa Ilyasa",
+          "judul": "Sistem Penentuan Waktu dan Jumlah Pengadaan Obat Menggunakan Metode Reorder Point di Klinik Tiga Mandiri",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Tati Harihayati M., S.T., M.T.",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119092",
+          "nama": "Mahfudz Abdulloh",
+          "judul": "Sistem Penjadwalan Tenaga Keperawatan Bagian Rawat Jalan menggunakan Algoritma Priority Schedulling di Rumah Sakit Bayukarta Karawang",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Sufaatin, S.T., M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10118121",
+          "nama": "Aldi Ardiansah",
+          "judul": "Sistem Penentuan Jumlah Pengadaan Obat menggunakan Metode Holt-Winters Exponential Smoothing di Puskesmas Way Dente Lampung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Riani Lubis, S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10118259",
+          "nama": "Andre Riana Mulya",
+          "judul": "Penanganan Ketidakseimbangan Data Pada Kasus Analisis Sentimen Berbasis Aspek",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Irfan Maliki, S.T., M.T.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4229,
+      "completion_tokens": 1003,
+      "total_tokens": 5232,
+      "latency_s": 16.593
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-19",
+          "hari": "Senin",
+          "nim": "10119085",
+          "nama": "Arif Abdan Syakur",
+          "judul": "Pembangunan Aplikasi Smart Monitoring pada Klub Sepeda Permata Cycling Community",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "R6010",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119259",
+          "nama": "Naufal Daffa Ilyasa",
+          "judul": "Sistem Penentuan Waktu dan Jumlah Pengadaan Obat Menggunakan Metode Reorder Point di Klinik Tiga Mandiri",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6010",
+          "dosen": [
+            "Tati Harihayati M., S.T., M.T.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119092",
+          "nama": "Mahfudz Abdulloh",
+          "judul": "Sistem Penjadwalan Tenaga Keperawatan Bagian Rawat Jalan menggunakan Algoritma Priority Schedulling di Rumah Sakit Bayukarta Karawang",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Sufaatin, S.T., M.Kom.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Eko Budi Setiawan, S.Kom., M.T."
+          ]
+        },
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10118121",
+          "nama": "Aldi Ardiansah",
+          "judul": "Sistem Penentuan Jumlah Pengadaan Obat menggunakan Metode Holt-Winters Exponential Smoothing di Puskesmas Way Dente Lampung",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Riani Lubis, S.T., M.T.",
+            "Tati Harihayati M., S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si."
+          ]
+        },
+        {
+          "tanggal": "2024-02-23",
+          "hari": "Jumat",
+          "nim": "10118259",
+          "nama": "Andre Riana Mulya",
+          "judul": "Penanganan Ketidakseimbangan Data Pada Kasus Analisis Sentimen Berbasis Aspek",
+          "waktu_mulai": "09:15",
+          "waktu_selesai": "10:30",
+          "ruang": "R6028",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Kania Evita Dewi, S.Pd., M.Si.",
+            "Tati Harihayati M., S.T., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 7327,
+      "completion_tokens": 1003,
+      "total_tokens": 8330,
+      "latency_s": 8.757
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 7.836,
+    "records": {
+      "txt_count": 5,
+      "json_count": 5,
+      "count_match": true,
+      "common_count": 5,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

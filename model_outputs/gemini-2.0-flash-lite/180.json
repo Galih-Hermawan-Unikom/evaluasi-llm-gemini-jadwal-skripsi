@@ -1,0 +1,64 @@
+{
+  "query": "Jumlah mahasiswa yang seminar di R6010 tanggal 20 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T20:22:24.038154",
+    "scenario_id": 180,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 3
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 10321,
+      "completion_tokens": 33,
+      "total_tokens": 10354,
+      "latency_s": 2.534
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 4
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 19011,
+      "completion_tokens": 33,
+      "total_tokens": 19044,
+      "latency_s": 2.451
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.08299999999999974,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "count: 3"
+      ],
+      "only_in_json": [
+        "count: 4"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

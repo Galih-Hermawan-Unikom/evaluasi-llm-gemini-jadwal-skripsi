@@ -1,0 +1,64 @@
+{
+  "query": "Total sidang berakhir jam 11.45  tanggal 22 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T20:22:01.773825",
+    "scenario_id": 177,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 8
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 10322,
+      "completion_tokens": 33,
+      "total_tokens": 10355,
+      "latency_s": 2.309
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 2
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 19012,
+      "completion_tokens": 33,
+      "total_tokens": 19045,
+      "latency_s": 2.659
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.34999999999999964,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [
+        "count: 8"
+      ],
+      "only_in_json": [
+        "count: 2"
+      ],
+      "match_percentage": 0.0
+    }
+  }
+}

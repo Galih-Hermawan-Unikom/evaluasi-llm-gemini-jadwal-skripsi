@@ -1,0 +1,105 @@
+{
+  "query": "Siapa mahasiswa dengan sidang paling akhir pada  21 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 4,
+    "timestamp": "2025-05-27T20:22:50.676376",
+    "scenario_id": 182,
+    "category_id": "K-6"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-21",
+          "hari": "Rabu",
+          "nim": "10120048",
+          "nama": "Wildan Yusup",
+          "judul": "Monitoring Keluar Masuk Barang pada Perbelanjaan Grosir dengan Penerapan RFID",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Ir.Taryana Suryana, M.Kom.",
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 10630,
+      "completion_tokens": 214,
+      "total_tokens": 10844,
+      "latency_s": 3.677
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-08-21",
+          "hari": "Rabu",
+          "nim": "10120010",
+          "nama": "Irfan Choiruddin Anwar",
+          "judul": "Pembangunan Aplikasi Pemesanan Tiket Bus Memanfaatkan API Midtrans sebagai Payment Gateway dan Pemantauan Posisi Bus Menggunakan GPS Berbasis Web",
+          "waktu_mulai": "11:45",
+          "waktu_selesai": "13:00",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Angga Setiyadi, S.Kom., M.Kom"
+          ]
+        },
+        {
+          "tanggal": "2024-08-21",
+          "hari": "Rabu",
+          "nim": "10120048",
+          "nama": "Wildan Yusup",
+          "judul": "Monitoring Keluar Masuk Barang pada Perbelanjaan Grosir dengan Penerapan RFID",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "LAB. 6",
+          "dosen": [
+            "Eko Budi Setiawan, S.Kom., M.T.",
+            "Ir.Taryana Suryana, M.Kom.",
+            "Didit Andri Jatmiko, S.Kom., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 19339,
+      "completion_tokens": 414,
+      "total_tokens": 19753,
+      "latency_s": 4.789
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.1119999999999997,
+    "records": {
+      "txt_count": 1,
+      "json_count": 2,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [
+        "10120010"
+      ],
+      "match_percentage": 50.0
+    }
+  }
+}

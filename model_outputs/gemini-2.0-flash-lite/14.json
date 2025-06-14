@@ -1,0 +1,57 @@
+{
+  "query": "Sebutkan ruangan tempat seminarnya Riswan",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-27T19:57:43.838335",
+    "scenario_id": 14,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": false,
+    "result": {
+      "jadwal": []
+    },
+    "metrics": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0,
+      "latency_s": 0
+    },
+    "valid_json": false,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2023-12-02",
+          "hari": "Sabtu",
+          "nim": "10119190",
+          "nama": "Riswan Gani Padilah",
+          "judul": "Pengenalan Pola Citra Tulisan Tangan Bersambung Menggunakan Contour Analysis dan Convolutional Neural Network",
+          "waktu_mulai": "13:00",
+          "waktu_selesai": "14:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Irfan Maliki, S.T., M.T.",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4838,
+      "completion_tokens": 208,
+      "total_tokens": 5046,
+      "latency_s": 2.033
+    },
+    "valid_json": true,
+    "schema_issues": []
+  }
+}

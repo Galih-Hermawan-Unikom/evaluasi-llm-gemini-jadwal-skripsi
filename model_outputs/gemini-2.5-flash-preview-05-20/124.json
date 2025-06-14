@@ -1,0 +1,88 @@
+{
+  "query": "Hari apa sidang akan dilaksanakan oleh Ferdy Mohamad Firdaus",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-23T18:09:17.260334",
+    "scenario_id": 124,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119194",
+          "nama": "Ferdy Mohamad Firdaus",
+          "judul": "Pembangunan Aplikasi Sistem Absensi Face Recognition dan SMS Gateway di Lab. Komputer SMAN Cimanggung",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Hidayat, M.T.",
+            "Andri Heryandi, S.T., M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom"
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5214,
+      "completion_tokens": 215,
+      "total_tokens": 5429,
+      "latency_s": 10.334
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-13",
+          "hari": "Selasa",
+          "nim": "10119194",
+          "nama": "Ferdy Mohamad Firdaus",
+          "judul": "Pembangunan Aplikasi Sistem Absensi Face Recognition dan SMS Gateway di Lab. Komputer SMAN Cimanggung",
+          "waktu_mulai": "10:30",
+          "waktu_selesai": "11:45",
+          "ruang": "R6028",
+          "dosen": [
+            "Andri Heryandi, S.T., M.T.",
+            "Hidayat, M.T.",
+            "Anna Dara Andriana, S.Kom., M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9185,
+      "completion_tokens": 215,
+      "total_tokens": 9400,
+      "latency_s": 3.361
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 6.972999999999999,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

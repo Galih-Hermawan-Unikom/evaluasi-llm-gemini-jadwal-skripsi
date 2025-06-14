@@ -1,0 +1,88 @@
+{
+  "query": "Berapakan NIM dari Angga",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 1,
+    "timestamp": "2025-05-23T18:07:12.188868",
+    "scenario_id": 115,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-07",
+          "hari": "Rabu",
+          "nim": "10119123",
+          "nama": "Angga Cahya Abadi",
+          "judul": "Aplikasi Rekomendasi Makanan berdasarkan Komposisi Berat Badan Memanfaatkan Smart Scale berbasis Mobile",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Richi Dwi Agustia, M.Kom.",
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 5208,
+      "completion_tokens": 220,
+      "total_tokens": 5428,
+      "latency_s": 9.209
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-07",
+          "hari": "Rabu",
+          "nim": "10119123",
+          "nama": "Angga Cahya Abadi",
+          "judul": "Aplikasi Rekomendasi Makanan berdasarkan Komposisi Berat Badan Memanfaatkan Smart Scale berbasis Mobile",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6010",
+          "dosen": [
+            "Chrismikha Haryanto, S.Kom.,M.Kom.",
+            "Richi Dwi Agustia, M.Kom.",
+            "Rani Susanto, S.Kom, M.Kom."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 9179,
+      "completion_tokens": 220,
+      "total_tokens": 9399,
+      "latency_s": 6.399
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 2.8099999999999996,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

@@ -1,0 +1,29 @@
+Statistik Utama:
+Total prompt: 200
+Evaluasi berhasil: 200
+Model: gemini-2.0-flash
+Temperature: 0.0
+Rata-rata konsistensi: 81.98%
+Persen sukses TXT: 100.00%
+Persen sukses JSON: 100.00%
+Total records di respons TXT: 380
+Total records di respons JSON: 375
+
+Semua skenario berhasil diproses!
+
+=== Statistik Berdasarkan Kategori ===
+Kategori        Jumlah   % Berhasil Rata2 Konsistensi
+-------------------------------------------------------
+K-1             80       100.00%      91.33%
+K-2             14       100.00%      96.43%
+K-3             16       100.00%      90.62%
+K-4             29       100.00%      81.09%
+K-5             22       100.00%      40.91%
+K-6             39       100.00%      77.92%
+
+=== Statistik Berdasarkan Tipe Luaran ===
+Tipe            Jumlah   % Berhasil Rata2 Konsistensi
+-------------------------------------------------------
+schedule_rows   324      100.00%      89.04%
+lecturer_list   32       100.00%      67.01%
+aggregation     44       100.00%      40.91%

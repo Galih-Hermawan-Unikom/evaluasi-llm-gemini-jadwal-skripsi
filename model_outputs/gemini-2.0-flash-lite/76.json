@@ -1,0 +1,60 @@
+{
+  "query": "Berapa banyak mahasiswa yang seminar hari Rabu",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-27T20:07:03.979670",
+    "scenario_id": 76,
+    "category_id": "K-5"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 6
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 2809,
+      "completion_tokens": 33,
+      "total_tokens": 2842,
+      "latency_s": 0.931
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "aggregation",
+      "data": {
+        "count": 6
+      }
+    },
+    "metrics": {
+      "prompt_tokens": 4892,
+      "completion_tokens": 33,
+      "total_tokens": 4925,
+      "latency_s": 2.419
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 1.488,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

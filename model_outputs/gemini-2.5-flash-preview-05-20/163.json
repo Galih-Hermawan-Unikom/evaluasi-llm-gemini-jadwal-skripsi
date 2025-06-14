@@ -1,0 +1,82 @@
+{
+  "query": "Semua dosen yang menguji di ruang R6010 tanggal 13 Agustus 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-26T11:45:40.544751",
+    "scenario_id": 163,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Sri Nurhayati, S.Si., M.T.",
+        "Chrismikha Haryanto, S.Kom.,M.Kom.",
+        "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "Galih Hermawan, S.Kom, M.T.",
+        "Kania Evita Dewi, S.Pd., M.Si.",
+        "Irawan Afrianto, S.T., M.T.",
+        "Riani Lubis, S.T., M.T.",
+        "Tati Harihayati M., S.T., M.T.",
+        "Didit Andri Jatmiko, S.Kom., M.T.",
+        "Dedeng Hirawan, S.Kom., M.Kom",
+        "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "Sopian Alviana, S.Kom.,M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4816,
+      "completion_tokens": 234,
+      "total_tokens": 5050,
+      "latency_s": 7.616
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Chrismikha Haryanto, S.Kom.,M.Kom.",
+        "Sri Nurhayati, S.Si., M.T.",
+        "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "Kania Evita Dewi, S.Pd., M.Si.",
+        "Galih Hermawan, S.Kom, M.T.",
+        "Irawan Afrianto, S.T., M.T.",
+        "Tati Harihayati M., S.T., M.T.",
+        "Riani Lubis, S.T., M.T.",
+        "Dedeng Hirawan, S.Kom., M.Kom",
+        "Didit Andri Jatmiko, S.Kom., M.T.",
+        "Fakhrian Fadlia, S.Kom.M.Kom.",
+        "Sopian Alviana, S.Kom.,M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8817,
+      "completion_tokens": 234,
+      "total_tokens": 9051,
+      "latency_s": 2.515
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 5.100999999999999,
+    "records": {
+      "txt_count": 12,
+      "json_count": 12,
+      "count_match": true,
+      "common_count": 12,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

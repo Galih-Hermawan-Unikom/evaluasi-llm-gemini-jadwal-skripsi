@@ -1,0 +1,56 @@
+{
+  "query": "Mahasiswa yang diuji oleh Bu Dian tanggal 5 Januari 2024",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Seminar",
+    "semester": "Ganjil",
+    "pekan": 6,
+    "timestamp": "2025-05-26T11:41:47.322043",
+    "scenario_id": 67,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": []
+    },
+    "metrics": {
+      "prompt_tokens": 3050,
+      "completion_tokens": 25,
+      "total_tokens": 3075,
+      "latency_s": 3.47
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": []
+    },
+    "metrics": {
+      "prompt_tokens": 5149,
+      "completion_tokens": 25,
+      "total_tokens": 5174,
+      "latency_s": 4.415
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.9449999999999998,
+    "records": {
+      "txt_count": 0,
+      "json_count": 0,
+      "count_match": true,
+      "common_count": 0,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

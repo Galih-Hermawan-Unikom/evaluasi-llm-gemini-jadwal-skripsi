@@ -1,0 +1,78 @@
+{
+  "query": "Semua dosen yang menguji di hari Kamis ruang R6010",
+  "experiment_info": {
+    "model": "gemini-2.0-flash-lite",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Genap",
+    "pekan": 3,
+    "timestamp": "2025-05-27T20:20:19.552299",
+    "scenario_id": 166,
+    "category_id": "K-4"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Sri Nurhayati, S.Si., M.T.",
+        "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Angga Setiyadi, S.Kom., M.Kom",
+        "Eko Budi Setiawan, S.Kom., M.T.",
+        "Chrismikha Haryanto, S.Kom.,M.Kom."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4833,
+      "completion_tokens": 135,
+      "total_tokens": 4968,
+      "latency_s": 1.96
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Gentisya Tri Mardiani, S.Kom., M.Kom",
+        "Sri Nurhayati, S.Si., M.T.",
+        "Nelly Indriani W, S.Si., M.T.",
+        "Tati Harihayati M., S.T., M.T.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Angga Setiyadi, S.Kom., M.Kom",
+        "Dr. Ednawati Rainarli, S.Si., M.Si."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 8834,
+      "completion_tokens": 147,
+      "total_tokens": 8981,
+      "latency_s": 2.806
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.8460000000000001,
+    "records": {
+      "txt_count": 6,
+      "json_count": 7,
+      "count_match": false,
+      "common_count": 4,
+      "only_in_txt": [
+        "Chrismikha Haryanto, S.Kom.,M.Kom.",
+        "Eko Budi Setiawan, S.Kom., M.T."
+      ],
+      "only_in_json": [
+        "Dr. Ednawati Rainarli, S.Si., M.Si.",
+        "Richi Dwi Agustia, M.Kom.",
+        "Tati Harihayati M., S.T., M.T."
+      ],
+      "match_percentage": 44.44
+    }
+  }
+}

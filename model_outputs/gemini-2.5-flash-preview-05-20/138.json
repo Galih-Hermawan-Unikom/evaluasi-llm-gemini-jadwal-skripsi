@@ -1,0 +1,88 @@
+{
+  "query": "Sebutkan judul skripsi dari mahasiwa Muhammad Iqbal",
+  "experiment_info": {
+    "model": "gemini-2.5-flash-preview-05-20",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 2,
+    "timestamp": "2025-05-23T18:12:59.713229",
+    "scenario_id": 138,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119209",
+          "nama": "Muhammad Iqbal Rosyidin",
+          "judul": "Sistem Penjadwalan Proyek Perangkat Lunak di PT.Swamedia Informatika dengan Metode Agile",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4230,
+      "completion_tokens": 224,
+      "total_tokens": 4454,
+      "latency_s": 4.814
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "schedule_rows",
+      "data": [
+        {
+          "tanggal": "2024-02-21",
+          "hari": "Rabu",
+          "nim": "10119209",
+          "nama": "Muhammad Iqbal Rosyidin",
+          "judul": "Sistem Penjadwalan Proyek Perangkat Lunak di PT.Swamedia Informatika dengan Metode Agile",
+          "waktu_mulai": "08:00",
+          "waktu_selesai": "09:15",
+          "ruang": "R6028",
+          "dosen": [
+            "Gentisya Tri Mardiani, S.Kom., M.Kom",
+            "Fakhrian Fadlia, S.Kom.M.Kom.",
+            "Nelly Indriani W, S.Si., M.T."
+          ]
+        }
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 7328,
+      "completion_tokens": 224,
+      "total_tokens": 7552,
+      "latency_s": 3.88
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "json",
+    "speed_diff_s": 0.9340000000000002,
+    "records": {
+      "txt_count": 1,
+      "json_count": 1,
+      "count_match": true,
+      "common_count": 1,
+      "only_in_txt": [],
+      "only_in_json": [],
+      "match_percentage": 100.0
+    }
+  }
+}

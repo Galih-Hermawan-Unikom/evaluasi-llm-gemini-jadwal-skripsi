@@ -1,0 +1,63 @@
+{
+  "query": "Siapa saja dosen yang sidang bersama Pak Hidayat",
+  "experiment_info": {
+    "model": "gemini-2.0-flash",
+    "temperature": 0.0,
+    "kegiatan": "Sidang",
+    "semester": "Ganjil",
+    "pekan": 2,
+    "timestamp": "2025-05-27T22:04:33.433882",
+    "scenario_id": 134,
+    "category_id": "K-1"
+  },
+  "txt_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Andri Heryandi, S.T., M.T.",
+        "Hanhan Maulana, S.Kom., M.Kom"
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 4013,
+      "completion_tokens": 61,
+      "total_tokens": 4074,
+      "latency_s": 2.257
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "json_source": {
+    "success": true,
+    "result": {
+      "type": "lecturer_list",
+      "data": [
+        "Andri Heryandi, S.T., M.T."
+      ]
+    },
+    "metrics": {
+      "prompt_tokens": 7192,
+      "completion_tokens": 46,
+      "total_tokens": 7238,
+      "latency_s": 2.466
+    },
+    "valid_json": true,
+    "schema_issues": []
+  },
+  "comparison": {
+    "faster_source": "txt",
+    "speed_diff_s": 0.20900000000000007,
+    "records": {
+      "txt_count": 2,
+      "json_count": 1,
+      "count_match": false,
+      "common_count": 1,
+      "only_in_txt": [
+        "Hanhan Maulana, S.Kom., M.Kom"
+      ],
+      "only_in_json": [],
+      "match_percentage": 50.0
+    }
+  }
+}
