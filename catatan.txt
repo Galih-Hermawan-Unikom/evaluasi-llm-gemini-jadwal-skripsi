@@ -1,0 +1,5 @@
+pass makalah: Makalahku0341 -> Makalahku65181
+
+git add .
+git commit -m "Pesan commit"
+git push
