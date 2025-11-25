@@ -27,14 +27,35 @@ Repositori ini berisi data, skenario, dan hasil eksperimen pada riset evaluasi m
 
 - Seluruh data disusun untuk mendukung eksperimen replikasi dan evaluasi model ekstraksi LLM.
 - Struktur dan format file mengikuti standar internal riset agar mudah diproses secara batch.
+- **Ketersediaan Kode:** Saat ini repositori fokus pada penyajian dataset dan hasil evaluasi. Kode program (*source code*) yang digunakan untuk menjalankan eksperimen dan evaluasi sedang dalam tahap perapihan dan akan diunggah dalam waktu dekat.
+
+## Sitasi
+
+Jika Anda menggunakan data atau merujuk pada riset ini, silakan gunakan format sitasi berikut:
+
+```bibtex
+@article{Hermawan2025Evaluasi,
+  author       = {Hermawan, Galih and Rainarli, Ednawati},
+  title        = {Evaluasi Gemini Flash pada Ekstraksi Jadwal Skripsi Terstruktur dan Tidak Terstruktur},
+  journal      = {Jurnal Informatika: Jurnal Pengembangan IT},
+  volume       = {10},
+  number       = {4},
+  pages        = {1080--1091},
+  year         = {2025},
+  doi          = {10.30591/jpit.v10i4.9047},
+  url          = {https://ejournal.poltekharber.ac.id/index.php/informatika/article/view/9047},
+  issn         = {2477-5126},
+  note         = {Open Access, CC BY 4.0}
+}
+```
 
 ---
 
 **Tim Riset:** AkaBot Research Group  
-**Kontributor:** Galih Hermawan, Ednawati Rainarli  
+**Kontributor:** [Galih Hermawan](https://galih.eu), Ednawati Rainarli  
 Program Studi Teknik Informatika, Fakultas Teknik dan Ilmu Komputer  
 Universitas Komputer Indonesia
 
 **Email:** akabot.unikom@gmail.com
 
-_Last Updated: 2 Juni 2025_
+_Last Updated: 25 November 2025_
