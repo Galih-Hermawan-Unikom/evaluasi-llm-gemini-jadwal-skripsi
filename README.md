@@ -64,4 +64,6 @@ Universitas Komputer Indonesia
 
 **Email:** akabot.unikom@gmail.com
 
+**Youtube:** [https://youtu.be/LTHHgxHS9yY](https://youtu.be/LTHHgxHS9yY)
+
 _Last Updated: 15 Desember 2025_
