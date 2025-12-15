@@ -2,6 +2,12 @@
 
 Repositori ini berisi data, skenario, dan hasil eksperimen pada riset evaluasi model Large Language Model (LLM) untuk ekstraksi informasi jadwal seminar dan sidang skripsi dari data terstruktur dan tidak terstruktur.
 
+### Infografis Penelitian
+
+![Infografis LLM Jadwal Skripsi](infografis%20llm%20jadwal%20skripsi.png)
+
+*Gambar: Ringkasan visual alur eksperimen evaluasi LLM untuk ekstraksi jadwal skripsi*
+
 ## Struktur Folder
 
 | Folder            | Deskripsi Singkat                                                                                          |
@@ -58,4 +64,4 @@ Universitas Komputer Indonesia
 
 **Email:** akabot.unikom@gmail.com
 
-_Last Updated: 25 November 2025_
+_Last Updated: 15 Desember 2025_
