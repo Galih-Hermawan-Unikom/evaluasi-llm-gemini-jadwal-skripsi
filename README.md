@@ -1,3 +1,5 @@
+🌐 *Read this in [English](README.en.md)*
+
 # Riset Ekstraksi dan Evaluasi LLM Jadwal Skripsi
 
 Repositori ini berisi data, skenario, dan hasil eksperimen pada riset evaluasi model Large Language Model (LLM) untuk ekstraksi informasi jadwal seminar dan sidang skripsi dari data terstruktur dan tidak terstruktur.
